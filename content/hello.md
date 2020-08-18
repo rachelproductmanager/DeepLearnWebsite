@@ -29,8 +29,6 @@ A recent O’Reilly global survey on the [state of AI adoption in 2020](https://
 
 Which begs the question, what problems can AI help solve? What does creating “AI-powered” products or services actually mean? And how do companies successfully launch these products?
 
-![](/images/ai_bottlenecks.png)
-
 Source: [O'Reilly, AI Adoption in the Enterprise 2020 Report](https://www.oreilly.com/radar/ai-adoption-in-the-enterprise-2020/)
 
 ## **AI For Everyone**
