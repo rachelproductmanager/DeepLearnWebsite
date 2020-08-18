@@ -2,7 +2,7 @@
 categories = ["Product Management"]
 date = 2020-07-14T14:00:00Z
 description = ""
-image = ""
+image = "/images/piotr-makowski-27lh_0jxkyi-unsplash.jpg"
 tags = ["Product Management", "Strategy", "Vision", "Startups"]
 title = "Why strategy is key to building successful products"
 type = "post"
