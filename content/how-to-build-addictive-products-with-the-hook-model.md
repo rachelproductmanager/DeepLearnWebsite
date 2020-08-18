@@ -102,7 +102,7 @@ Bear in mind that: a) consumers have an abundance of choice on almost every fron
 
 Given these challenges, your product can’t just be marginally better. It must be at least ten times better than the incumbent’s to even stand a chance. Even then, it can be hard to carve out a sustainable business as incumbents will become aware of your incursion on their market and will eventually catch up, blurring the differentiation or USP you’ve worked so hard to define.
 
-> Ultimately, you should think of creating a habit forming product as a strategic imperative from day one and continuously ensure that it’s tightly integrated into the product’s design and your key success metrics.
+Ultimately, you should think of creating a habit forming product as a strategic imperative from day one and continuously ensure that it’s tightly integrated into the product’s design and your key success metrics.
 
 ## **The big takeaway**
 
