@@ -50,13 +50,14 @@ Enter the _Hook_ model. _Hooked_ shows us how some of the world’s greatest and
 
 The Hook Model explains the rationale behind the design of many successful habit-forming products and services we use daily. According to Nir Eyal, the Hook model is intended to be a practical tool made for entrepreneurs and innovators who aim to **use habits for good**.
 
+> **“The convergence of access, data, and speed is making the world a more habit-forming place. As companies combine their increased connectivity to consumers, with the ability to collect, mine, and process customer data at faster speeds, we are faced with a future where everything becomes potentially more habit forming.”** - Hooked by Nir Eyal
+
 But first, a few **key concepts** that underpin the Hook model and explain why it works:
 
 * “Companies increasingly find that **their economic value is a function of the strength of the habits they create**. In order to win the loyalty of their users and create a product that’s regularly used, **companies must learn not only what compels users to click but also what makes them tick”**.
 * “Habit-forming companies link their services to the **users’ daily routines and emotions**...The first-to-mind solution wins.”
 * ““The Hook Model describes an **experience** designed to **connect the user’s problem** to a **company’s product** frequently enough to form a **habit**”.
 * Habits are defined as **behaviors done with little or no conscious thought**.”
-* “The convergence of **access, data, and speed** is making the world a more habit-forming place. As companies combine their **increased connectivity to consumers**, with the ability to **collect, mine, and process customer data** at faster speeds, we are faced with a future where **everything becomes potentially more habit forming**.”
 * “Today, small start-up teams can **profoundly change behavior** by guiding users through a series of experiences called **hooks**. The **more often users run through these hooks, the more likely they are to form habits**.”
 * “This book teaches innovators how to build products to **help people do the things they already want to do but, for lack of a well designed solution, don’t do**. Hooked seeks to unleash the tremendous new powers innovators and entrepreneurs have to influence the everyday lives of billions of people.”
 * “When harnessed correctly, **technology can enhance lives through healthful behaviors that improve our relationships, make us smarter, and increase productivity**.”
