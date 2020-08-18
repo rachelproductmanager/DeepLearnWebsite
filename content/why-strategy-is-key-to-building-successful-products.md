@@ -23,7 +23,7 @@ But is strategy really that incompatible with agility and speed? Not if you look
 * stay focused on **short and medium term goals**, while laying out **a clear set of stepping-stones** that move the company toward its long-term aspiration.
 * **Build-in flexibility and anticipate disruption and change** by monitoring key trigger points and revisiting their long-term vision regularly which makes strategy development faster, more pragmatic and agile.
 
-> “Making the right choices in a truly dynamic environment often requires a future-back perspective...the most successful companies are ruthless about translating this future-back thinking into tangible, near- and medium-term actions that sustain pace.”
+> **“Making the right choices in a truly dynamic environment often requires a future-back perspective...the most successful companies are ruthless about translating this future-back thinking into tangible, near- and medium-term actions that sustain pace.”**
 >
 > _-_ [_Bain Consulting:_ _‘Is Strategy Dead in Tech? The Winners Don’t Think So’_](https://www.bain.com/insights/is-strategy-dead-in-tech-the-winners-dont-think-so/ "Bain Consulting Is Strategy Dead in Tech? The Winners Don't Think So")
 
@@ -128,7 +128,7 @@ Product management and business gurus have slightly different views on what stra
 * “A product strategy is a high-level plan describing what a business hopes to accomplish with its product, and how it plans to do so. This strategy should answer key questions such as who the product will serve (personas), how it will benefit those personas, and what are the company’s goals for the product throughout its lifecycle.” - [_Product Plan_](https://www.productplan.com/glossary/product-strategy/)
 * “Product strategy is about imagining the future of your product: What product will it become? Who will it benefit? How will it create value? It’s a high-level plan that helps you realise your vision or overarching goal. More specifically, the product strategy should describe who the product is for and why people would want to buy and to use it; what the product is and why it stands out; and what the business goals are and why it is worthwhile for your company to invest in it...” [_Roman Pilcher_](https://www.romanpichler.com/blog/elements-definition-product-strategy/)
 
-> “Be stubborn on vision but flexible on details.” – Jeff Bezos
+> **“Be stubborn on vision but flexible on details.”** – Jeff Bezos
 
 In sum, strategy is about figuring out the high level stuff and breaking it down into smaller, doable and measurable tasks you could kick off tomorrow to get to your goals:
 
