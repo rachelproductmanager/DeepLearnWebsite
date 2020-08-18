@@ -68,8 +68,8 @@ But first, a few **key concepts** that underpin the Hook model and explain why i
 
 * Triggers are the important spark that starts the engine. They come in two types: **external** and **internal**.
 * Habit-forming products start by **alerting users with external triggers** like an e-mail, a Website link, the app icon on a phone or notifications.
-* By cycling through successive hooks, users begin to **form associations with internal triggers**, which attach to existing behaviors and emotions (e.g. uncertainty, fear, anxiety, boredom).
-* When users start to **automatically cue their next behavior**, the new habit becomes part of their **everyday routine**.
+* By cycling through successive hooks, users begin to **form associations with internal triggers**, which attach to existing behaviours and emotions (e.g. uncertainty, fear, anxiety, boredom).
+* When users start to **automatically cue their next behaviour**, the new habit becomes part of their **everyday routine**.
 * Explore both external and internal triggers, in order to determine which triggers are **most effective for your specific product**.
 
 **2/ Action**
@@ -87,7 +87,7 @@ But first, a few **key concepts** that underpin the Hook model and explain why i
 * The investment phase increases the odds that the user will make another pass through the hook cycle in the future. The investment occurs when the user puts something into the product of service such as **time, data, effort, social capital, or money**.
 * The investment phase _isn’t_ about getting users to open their wallets. Rather, the investment implies an **action that improves the service for the next go-around**. Inviting friends, stating preferences, building virtual assets, and learning to use new features are all **investments users make to improve their experience**. These commitments can be leveraged to make the trigger more engaging, the action easier, and the reward more exciting with every pass through the Hook Model. Investments encourage users to cycle through successive hooks.
 
-For a great case study of [how Amazon’s Alexa uses the Hooked model](https://www.alphagamma.eu/entrepreneurship/hook-model-amazon-alexa/) to hook you (written by Nir Eyal), click on the above link.
+For a great case study of [how Amazon’s Alexa uses the Hooked model](https://www.alphagamma.eu/entrepreneurship/hook-model-amazon-alexa/) to hook you (by Nir Eyal), click on the above link.
 
 ## **What can the Hook model do for your business?**
 
