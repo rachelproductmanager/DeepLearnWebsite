@@ -5,7 +5,7 @@ description = "How to build an AI strategy based on Andrew Ng's AI Transformatio
 image = "/images/franck-v-zblw0fg8xu8-unsplash.jpg"
 tags = ["AI", " Machine Learning", "Artificial Intelligence", "Deep Learning"]
 title = "How AI can give your product superpowers"
-type = "post"
+type = "featured"
 
 +++
 “**Deep Learning is a superpower. With it you can make a computer see, synthesize novel art, translate languages, render a medical diagnosis, or build pieces of a car that can drive itself. If that isn’t a superpower, I don’t know what is.**” 
