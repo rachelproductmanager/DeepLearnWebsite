@@ -58,7 +58,7 @@ b) not knowing your competitive landscape - i.e. thinking you have no or very fe
 
 For a great explanation of product competitive analysis and how to undertake one, together with FREE and super handy market research templates, click [here](https://blog.hubspot.com/marketing/competitive-analysis-kit).
 
-### 2/ Not understanding your customers and their pain points
+#### 2/ Not understanding your customers and their pain points
 
 Steve Jobs famously said _“It’s really hard to design products by focus groups. A lot of times, people don’t know what they want until you show it to them”._ Some say [Jobs was right](https://www.helpscout.com/blog/why-steve-jobs-never-listened-to-his-customers/) and it’s true that slavishly following customer feedback can stifle innovation and confuse the creative process. But Jobs’ comment is sometimes misunderstood. While asking users/customers _what they want_ is probably not that helpful, diving into customers’ **goals, motivations, aspirations, barriers and frustrations** is.
 
