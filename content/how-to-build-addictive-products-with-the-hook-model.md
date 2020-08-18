@@ -62,7 +62,7 @@ But first, a few **key concepts** that underpin the Hook model and explain why i
 * “This book teaches innovators how to build products to **help people do the things they already want to do but, for lack of a well designed solution, don’t do**. Hooked seeks to unleash the tremendous new powers innovators and entrepreneurs have to influence the everyday lives of billions of people.”
 * “When harnessed correctly, **technology can enhance lives through healthful behaviors that improve our relationships, make us smarter, and increase productivity**.”
 
-## **The 4 steps of the Hook model**
+## **The 4 steps of the Hook Model**
 
 **1/ Trigger**
 
@@ -80,7 +80,7 @@ But first, a few **key concepts** that underpin the Hook model and explain why i
 **3/ Variable Reward**
 
 * The hook should create a **craving**, a **desire** that keeps users coming back for more. This is created through **variability** and **unpredictability** of rewards - one of the most powerful tools companies implement to hook users.
-* Introducing variability creates a **focused state**, which suppresses the areas of the brain associated with judgment and reason while activating the parts associated with **wanting and desire**. Variable rewards anticipation doesn’t just impact the initial onboarding but also influences **retention**.
+* Introducing variability creates a **focused state**, which suppresses the areas of the brain associated with judgment and reason while activating the parts associated with **wanting and desire**. Variable rewards anticipation doesn’t just impact the initial on-boarding but also influences **retention**.
 
 **4/ Investment**
 
