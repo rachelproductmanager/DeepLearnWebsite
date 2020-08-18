@@ -1,10 +1,10 @@
 +++
-categories = ["AI"]
+categories = ["AI Playbook", "Machine Learning", "AI"]
 date = 2020-08-17T14:00:00Z
 description = "test"
 draft = true
 image = "/images/franck-v-zblw0fg8xu8-unsplash.jpg"
-tags = []
+tags = ["AI", " Machine Learning", "Artificial Intelligence", "Deep Learning"]
 title = "hello "
 type = "post"
 
