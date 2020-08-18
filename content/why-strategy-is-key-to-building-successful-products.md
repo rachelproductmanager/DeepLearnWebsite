@@ -5,7 +5,7 @@ description = ""
 image = "/images/piotr-makowski-27lh_0jxkyi-unsplash.jpg"
 tags = ["Product Management", "Strategy", "Vision", "Startups"]
 title = "Why strategy is key to building successful products"
-type = "post"
+type = "featured"
 
 +++
 In the startup and tech world, some think that strategy is dead. Given markets’ speed, competition and dynamism today, what’s the point in debating a five year strategy if changes on the ground might make it all obsolete in 12 months time? After all, agility, speed and innovation ultimately trump any strategic plan on the way to high valuations, successful exits and millions of happy users, right?
