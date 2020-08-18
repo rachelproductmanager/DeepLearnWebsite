@@ -46,7 +46,7 @@ These may all valid ideas and goals that could deliver a great product that cust
 
 ## **Top 5 most common strategy mistakes**
 
-### 1/ Not doing proper market research
+#### 1/ Not doing proper market research
 
 This has two aspects:
 
