@@ -9,10 +9,6 @@ type = "featured"
 
 +++
 
-“**Deep Learning is a superpower. With it you can make a computer see, synthesize novel art, translate languages, render a medical diagnosis, or build pieces of a car that can drive itself. If that isn’t a superpower, I don’t know what is.**”
-
-_- Andrew Ng, Founder of deeplearning.ai and Coursera_
-
 ## **Rise of the machines**
 
 Artificial intelligence has become a popular marketing buzzword in recent years. AI is helping well established brands innovate in unprecedented ways and reach, engage, convert and retain customers through smart content curation, voice and image search, analytics, ad targeting, customer service chat bots, dynamic pricing and hyper personalisation.
@@ -30,6 +26,10 @@ Global brands leveraging machine learning to improve products, services and cust
 A recent O’Reilly global survey on the [state of AI adoption in 2020](https://www.oreilly.com/radar/ai-adoption-in-the-enterprise-2020/) found that **85%** of companies are shifting deployment from prototype to production and more than **50%** of global organisations identify themselves as mature AI adopters. Interestingly, almost **25%** of respondents identified lack of institutional support as the biggest obstacle to AI adoption. In other words, most companies are experimenting with AI (great!) but early adopters are still facing major challenges around understanding what AI can do for the business (often described as a solution seeking a problem challenge), how to run an AI project successfully and how to find the right skill sets and talent to launch and scale AI projects.
 
 Which begs the question, what problems can AI help solve? What does creating “AI-powered” products or services actually mean? And how do companies successfully launch these products?
+
+> “**Deep Learning is a superpower. With it you can make a computer see, synthesize novel art, translate languages, render a medical diagnosis, or build pieces of a car that can drive itself. If that isn’t a superpower, I don’t know what is.**”
+>
+> _- Andrew Ng, Founder of deeplearning.ai and Coursera_
 
 ## **AI For Everyone**
 
