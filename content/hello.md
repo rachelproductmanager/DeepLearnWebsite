@@ -1,5 +1,5 @@
 +++
-categories = ["AI Playbook", "Machine Learning", "AI"]
+categories = ["Artificial Intelligence"]
 date = 2020-08-17T14:00:00Z
 description = "test"
 draft = true
