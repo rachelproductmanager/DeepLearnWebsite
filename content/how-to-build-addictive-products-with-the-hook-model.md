@@ -8,7 +8,7 @@ title = "How to build addictive products with the Hook Model"
 type = "featured"
 
 +++
-‘[_Hooked_](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788)’ by Nir Eyal is a must read if you want to build a long lasting brand, organically grow customer engagement and achieve long term success for your product or business.
+‘[Hooked](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788)’ by Nir Eyal is a must read if you want to build a long lasting brand, organically grow customer engagement and achieve long term success for your product or business.
 
 Published in 2014, _Hooked_ is still relevant today - whether you’re a startup founder, product manager, entrepreneur or UX designer. The author, [Nir Eyal](https://www.nirandfar.com/), takes us behind the scenes and explores the big question - **how do successful companies create products that people can’t put down?**
 
