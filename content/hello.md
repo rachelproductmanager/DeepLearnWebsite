@@ -8,7 +8,8 @@ title = "How AI can give your product superpowers"
 type = "featured"
 
 +++
-“**Deep Learning is a superpower. With it you can make a computer see, synthesize novel art, translate languages, render a medical diagnosis, or build pieces of a car that can drive itself. If that isn’t a superpower, I don’t know what is.**” 
+
+“**Deep Learning is a superpower. With it you can make a computer see, synthesize novel art, translate languages, render a medical diagnosis, or build pieces of a car that can drive itself. If that isn’t a superpower, I don’t know what is.**”
 
 _- Andrew Ng, Founder of deeplearning.ai and Coursera_
 
@@ -108,7 +109,7 @@ Meanwhile, companies in that study that are **strategically scaling** AI report 
 
 It’s clear that to achieve AI success at scale and speed, it’s key for companies to do 3 things well:
 
- **1. Intentionally drive AI strategy** - successful AI companies have a clear 1-2 year AI strategic plan and **instil the right capabilities and mindset within the organisation**, regardless of the company’s size. This involves having a clear enterprise vision, accountability, metrics, and governance to break down silos.
+**1. Intentionally drive AI strategy** - successful AI companies have a clear 1-2 year AI strategic plan and **instil the right capabilities and mindset within the organisation**, regardless of the company’s size. This involves having a clear enterprise vision, accountability, metrics, and governance to break down silos.
 
 **2. Tune out “the noise” surrounding data** - recognise the importance of business-critical data and identify financial, marketing and consumer data as **priority domains**. If you are more adept at **structuring and managing data** you’ll be much more likely to wield a larger, more accurate data set which, in turn, will lead to better AI product performance.
 
