@@ -1,11 +1,11 @@
 +++
 categories = ["Artificial Intelligence"]
 date = 2020-08-17T14:00:00Z
-description = "test"
+description = "How to build an AI strategy based on Andrew Ng's AI Transformation Playbook"
 draft = true
 image = "/images/franck-v-zblw0fg8xu8-unsplash.jpg"
 tags = ["AI", " Machine Learning", "Artificial Intelligence", "Deep Learning"]
-title = "hello "
+title = "How AI can give your product superpowers"
 type = "post"
 
 +++
