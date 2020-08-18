@@ -8,9 +8,6 @@ title = "How AI can give your product superpowers"
 type = "featured"
 
 +++
-
-## **Rise of the machines**
-
 Artificial intelligence has become a popular marketing buzzword in recent years. AI is helping well established brands innovate in unprecedented ways and reach, engage, convert and retain customers through smart content curation, voice and image search, analytics, ad targeting, customer service chat bots, dynamic pricing and hyper personalisation.
 
 Global brands leveraging machine learning to improve products, services and customer interactions include:
