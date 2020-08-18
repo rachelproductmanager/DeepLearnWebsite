@@ -1,8 +1,8 @@
 +++
-categories = []
+categories = ["Product Management"]
 date = 2020-07-31T14:00:00Z
 description = ""
-image = ""
+image = "/images/neonbrand-z3kbg5xihjo-unsplash.jpg"
 tags = ["Product Management ", "Hooked", "Product Strategy", "Ecommerce"]
 title = "How to build addictive products with the Hook Model"
 type = "featured"
