@@ -8,7 +8,9 @@ title = "How AI can give your product superpowers"
 type = "post"
 
 +++
-“**Deep Learning is a superpower. With it you can make a computer see, synthesize novel art, translate languages, render a medical diagnosis, or build pieces of a car that can drive itself. If that isn’t a superpower, I don’t know what is.**” _- Andrew Ng, Founder of deeplearning.ai and Coursera_
+“**Deep Learning is a superpower. With it you can make a computer see, synthesize novel art, translate languages, render a medical diagnosis, or build pieces of a car that can drive itself. If that isn’t a superpower, I don’t know what is.**” 
+
+_- Andrew Ng, Founder of deeplearning.ai and Coursera_
 
 ## **Rise of the machines**
 
@@ -34,7 +36,7 @@ Full disclosure: having been a technology lawyer for years and then an e-commerc
 
 I found the course incredibly useful - it demystifies basic AI concepts for non-engineers, skilfully explains pretty complex ideas, helps you understand AI technologies and clarifies AI terminology (such as the difference between AI, machine learning and deep learning which are often used interchangeably). Andrew Ng also breaks down how AI projects are built and how to spot AI growth opportunities in your company. He shares a simple mental model for thinking about AI innovation and how it can be applied to solve problems in any industry. The course also gives a brief overview of AI ethical issues, how AI is impacting society and the challenges ahead in living through this technological change.
 
-> “AI (Artificial Intelligence) technology is now **poised to transform every industry**, just as electricity did 100 years ago. Between now and 2030, it will create an estimated $13 trillion of GDP growth. While it has already created tremendous value in leading technology companies such as Google, Baidu, Microsoft and Facebook, **much of the additional waves of value creation will go beyond the software sector**”
+> **“AI (Artificial Intelligence) technology is now poised to transform every industry, just as electricity did 100 years ago. Between now and 2030, it will create an estimated $13 trillion of GDP growth. While it has already created tremendous value in leading technology companies such as Google, Baidu, Microsoft and Facebook, much of the additional waves of value creation will go beyond the software sector**”
 >
 > _- Landing AI, The AI Transformation Playbook_
 
@@ -59,7 +61,7 @@ A true internet company also organises itself with digitally focused roles such 
 
 One of the most useful aspects of the AI For Everyone course is Andrew’s [AI Transformation Playbook](https://landing.ai/wp-content/uploads/2020/05/LandingAI_Transformation_Playbook_11-19.pdf) which explains in simple, practical terms how you can lead your company into the AI era. It’s important to understand that AI technologies aren’t just for companies like Google, Netflix and Amazon. As with the internet, everyone can - and should - make use of AI’s superpowers, no matter what sector you’re in.
 
-> “The important thing is to get the flywheel spinning so that your AI team can gain momentum.” - Andrew Ng
+> **“The important thing is to get the flywheel spinning so that your AI team can gain momentum.”** - _Andrew Ng_
 
 The 5 key steps in a successful AI transformation plan according to Andrew Ng’s **AI Transformation Playbook** (with some commentary of my own) are:
 
