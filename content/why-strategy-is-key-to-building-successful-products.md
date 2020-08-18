@@ -9,9 +9,6 @@ title = "Why strategy is key to building successful products"
 type = "post"
 
 +++
-**“Good product managers know the market, the product, the product line and the competition extremely well and operate from a strong basis of knowledge and confidence. A good product manager is the CEO of the product...They are responsible for right product/right time and all that entails. A good product manager knows the context going in (the company, our revenue funding, competition, etc.), and they take responsibility for devising and executing a winning plan (no excuses).”**
-
-_- “_[_Good Product Manager/Bad Product Manager_]()_” by Ben Horowitz_
 
 ## Strategy is not dead
 
@@ -142,6 +139,10 @@ In sum, strategy is about figuring out the high level stuff and breaking it down
 4. where you are **today** in relation to the ‘future state’ (_‘current state’_) - what’s the biggest issue/obstacle/challenge that’s holding us back or we think could be improved?
 5. What is **the first big challenge** you need to tackle on your way to your big goal + deadline you could set to test your hypothesis (e.g ‘we need to increase our website traffic by 100% month-on-month by September’ or ‘we need to get to 5K instagram followers by the end of this quarter’).
 6. What’s the **first smaller task** you or your team could/should tackle tomorrow to achieve your first big challenge?
+
+> **“Good product managers know the market, the product, the product line and the competition extremely well and operate from a strong basis of knowledge and confidence. A good product manager is the CEO of the product...They are responsible for right product/right time and all that entails. A good product manager knows the context going in (the company, our revenue funding, competition, etc.), and they take responsibility for devising and executing a winning plan (no excuses).”**
+>
+> _- “_[_Good Product Manager/Bad Product Manager_]()_” by Ben Horowitz_
 
 ## **Key takeaways**
 
