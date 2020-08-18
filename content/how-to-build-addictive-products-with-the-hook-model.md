@@ -64,8 +64,6 @@ But first, a few **key concepts** that underpin the Hook model and explain why i
 
 ## **The 4 steps of the Hook model**
 
-![Nir Eyal Hook Model diagram](/images/hook-model_productplan.png "the Hook Model")
-
 **1/ Trigger**
 
 * Triggers are the important spark that starts the engine. They come in two types: **external** and **internal**.
