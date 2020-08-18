@@ -44,10 +44,10 @@ Andrew Ng makes an interesting observation: simply bolting on or retrofitting ma
 
 Today, it’s common knowledge that a true internet company optimises for things that the internet does really well, such as:
 
-* using A/B testing to trial new website features/pages;
-* having short iteration times so it can release products and test the market fast;
-* making data-driven strategic decisions based on advanced analytics to analyse and improve digital metrics such as customer conversion, satisfaction, engagement and retention; and
-* using technology to deliver a better end-to-end customer experience (whether through AI-powered personalisation, customer service or content marketing, smart recommendations and behaviour predictions).
+1. using A/B testing to trial new website features/pages;
+2. having short iteration times so it can release products and test the market fast;
+3. making data-driven strategic decisions based on advanced analytics to analyse and improve digital metrics such as customer conversion, satisfaction, engagement and retention; and
+4. using technology to deliver a better end-to-end customer experience (whether through AI-powered personalisation, customer service or content marketing, smart recommendations and behaviour predictions).
 
 A true internet company also organises itself with digitally focused roles such as product managers, UX designers and software engineers, each with respective responsibilities and workflows that map back to digital goals and KPIs. Similarly, **for your company to become great at AI, you will have to organise your company to do the things that AI lets you do really well:**
 
