@@ -14,7 +14,7 @@ Published in 2014, _Hooked_ is still relevant today - whether you’re a startup
 
 We all know products (apps, websites, platforms, physical products) that keep us coming back for more. We use them daily, turn to them intuitively and instinctively, recommend them to friends and continue to use them over and over again. Whether it’s [Twitter](https://twitter.com/search-home), [UberEats](https://www.ubereats.com/), [Headspace](https://www.headspace.com/), [Instagram](https://www.instagram.com/), [Tinder](https://tinder.com/?lang=en), [YouTube](https://www.youtube.com/) or your [iPhone](https://www.apple.com/iphone/), there’s a common thread that runs through all addictive, habitual products, and - it turns out - it’s all closely tied into user psychology and behavioural design.
 
-## **COVID changed the way we internet**
+## **COVID-19 changed the way we internet**
 
 According to the [World Economic Forum](https://www.weforum.org/agenda/2020/04/10-technology-trends-coronavirus-covid19-pandemic-robotics-telehealth/) (WEF), **The COVID-19 pandemic has accelerated 10 key technology trends**, including online shopping, digital payments, telehealth and robotics. These technologies can help reduce the spread of the coronavirus while helping businesses stay open. The WEF concludes that **technology can help make society more resilient in the face of pandemic and other threats**. 
 
