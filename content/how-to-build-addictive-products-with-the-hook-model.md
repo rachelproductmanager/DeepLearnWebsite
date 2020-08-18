@@ -16,9 +16,11 @@ We all know products (apps, websites, platforms, physical products) that keep us
 
 ## **COVID changed the way we internet**
 
-According to the [World Economic Forum](https://www.weforum.org/agenda/2020/04/10-technology-trends-coronavirus-covid19-pandemic-robotics-telehealth/) (WEF), **The COVID-19 pandemic has accelerated 10 key technology trends**, including online shopping, digital payments, telehealth and robotics. These technologies can help reduce the spread of the coronavirus while helping businesses stay open. The WEF concludes that **technology can help make society more resilient in the face of pandemic and other threats**. According to the WEF:
+According to the [World Economic Forum](https://www.weforum.org/agenda/2020/04/10-technology-trends-coronavirus-covid19-pandemic-robotics-telehealth/) (WEF), **The COVID-19 pandemic has accelerated 10 key technology trends**, including online shopping, digital payments, telehealth and robotics. These technologies can help reduce the spread of the coronavirus while helping businesses stay open. The WEF concludes that **technology can help make society more resilient in the face of pandemic and other threats**. 
 
 > “_During the COVID-19 pandemic, technologies are playing a crucial role in keeping our society functional in a time of lockdowns and quarantines. And these technologies may have a long-lasting impact beyond COVID-19_.”
+>
+> \- World Economic Forum
 
 The current global pandemic has highlighted the vital importance of digital products in our lives. No matter where you are in the world, we’ve all come to heavily depend on [Zoom](https://zoom.us/), [Spotify](https://www.spotify.com/), [Netflix](https://www.netflix.com/) and many more apps and platforms which are getting us through these challenging times. Technology is helping us work, learn, relax, communicate, seek medical advice and stay informed and entertained.
 
