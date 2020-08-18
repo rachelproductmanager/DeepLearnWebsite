@@ -78,7 +78,7 @@ Steve Jobs famously said _“It’s really hard to design products by focus grou
 * Is this a problem for many users or are we targeting a limited niche market?
 * How does our product address these pain points? Does it only marginally improve on the competition or offer something that is at least ten times better?
 
-### 3/ Not having a clear vision to guide your strategy
+#### 3/ Not having a clear vision to guide your strategy
 
 Once you thoroughly understand your market, competitors and users and can articulate your Unique Selling Point or value proposition, it’s time to define your vision! The trouble is vision is commonly misunderstood and poorly articulated. Everything flows from your vision - the strategy, KPIs/metrics, features and even team structure. When your vision isn’t crystal clear, this has a knock-on effect on everything else.
 
@@ -97,7 +97,7 @@ Source:
 * [Roman Pilcher’s Product Vision Board](https://www.romanpichler.com/tools/product-vision-board/) is a handy tool for crafting your vision.
 * [10 tips for product owners on product vision](https://medium.com/the-value-maximizers/10-tips-for-product-owners-on-the-product-vision-7e033bde6b09) includes a few great pointers and a helpful template:
 
-### 4/ Not executing or deviating too far from your strategy or vision
+#### 4/ Not executing your strategy 
 
 There’s no point having a brilliant strategy if you’re not going to execute it or if you’re going to work on products or features that don’t align with it or the brand’s or product’s overarching vision. Companies sometimes get sidetracked by launching fun, trendy features or cool products when those aren’t consistent with the vision, don’t really follow the strategy or contribute to a better product only to end up shutting down products. Sometimes, that approach can succeed but many times these products flop and end up in the app graveyard like when Microsoft killed off [Microsoft Band](https://www.theverge.com/2019/3/1/18246794/microsoft-band-refunds-apps-services-end-of-support-may-fitness-tracker) last year, a wearable fitness device, after it failed to impress users, **Dropbox** has shut down its photo-sharing product [Carousel](https://blog.dropbox.com/topics/company/saying-goodbye-to-carousel-and-mailbox), **Facebook** has shut down [Messenger](https://www.businessinsider.com/facebook-shuts-down-messenger-on-mobile-web-2016-6?r=AU&IR=T) on web to secure its dominance in mobile messaging apps and **Google** shut down [Google+](https://www.businessinsider.com.au/google-plus-early-shut-down-second-data-breach-2018-12), its social network, in 2019 due to low engagement and significant bugs and [Allo](https://blog.google/products/messages/latest-messages-allo-duo-and-hangouts/), a messaging app replaced by ‘Messages’ their new messaging app for Android phones.
 
@@ -106,7 +106,7 @@ There’s no point having a brilliant strategy if you’re not going to execute 
 * Continuously check in with your strategy and vision and ask yourself if it all makes sense. Getting it wrong can be costly and distracting.
 * Run small experiments in parallel and - importantly - make sure you validate them with **data and user feedback** before investing in them further.
 
-### 5/ Blindly executing the strategy no matter what
+#### 5/ Blindly executing the strategy no matter what
 
 “As with most things in life, particularly in business, strategies are rarely set in stone. Your product vision statement should be aspirational and high-level enough that it remains steady on the long term. However, product managers should **be prepared to revise it** (and even course-correct **pivot**) if necessary. Strategic goals, business objectives, and KPIs, are generally also aspirational. But by nature, **they will need adjustments, revisions, and resets in time**.” (From [Product Strategy Roadmap](https://www.productplan.com/books/product-strategy-roadmap/), ProductPlan).
 
