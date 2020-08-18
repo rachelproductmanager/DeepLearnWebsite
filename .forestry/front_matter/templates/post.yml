@@ -28,3 +28,4 @@ fields:
   description: 'type: post or featured'
 pages:
 - content/hello.md
+- content/how-to-build-addictive-products-with-the-hook-model.md
