@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["AI"]
 date = 2020-08-17T14:00:00Z
 description = "test"
 draft = true
