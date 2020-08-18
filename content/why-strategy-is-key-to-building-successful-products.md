@@ -8,9 +8,6 @@ title = "Why strategy is key to building successful products"
 type = "post"
 
 +++
-
-## Strategy is not dead
-
 In the startup and tech world, some think that strategy is dead. Given markets’ speed, competition and dynamism today, what’s the point in debating a five year strategy if changes on the ground might make it all obsolete in 12 months time? After all, agility, speed and innovation ultimately trump any strategic plan on the way to high valuations, successful exits and millions of happy users, right?
 
 But is strategy really that incompatible with agility and speed? Not if you look at some of the world’s most successful tech players. While companies like **Amazon**, **Alphabet**, **Apple**, **Facebook** or **Tesla** might not label what they do a formal “strategy”, their remarkable success is very much due to tried and tested principles of strategy development, with a few modern tweaks. They:
