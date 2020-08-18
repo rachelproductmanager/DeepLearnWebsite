@@ -28,8 +28,6 @@ A recent O’Reilly global survey on the [state of AI adoption in 2020](https://
 
 Which begs the question, what problems can AI help solve? What does creating “AI-powered” products or services actually mean? And how do companies successfully launch these products?
 
-Source: [O'Reilly, AI Adoption in the Enterprise 2020 Report](https://www.oreilly.com/radar/ai-adoption-in-the-enterprise-2020/)
-
 ## **AI For Everyone**
 
 Full disclosure: having been a technology lawyer for years and then an e-commerce entrepreneur, I’ve crossed paths with artificial intelligence and machine learning along the way. I’ve always found it fascinating but never quite had the opportunity to take a deeper dive into these technologies. I recently decided to brave the “[AI For Everyone](https://www.coursera.org/learn/ai-for-everyone)” course - an online course on Coursera taught by AI guru, Dr. Andrew Ng, a world-renowned AI technology leader, founding lead of Google Brain, co-founder of Coursera and a prominent AI educator.
