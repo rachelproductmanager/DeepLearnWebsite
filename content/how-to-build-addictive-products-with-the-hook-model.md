@@ -48,7 +48,7 @@ The trouble is these metrics are quite superficial - they don’t really tell yo
 
 Enter the _Hook_ model. _Hooked_ shows us how some of the world’s greatest and most successful companies have managed to **create products that connect with people and help improve their worlds on many different fronts**.
 
-> The Hook Model explains the rationale behind the design of many successful habit-forming products and services we use daily. According to Nir Eyal, the Hook model is intended to be a practical tool made for entrepreneurs and innovators who aim to use habits for good.
+The Hook Model explains the rationale behind the design of many successful habit-forming products and services we use daily. According to Nir Eyal, the Hook model is intended to be a practical tool made for entrepreneurs and innovators who aim to use habits for good.
 
 But first, a few **key concepts** that underpin the Hook model and explain why it works:
 
