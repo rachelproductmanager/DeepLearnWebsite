@@ -1,7 +1,7 @@
 ---
 title: About
 date: 2020-08-18T08:46:10+00:00
-description: This is meta description
+description: About page
 image: images/author.jpg
 
 ---
