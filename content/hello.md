@@ -94,9 +94,9 @@ The 5 key steps in a successful AI transformation plan according to Andrew Ng’
 
 Communicating with the outside world and within your company about your AI strategy, AI product and AI vision is key - think about your messaging and positioning to investors, government relationships, the press, customers/users, partners and talent/recruitment.
 
-> “ AI will likely bring significant benefits to your customers, so make sure the appropriate marketing and product roadmap messages are disseminated.”
-
-\- _AI Transformation Playbook, How to Lead Your Company Into the AI Era by Andrew Ng_
+> “ **AI will likely bring significant benefits to your customers, so make sure the appropriate marketing and product roadmap messages are disseminated.**”
+>
+> \- _AI Transformation Playbook, How to Lead Your Company Into the AI Era by Andrew Ng_
 
 ## **Strategic scaling**
 
