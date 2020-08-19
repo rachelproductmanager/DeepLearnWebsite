@@ -27,6 +27,6 @@ fields:
   default: post
   description: 'type: post or featured'
 pages:
-- content/hello.md
+- content/How_AI_can_give_product_superpowers.md
 - content/how-to-build-addictive-products-with-the-hook-model.md
 - content/why-strategy-is-key-to-building-successful-products.md
