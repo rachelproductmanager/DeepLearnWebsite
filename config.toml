@@ -3,7 +3,7 @@ languageCode = "en-us"
 paginate = 6
 summaryLength = "10"
 theme = "parsa"
-title = "Hugo Parsa Forestry Starter"
+title = "DeepLearn"
 [[menu.main]]
 URL = "about"
 name = "About"
