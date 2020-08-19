@@ -64,12 +64,6 @@ link = "plugins/search/mark.js"
 link = "plugins/search/search.js"
 [[params.social]]
 URL = "#"
-icon = "ti-facebook"
-[[params.social]]
-URL = "#"
-icon = "ti-twitter-alt"
-[[params.social]]
-URL = "#"
 icon = "ti-linkedin"
 [[params.social]]
 URL = "#"
