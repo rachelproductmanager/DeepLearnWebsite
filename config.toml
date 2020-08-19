@@ -63,7 +63,7 @@ link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
 [[params.social]]
-URL = "#"
+URL = "https://www.linkedin.com/in/rachel-dulberg/"
 icon = "ti-linkedin"
 [[params.social]]
 URL = "#"
