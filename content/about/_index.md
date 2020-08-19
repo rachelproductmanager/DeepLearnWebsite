@@ -3,6 +3,10 @@ title: About
 date: 2020-08-18T08:46:10.000+00:00
 description: About page
 image: images/author.jpg
+menu:
+  main:
+    URL: about
+    weight: 1
 
 ---
 Welcome to the DeepLearn: blog.

@@ -4,14 +4,6 @@ paginate = 6
 summaryLength = "10"
 theme = "parsa"
 title = "DeepLearn"
-[[menu.main]]
-URL = "about"
-name = "About"
-weight = 2
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
