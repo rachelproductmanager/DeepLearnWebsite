@@ -36,7 +36,7 @@ The business buzz around machine learning (ML) has been steadily growing since t
 
 [The 2019 MIT Sloane-BCG Artificial Intelligence Global Executive Study](https://sloanreview.mit.edu/projects/winning-with-ai/) shows that **40%** of organisations making significant investments in AI do not report business gains from AI. Many AI initiatives fail.
 
-_“The crux is that while some companies have clearly figured out how to be successful, most companies have a hard time generating value with AI. As a result, many executives find themselves facing a set of AI realities: AI is a source of untapped opportunity, it is an existential risk, and it is difficult. Above all, it is an urgent issue to address.”_ _- 2019 MIT Sloane-BCG AI Global Executive Report_
+> _“The crux is that while some companies have clearly figured out how to be successful, most companies have a hard time generating value with AI. As a result, many executives find themselves facing a set of AI realities: AI is a source of untapped opportunity, it is an existential risk, and it is difficult. Above all, it is an urgent issue to address.”_ _- 2019 MIT Sloane-BCG AI Global Executive Report_
 
 A growing number of leaders say AI is not just an opportunity but also a **strategic risk**: “What if competitors, particularly unencumbered new entrants, figure out AI before we do?” In 2019, **45% perceived some risk from AI**, up from an already substantial 37% in 2017. This shift suggests an **increasing awareness of and concern with competitors’ use of AI**. The challenges are also with **large-scale implementation and deployment** of AI, which are necessary to achieve value.
 
