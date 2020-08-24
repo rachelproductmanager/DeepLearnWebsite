@@ -112,7 +112,7 @@ So how do companies like Amazon, LinkedIn, Google and Apple launch successful AI
 5. **Adopt Agile ways of working** - AI projects are closer to R&D in nature. Get working with data for prototyping and testing, involve UX designers early, focus on feature engineering, get Version 1 out as soon as possible as 80% of the work will happen once the product is live, feed back new training data and monitor for continuous improvement.
 6. **Traditional testing will break** in the AI context. The “data flywheel” principle (aka the virtuous cycle of AI) means that more users get you more data which lets you build better algorithms and ultimately a better product to get more users. Rinse & repeat). Get a core version of the product to work and test progression. You’ll need real production data from real users to improve. This will also highlight what input data needs to be adjusted and what prediction errors emerge in real time.
 
-**Take a leap of faith**
+## **Take a leap of faith**
 
 AI clearly has the potential to fundamentally disrupt your market, create innovative new products and services and erect entirely new business models. It will surpass the creative destruction of the first digitisation wave of the past decade. Some of the market leaders in the next decade years’ time may be companies you’ve never heard of. Some of today’s biggest names could become irrelevant or disappear altogether after a slow painful decline, if they’re too late or too slow to the game.
 
@@ -125,7 +125,7 @@ Think about:
 
 Get it right and, in Bezos’ words, it’ll always be Day One.
 
-**More reading**
+## **More reading**
 
 [What You Need to Know About Product Management for AI](https://www.oreilly.com/radar/what-you-need-to-know-about-product-management-for-ai/), O'Reilly article by Peter Skomoroch & Mike Loukides
 
