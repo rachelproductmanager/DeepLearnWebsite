@@ -44,8 +44,9 @@ A growing number of leaders say AI is not just an opportunity but also a strateg
 
 The bottom line is that it seems - outside of Big Tech - two things are widely misunderstood:
 
-1. What are AI’s **capabilities** and **value creation potential**.
-2. How to **successfully productise AI**.
+1/ What are AI’s **capabilities** and **value creation potential**.
+
+2/ How to **successfully productise AI**.
 
 ## **“I know it’s there; I just don’t know how to take advantage of it”**
 
