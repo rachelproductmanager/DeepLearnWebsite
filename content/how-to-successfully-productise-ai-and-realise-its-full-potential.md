@@ -42,7 +42,7 @@ The business buzz around machine learning (ML) has been steadily growing since t
 
 A growing number of leaders say AI is not just an opportunity but also a strategic risk: “What if competitors, particularly unencumbered new entrants, figure out AI before we do?” In 2019, 45% perceived some risk from AI, up from an already substantial 37% in 2017. This shift suggests an increasing awareness of and concern with competitors’ use of AI. The challenges are also with large-scale implementation and deployment of AI, which are necessary to achieve value.
 
-It seems that - outside of Big Tech - two things are widely misunderstood:
+The bottom line is that it seems - outside of Big Tech - two things are widely misunderstood:
 
 1. What are AI’s **capabilities** and **value creation potential**.
 2. How to **successfully productise AI**.
