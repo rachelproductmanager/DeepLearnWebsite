@@ -2,7 +2,7 @@
 categories = ["Artificial Intelligence"]
 date = 2020-08-23T14:00:00Z
 description = "Why some companies are slow to adopt AI while others are way ahead in the AI disruption game"
-image = ""
+image = "/images/jan-antonin-kolar-bifcxin5rdy-unsplash.jpg"
 tags = ["AI", "Strategy", "Product Management"]
 title = "How to successfully productise AI and realise its full potential"
 type = "featured"
