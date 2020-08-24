@@ -103,8 +103,8 @@ Thirdly, if you’re working on an AI **research** project, there is **no produc
 > “With machine learning, we often get a system that is _statistically_ more accurate than simpler techniques, but with the tradeoff that **some small percentage of model predictions will always be incorrect**, sometimes in ways that are hard to understand. **This shift requires a fundamental change in your software engineering practice**. The same neural network code trained with seemingly similar datasets of input and output pairs can give entirely different results. The model outputs produced by the same code will vary with changes to things like the **size of the training data** (number of labeled examples), **network training parameters**, and **training run time**. This has serious implications for software testing, versioning, deployment, and other core development processes.”
 >
 > \- [_What you need to know about product management for AI_](https://www.oreilly.com/radar/what-you-need-to-know-about-product-management-for-ai/)
->
-> ## **The AI skillset**
+
+## **The AI skillset**
 
 So how do companies like Amazon, LinkedIn, Google and Apple launch successful AI products? [Peter Skomoroch](https://www.youtube.com/watch?v=iMaqGHkUKgI), Head of Data Products at Workday and previously a LinkedIn Research Scientist has a few valuable insights into the AI product pipeline:
 
