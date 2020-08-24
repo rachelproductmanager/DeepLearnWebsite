@@ -115,12 +115,12 @@ Thirdly, if you’re working on an AI **research** project, there is **no produc
 
 So how do companies like Amazon, LinkedIn, Google and Apple launch successful AI products? [Peter Skomoroch](https://www.youtube.com/watch?v=iMaqGHkUKgI), Head of Data Products at Workday and previously a LinkedIn Research Scientist has a few valuable insights into the AI product pipeline:
 
-1. Have a good intuition for **how ML models work and what’s possible with the data you have**. It’s imperative to know what’s easy, hard and impossible to do with AI technologies and how long the product would take to build.
-2. Even if a product is feasible, you’ll need to determine whether there’s a **product/market fit,** i.e. **would your AI product solve a real user problem** and **will the value justify the effort and cost?** The payoff will need to match the investment. Overpromising on something that doesn’t show good or meaningful ROI can undermine the team.
-3. Start with a **mission** & near term **strategic objectives** - take data science ideas and line them up thematically; estimate T-shirt size (S/M/L) effort and do the same for impact. Work on things that matter to the business and pair applications to those objectives - for example, ML metrics such as accuracy could have an impact on business metrics so find an AI application that ties directly into business metrics.
-4. Be **metrics and data driven** - you’ll need to help gather the right data, know your data inside out, understand its quality, limitations and biases and be prepared to monitor your models, iterate and improve them continuously. Build a system that collects data accurately from day one.
-5. **Adopt Agile ways of working** - AI projects are closer to R&D in nature. Get working with data for prototyping and testing, involve UX designers early, focus on feature engineering, get Version 1 out as soon as possible as 80% of the work will happen once the product is live, feed back new training data and monitor for continuous improvement.
-6. **Traditional testing will break** in the AI context. The “data flywheel” principle (aka the virtuous cycle of AI) means that more users get you more data which lets you build better algorithms and ultimately a better product to get more users. Rinse & repeat). Get a core version of the product to work and test progression. You’ll need real production data from real users to improve. This will also highlight what input data needs to be adjusted and what prediction errors emerge in real time.
+1. **1/** Have a good intuition for **how ML models work and what’s possible with the data you have**. It’s imperative to know what’s easy, hard and impossible to do with AI technologies and how long the product would take to build.
+2. **2/** Even if a product is feasible, you’ll need to determine whether there’s a **product/market fit,** i.e. **would your AI product solve a real user problem** and **will the value justify the effort and cost?** The payoff will need to match the investment. Overpromising on something that doesn’t show good or meaningful ROI can undermine the team.
+3. **3/** Start with a **mission** & near term **strategic objectives** - take data science ideas and line them up thematically; estimate T-shirt size (S/M/L) effort and do the same for impact. Work on things that matter to the business and pair applications to those objectives - for example, ML metrics such as accuracy could have an impact on business metrics so find an AI application that ties directly into business metrics.
+4. **4/** Be **metrics and data driven** - you’ll need to help gather the right data, know your data inside out, understand its quality, limitations and biases and be prepared to monitor your models, iterate and improve them continuously. Build a system that collects data accurately from day one.
+5. **5/ Adopt Agile ways of working** - AI projects are closer to R&D in nature. Get working with data for prototyping and testing, involve UX designers early, focus on feature engineering, get Version 1 out as soon as possible as 80% of the work will happen once the product is live, feed back new training data and monitor for continuous improvement.
+6. **6/ Traditional testing will break** in the AI context. The “data flywheel” principle (aka the virtuous cycle of AI) means that more users get you more data which lets you build better algorithms and ultimately a better product to get more users. Rinse & repeat). Get a core version of the product to work and test progression. You’ll need real production data from real users to improve. This will also highlight what input data needs to be adjusted and what prediction errors emerge in real time.
 
 ## **Take a leap of faith**
 
@@ -129,11 +129,17 @@ AI clearly has the potential to fundamentally disrupt your market, create innova
 Think about:
 
 * How vulnerable your business model might be to AI disruption;
+
+
 * What are the game-changing openings within your market and how can you take advantage;
+
+
 * Could you do things that have never been done before, rather than simply automating or accelerating existing capabilities;
+
+
 * Do you have the right talent, data and technology to execute on AI opportunities.
 
-Get it right and, in Bezos’ words, it’ll always be Day One.
+Get it right and, in Jeff Bezos’ words, it’ll always be Day One.
 
 ## **More reading**
 
