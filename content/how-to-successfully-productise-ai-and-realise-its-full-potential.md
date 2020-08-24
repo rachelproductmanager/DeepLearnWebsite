@@ -74,9 +74,9 @@ AI is applicable across all elements of the value chain. But there are still gap
 
 ## **Productising AI is difficult**
 
-AI products are automated systems that **collect and learn from data** to make user-facing **decisions or predictions**. ML technology (a subset of AI) - which underlies many AI products today - uses statistical techniques to give computer systems the ability to “learn” by being trained on existing data. After training, the system makes predictions based on new data which it hasn’t seen before.
+AI products are automated systems that collect and learn from data to make user-facing decisions or predictions. ML technology (a subset of AI) - which underlies many AI products today - uses statistical techniques to give computer systems the ability to “learn” by being trained on existing data. After training, the system makes predictions based on new data which it hasn’t seen before.
 
-In the best case scenario, the trained neural network accurately produces the correct output even when presented with new input data the model didn’t see during training. For machine learning systems used in consumer internet companies, models are often **continuously retrained** many times a day using billions of entirely new input-output pairs. LinkedIn’s personalised job ads, Netflix’s content suggestions, Amazon’s shopping recommendations and Google’s search results are all AI products.
+In the best case scenario, the trained neural network accurately produces the correct output even when presented with new input data the model didn’t see during training. For machine learning systems used in consumer internet companies, models are often continuously retrained many times a day using billions of entirely new input-output pairs. LinkedIn’s personalised job ads, Netflix’s content suggestions, Amazon’s shopping recommendations and Google’s search results are all AI products.
 
 AI projects can be complex and challenging due to certain AI idiosyncrasies:
 
