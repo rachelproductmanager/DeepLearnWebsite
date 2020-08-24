@@ -60,7 +60,7 @@ As [Google](https://services.google.com/fh/files/misc/ai_adoption_framework_whit
 >
 > \- _Google Cloud’s AI Adoption Framework_
 
-[A recent MIT & Google Cloud survey](https://lp.google-mkto.com/rs/248-TPC-286/images/MIT_TechReview_MachineLearning.pdf) shows that ML adoption results in **2x more data-driven decisions, 5x faster decision-making, and 3x faster execution**. Enterprises that invest in building **industry-specific AI solutions** are proven to be better positioned as future global economic leaders. By 2030, companies that **fully** absorb AI could **double their cash flow.**
+[A recent MIT & Google Cloud survey](https://lp.google-mkto.com/rs/248-TPC-286/images/MIT_TechReview_MachineLearning.pdf) shows that ML adoption results in 2x more data-driven decisions, 5x faster decision-making, and 3x faster execution. Enterprises that invest in building industry-specific AI solutions are proven to be better positioned as future global economic leaders. By 2030, companies that fully absorb AI could double their cash flow.
 
 > “Machine learning is basically a way for a computer to **find the nuggets of information that a human can’t**. Once you have your data and train and deploy your models, the machine can go through terabytes of data and get smarter and smarter—basically train itself—and ultimately make predictions for you.”
 >
