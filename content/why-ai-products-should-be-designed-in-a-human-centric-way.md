@@ -104,6 +104,8 @@ _Source: Google People + AI Guidebook_
   
 **EXAMPLE 2**
 
+**Acknowledge errors & offer a forward path:**
+
 ![](https://lh6.googleusercontent.com/nE2c0GHZ9bMAGPyxJHWykzFdjtZca05nenS6ly-0upSiNhR-y3u6LTuELCiuXpCcP-NOhjU9tIFYZ3aydqGdt6qhLPpD3USybxez1xh2g5tyDrXFVeFlRWZPRMhKxp_0bvyqMkN0 =445x455)
 
 _Source: Google People + AI Guidebook_
