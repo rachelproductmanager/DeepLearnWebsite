@@ -84,10 +84,10 @@ AI is useful when you want to **make different recommendations to different user
 
 **7/ Prepare users' mental models and help them understand how to train the system** - set expectations for what a product can and can’t do, what kind of value people can expect to get from it, how it may change and how to improve it. It’s important to account for user expectations of human-like interaction & help users calibrate their trust - people are more likely to have unachievable expectations for products that they assume have human-like capabilities. It’s important to communicate the algorithmic nature and limits of these products to set realistic user expectations and avoid unintended deception. Because AI products are based on statistics and probability, the user shouldn’t trust the system completely. Incorporate system explanations so the user knows when to trust the system’s predictions and when to apply their own judgement.
 
-  
+####   
 **EXAMPLE 1**
 
-**Explain the benefits. Not the technology:**
+##### **Explain the benefits. Not the technology:**
 
 ![AI product onboarding example](https://lh5.googleusercontent.com/CNSkNxS6GLaSGpLLqq1JculinIQ3F0EJTngog-DhAWiTPMMmAJS56RkHuwBVRMYNsXgRL3xsj866ifS0vMJSXQyYtSwhClO7rFX33wrABho3xmnghSd2vcRuFSGIgXUuxLz45yVp "Google People & AI Guidebook Example" =505x498)
 
@@ -100,10 +100,10 @@ _Source: Google People + AI Guidebook_
 
 **10/ Think about potential errors and paths forward** - With AI systems, errors can come from many places, be harder to identify, and appear to the user and to system creators in non-intuitive ways.As users interact with your product, they’ll test it in ways you can’t foresee during the development process. Misunderstandings, false starts, and impropriety will happen, so designing for these cases is a core component of any user-centered product. Errors are also opportunities. They can support faster learning by experimentation, help establish correct mental models, and encourage users to provide feedback. Creating paths for users to take action in response to the errors they encounter encourages patience with the system, keeps the user-AI relationship going, and supports a better overall experience.
 
-  
+####   
 **EXAMPLE 2**
 
-**Acknowledge errors & offer a forward path:**
+##### **Acknowledge errors & offer a forward path:**
 
 ![](https://lh6.googleusercontent.com/nE2c0GHZ9bMAGPyxJHWykzFdjtZca05nenS6ly-0upSiNhR-y3u6LTuELCiuXpCcP-NOhjU9tIFYZ3aydqGdt6qhLPpD3USybxez1xh2g5tyDrXFVeFlRWZPRMhKxp_0bvyqMkN0 =445x455)
 
