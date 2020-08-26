@@ -103,7 +103,7 @@ _Source: Google People + AI Guidebook_
 
 ##### **Acknowledge errors & offer a forward path:**
 
-![](https://lh6.googleusercontent.com/nE2c0GHZ9bMAGPyxJHWykzFdjtZca05nenS6ly-0upSiNhR-y3u6LTuELCiuXpCcP-NOhjU9tIFYZ3aydqGdt6qhLPpD3USybxez1xh2g5tyDrXFVeFlRWZPRMhKxp_0bvyqMkN0 =445x455)
+![](/images/screen-shot-2020-08-26-at-12-31-59.png)
 
 _Source: Google People + AI Guidebook_
 
