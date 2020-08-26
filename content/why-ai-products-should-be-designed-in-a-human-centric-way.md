@@ -16,7 +16,7 @@ I’ve recently come across the [Google People + AI Guidebook](https://pair.with
 >   
 > “Smart technologies are unlikely to engender smart outcomes unless they are designed to **promote smart adoption on the part of human end users**. Successful applications of AI hinge on more than big data and powerful algorithms. **Human-centred design is also crucial.** AI applications must reflect **realistic conceptions of user needs and human psychology**”
 >
-> \- _Deloitte: “Smarter together: Why artificial intelligence needs human-centred design”_
+> \- [_Deloitte: “Smarter together: Why artificial intelligence needs human-centred design_](https://www2.deloitte.com/us/en/insights/deloitte-review/issue-22/artificial-intelligence-human-centric-design.html)_”_
 
 ## **Why AI sometimes flops**
 
