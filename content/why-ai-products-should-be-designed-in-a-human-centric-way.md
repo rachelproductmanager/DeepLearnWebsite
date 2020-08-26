@@ -11,13 +11,15 @@ type = "featured"
 +++
 **"I worry that enthusiasm for A.I. is preventing us from reckoning with its looming effects on society. Despite its name, there is nothing "artificial" about this technology - it is made by humans, intended to behave like humans, and affects humans. So if we want it to play a positive role in tomorrow's world, it must be guided by human concerns." -** [**Fei-Fei Li, How to Make AI That’s Good For People**](https://www.nytimes.com/2018/03/07/opinion/artificial-intelligence-human.html)
 
-I’ve recently come across the [Google People + AI Guidebook](https://pair.withgoogle.com/guidebook/), published by Google in 2019 to help UX professionals and product managers follow a human-centered approach to AI. As you walk through the Google Guidebook, you might wonder why human-centred design is so crucial for AI development. Experts are saying that the only way forward is for AI-powered technologies to be grounded in **human needs** and work to extend and **enhance** our capabilities, not replace them.
+  
+I’ve recently come across the [Google People + AI Guidebook](https://pair.withgoogle.com/guidebook/), published by Google in 2019 to help UX professionals and product managers follow a human-centred approach to AI. As you walk through the Google Guidebook, you might wonder why human-centred design is so crucial for AI development. Experts are saying that the only way forward is for AI-powered technologies to be grounded in **human needs** and work to extend and **enhance** our capabilities, not replace them.
 
-“Smart technologies are unlikely to engender smart outcomes unless they are designed to **promote smart adoption on the part of human end users**. Successful applications of AI hinge on more than big data and powerful algorithms. **Human-centered design is also crucial.** AI applications must reflect **realistic conceptions of user needs and human psychology**”
+>   
+> “Smart technologies are unlikely to engender smart outcomes unless they are designed to **promote smart adoption on the part of human end users**. Successful applications of AI hinge on more than big data and powerful algorithms. **Human-centred design is also crucial.** AI applications must reflect **realistic conceptions of user needs and human psychology**”
+>
+> \- _Deloitte: “Smarter together: Why artificial intelligence needs human-centred design”_
 
-\- _Deloitte: “Smarter together: Why artificial intelligence needs human-centered design”_
-
-**Why AI sometimes flops**
+## **Why AI sometimes flops**
 
 AI is undoubtedly in its golden age, hailed as the [new electricity](https://www.gsb.stanford.edu/insights/andrew-ng-why-ai-new-electricity) and set to be a massive [game changer for the global economy](https://www.pwc.com/gx/en/issues/data-and-analytics/publications/artificial-intelligence-study.html) with disruptive potential across every industry. AI’s [pitfalls](https://www.lexalytics.com/lexablog/stories-ai-failure-avoid-ai-fails-2020), however, have made some headlines but seem to disappear in the general AI hype. As [Deloitte](https://www2.deloitte.com/us/en/insights/deloitte-review/issue-22/artificial-intelligence-human-centric-design.html) notes, AI algorithms embedded in ubiquitous digital technology can encode societal biases, spread conspiracies, disseminate fake news, amplify echo chambers of public opinion, hijack our attention, and even impair our mental well-being.
 
