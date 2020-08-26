@@ -101,6 +101,9 @@ _Source: Google People + AI Guidebook_
 
 **10/ Think about potential errors and paths forward** - With AI systems, errors can come from many places, be harder to identify, and appear to the user and to system creators in non-intuitive ways.As users interact with your product, they’ll test it in ways you can’t foresee during the development process. Misunderstandings, false starts, and impropriety will happen, so designing for these cases is a core component of any user-centered product. Errors are also opportunities. They can support faster learning by experimentation, help establish correct mental models, and encourage users to provide feedback. Creating paths for users to take action in response to the errors they encounter encourages patience with the system, keeps the user-AI relationship going, and supports a better overall experience.
 
+  
+**EXAMPLE 2**
+
 ![](https://lh6.googleusercontent.com/nE2c0GHZ9bMAGPyxJHWykzFdjtZca05nenS6ly-0upSiNhR-y3u6LTuELCiuXpCcP-NOhjU9tIFYZ3aydqGdt6qhLPpD3USybxez1xh2g5tyDrXFVeFlRWZPRMhKxp_0bvyqMkN0 =445x455)
 
 _Source: Google People + AI Guidebook_
