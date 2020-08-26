@@ -87,7 +87,7 @@ AI is useful when you want to **make different recommendations to different user
 
 ##### **Explain the benefits. Not the technology:**
 
-![AI product onboarding example](https://lh5.googleusercontent.com/CNSkNxS6GLaSGpLLqq1JculinIQ3F0EJTngog-DhAWiTPMMmAJS56RkHuwBVRMYNsXgRL3xsj866ifS0vMJSXQyYtSwhClO7rFX33wrABho3xmnghSd2vcRuFSGIgXUuxLz45yVp "Google People & AI Guidebook Example" =505x498)
+![](/images/screen-shot-2020-08-26-at-12-29-17.png)
 
 _Source: Google People + AI Guidebook_
 
