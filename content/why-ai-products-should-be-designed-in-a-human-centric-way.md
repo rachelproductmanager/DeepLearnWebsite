@@ -110,7 +110,7 @@ _Source: Google People + AI Guidebook_
 
 _Source: Google People + AI Guidebook_
 
-**Conclusion**
+## **Conclusion**
 
 Even the best AI will fail if it doesn’t provide unique value to users. Instead of asking “Can we use AI to do X”, start exploring human-centered AI solutions by asking: “How might we solve problem X for our users? Can AI solve this problem in a unique way?”.
 
