@@ -33,8 +33,7 @@ Part of the problem stems from a common misunderstanding of [what AI can and can
 
 Powerful algorithms can be currently trained by humans to churn through vast amounts of data and make intelligent, mostly accurate and fast predictions but they can’t - yet - demonstrate general human intelligence - i.e. experience, perceive and analyse the world in deeply contextual, complex and subtle ways as humans do. And this has a direct impact on the AI user experience.
 
-##   
-**What human-centred design means for AI**
+## **What human-centred design means for AI**
 
 It’s clear that AI products can’t be built in a vacuum - As [Fei-Fei Li](https://www.nytimes.com/2018/03/07/opinion/artificial-intelligence-human.html), Chief Scientist for AI Research at Google Cloud, observes AI’s current limitations and potential concerns mean that AI applications should:
 
@@ -56,8 +55,7 @@ The global design firm, [IDEO](https://www.ideo.com/about), advanced the practic
 >
 > \- Ideo CEO Tim Brown
 
-##   
-**How to design AI in a human-centred way**
+## **How to design AI in a human-centred way**
 
 > “When building any product in a human-centred way, the most important decisions you’ll make are: Who are your users? What are their values? Which problem should you solve for them? How will you solve that problem? How will you know when the experience is “done”?
 >
