@@ -60,7 +60,7 @@ The global design firm, [IDEO](https://www.ideo.com/about), advanced the practic
 ##   
 **How to design AI in a human-centred way**
 
-“When building any product in a human-centered way, the most important decisions you’ll make are: Who are your users? What are their values? Which problem should you solve for them? How will you solve that problem? How will you know when the experience is “done”?
+“When building any product in a human-centred way, the most important decisions you’ll make are: Who are your users? What are their values? Which problem should you solve for them? How will you solve that problem? How will you know when the experience is “done”?
 
 * [Google People + AI Guidebook](https://pair.withgoogle.com/guidebook/)
 
