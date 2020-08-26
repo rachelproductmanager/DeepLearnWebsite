@@ -112,11 +112,12 @@ _Source: Google People + AI Guidebook_
 
 ## **Conclusion**
 
+  
 Even the best AI will fail if it doesn’t provide unique value to users. Instead of asking “Can we use AI to do X”, start exploring human-centered AI solutions by asking: “How might we solve problem X for our users? Can AI solve this problem in a unique way?”.
 
 To capture AI’s true value and ensure your product is not only successfully built but also successfully adopted and loved by your users, design AI products through a human-centric lens - embed human values, ethics, perceptions and **_needs_** into intelligent systems and focusing on **augmenting** (rather than replacing) **human capabilities and experiences** is a good place to start. As user-centered design pioneer Don Norman said _”**AI needs to accept human behavior the way it is, not the way we would wish it to be**.”_
 
-**More Reading**
+## **More Reading**
 
 [IDEO’s design Kit tools & methodologies](https://www.designkit.org/methods#filter)
 
