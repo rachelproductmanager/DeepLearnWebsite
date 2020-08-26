@@ -86,7 +86,7 @@ AI is useful when you want to **make different recommendations to different user
 **7/ Prepare users' mental models and help them understand how to train the system** - set expectations for what a product can and can’t do, what kind of value people can expect to get from it, how it may change and how to improve it. It’s important to account for user expectations of human-like interaction & help users calibrate their trust - people are more likely to have unachievable expectations for products that they assume have human-like capabilities. It’s important to communicate the algorithmic nature and limits of these products to set realistic user expectations and avoid unintended deception. Because AI products are based on statistics and probability, the user shouldn’t trust the system completely. Incorporate system explanations so the user knows when to trust the system’s predictions and when to apply their own judgement.
 
   
-**EXAMPLE**
+**EXAMPLE 1**
 
 **Explain the benefits. Not the technology:**
 
