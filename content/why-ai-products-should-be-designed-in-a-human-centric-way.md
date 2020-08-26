@@ -53,8 +53,11 @@ The term ‘_human-centred system_’ was coined in 2008 by [Mike Cooley](https:
 
 The global design firm, [IDEO](https://www.ideo.com/about), advanced the practice of “Design Thinking” from working with Steve Jobs on the design of Apple’s first mouse in the 80’s and the first notebook-style computer for GRiD Systems, redefining how users interacted with computers, to many other seminal projects in healthcare, education and more. Today, IDEO is at the forefront of “[augmented intelligence](https://www.ideo.com/post/ideos-beliefs-about-creating-value-through-augmented-intelligence)”, merging machine learning with human-centred design by [integrating data scientists into its project teams](https://www.fastcompany.com/90147010/exclusive-ideos-plan-to-stage-an-ai-revolution) working side by side with design researchers, engineers, and interaction designers in response to increasing demand from AI-powered clients. In one such successful collaboration, IDEO helped [Motorola](https://www.ideo.com/case-study/crunching-customer-data-to-deliver-better-smartphones) turn mountains of customer feedback into product improvements in real time.
 
-“We have some great chairs and mobile phones in the world, but we have a lot of systems that are not so great. Systems aren’t designed once and then left to run. They act much more like biology than machines and **we need to make these systems super smart to evolve and learn–but they need to learn in collaboration with human beings**.” - Ideo CEO Tim Brown
+> “We have some great chairs and mobile phones in the world, but we have a lot of systems that are not so great. Systems aren’t designed once and then left to run. They act much more like biology than machines and **we need to make these systems super smart to evolve and learn–but they need to learn in collaboration with human beings**.” 
+>
+> \- Ideo CEO Tim Brown
 
+##   
 **How to design AI in a human-centred way**
 
 “When building any product in a human-centered way, the most important decisions you’ll make are: Who are your users? What are their values? Which problem should you solve for them? How will you solve that problem? How will you know when the experience is “done”?
