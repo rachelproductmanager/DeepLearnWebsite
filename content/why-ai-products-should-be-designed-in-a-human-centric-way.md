@@ -60,9 +60,9 @@ The global design firm, [IDEO](https://www.ideo.com/about), advanced the practic
 ##   
 **How to design AI in a human-centred way**
 
-“When building any product in a human-centred way, the most important decisions you’ll make are: Who are your users? What are their values? Which problem should you solve for them? How will you solve that problem? How will you know when the experience is “done”?
-
-* [Google People + AI Guidebook](https://pair.withgoogle.com/guidebook/)
+> “When building any product in a human-centred way, the most important decisions you’ll make are: Who are your users? What are their values? Which problem should you solve for them? How will you solve that problem? How will you know when the experience is “done”?
+>
+> \- [Google People + AI Guidebook](https://pair.withgoogle.com/guidebook/)
 
 Google’s People + AI Guidebook uses an example app, RUN, which uses AI to help users get more variety in their runs by suggesting new running tracks, tracking their daily runs and meeting other runners at their skill level so they can stay motivated to keep running. The Guidebook’s recommendations, based on data and insights from over a hundred individuals across Google product teams, industry experts, and academic research, are given in the context of the RUN app and highlight what you need to consider when designing AI using a human-centred approach. Here are my top 10 takeaways:
 
