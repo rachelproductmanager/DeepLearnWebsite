@@ -9,7 +9,7 @@ title = "Sprinkle - Creating an e-commerce brand"
 type = "post"
 
 +++
-1. **Vision, mission & business model**
+## **1.Vision, mission & business model**
 
 We started Sprinkle, an innovative, next generation spice brand in May 2018.
 
@@ -23,7 +23,7 @@ We started Sprinkle, an innovative, next generation spice brand in May 2018.
 
 **Manufacturing** was a core part of our strategy and business model - we aimed to have a vertically integrated operation and fully control all elements of the supply chain - from sourcing our raw materials directly from select growers to packing and shipping the product ourselves, and everything in between.
 
-2. **Background & inspiration**
+## **2.Background & inspiration**
 
 The Sprinkle idea was born out of my own love of cooking and flavour and a frustration with the inferior quality spices found in unloved supermarket spice aisles everywhere. We wanted to introduce people to the magic of Tel-Aviv's iconic spice markets by helping customers experience what fresh, aromatic spice blends inspired by global cuisines really taste like and empower them to be healthy and cook incredible meals for their family and friends with minimal effort.
 
@@ -31,7 +31,7 @@ We were inspired by world-leading DTC consumer, lifestyle and food brands who ar
 
 We tapped into a growing global trend of increased consumer demand for independent, ethical and authentic brands that offered higher quality products and connected with customer values and aspirations. The market for organic spices and condiments was predicted to grow at 5% CAGR and be worth approximately $40bn by 2025. Additionally, celebrity chefs such as Yotam [Ottolenghi](https://ottolenghi.co.uk/) and [Jamie Oliver](https://www.jamieoliver.com/) were popularising home cooking and introducing people to Middle Eastern cooking, exotic spices and other lesser known condiments and flavours which resulted in increased demand for these products.
 
-3. **Brand design (logo, colours, labels, packaging & stationery)**
+## **3.Brand design (logo, colours, labels, packaging & stationery)**
 
 The Sprinkle **brand** **design** was a central part of the product development process and something we spent a lot of time on refining. What started as a rough idea quickly transformed into a vibrant brand with its own distinct personality. The **brand name** itself - ‘Sprinkle’ - was chosen because it’s catchy, memorable and short. It embodied the product and central brand message - that cooking with spices is easy - it only requires a sprinkle.
 
@@ -53,7 +53,7 @@ We followed the following principles:
 
 \[INSERT LABELS\]
 
-4. **Website design/UX**
+## **4.Website design/UX**
 
 Our website was thoughtfully designed to follow **e-commerce UX best practices**:
 
@@ -67,7 +67,7 @@ Our website was thoughtfully designed to follow **e-commerce UX best practices**
 
 \[INSERT WEBSITE HOME & PRODUCT PAGE\]
 
-5. **Product range**
+## **5.Product range**
 
 Once we established product-market fit and based on customer feedback, we expanded our product range to include:
 
