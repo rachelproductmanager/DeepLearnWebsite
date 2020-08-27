@@ -4,7 +4,7 @@ date = 2020-05-31T14:00:00Z
 description = "Applying e-commerce UX best practices and brand identity design to an innovative spice business"
 image = "/images/middle-east_organic-jerusalem-mix_sprinkle_fa.jpg"
 tags = ["E-Commerce", "Design", "Branding", "UX"]
-title = "Sprinkle - Creating an e-commerce brand"
+title = "Sprinkle - Creating an e-commerce spice brand"
 type = "post"
 
 +++
