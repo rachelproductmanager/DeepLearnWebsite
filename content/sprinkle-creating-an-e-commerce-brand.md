@@ -79,7 +79,13 @@ We followed the following key principles:
 Our website was thoughtfully designed to follow **e-commerce UX best practices**:
 
 * **Don’t make users think -** the website was designed to be as obvious and self explanatory as possible (we went through several iterations and experiments to get it right). We wanted to enable visitors to either easily search and find what they’re after or browse without getting stuck or frustrated. Customers are short on time and attention so it’s important to help them get the job done with minimal need for thinking and learning your website’s layout, product range or shipping process. We decluttered the Home page to make it easy to navigate and product pages had clear, easy to digest sections.
+
+![](/images/screen-shot-2020-08-26-at-17-41-02.png)
+
 * **Mobile friendly** - our website was mobile compatible and fast as many shoppers today turn to their mobile phones first.
+
+![](/images/screen-shot-2020-08-26-at-17-25-57.png)
+
 * **Product photography in scale** - product photography was high resolution and clear on scale and detail, so consumers can get a sense of the product’s size and what it contains. We also had pinch gestures allowing users to zoom in on products both on mobile and desktop. Each product had a hero image and visible thumbnails making the product page quite visual and transparent to build trust and enable a frictionless experience.
 * **Display the right amount of information** - we aimed to make product pages informative and helpful, providing recipe links, ingredients information, product uses and shipping information, answering most questions a user would have when landing on a product page. Copy was kept consistent with the brand voice and tone (friendly, helpful, casual).
 * **Easy and quick checkout process** - checkout was simple and fast with minimal fields and a clear, informative confirmation email to follow. You could check out as a guest and account creation was optional.
