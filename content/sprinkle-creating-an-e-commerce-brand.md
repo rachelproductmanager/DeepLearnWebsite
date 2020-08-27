@@ -94,7 +94,7 @@ Our website was thoughtfully designed to follow **e-commerce UX best practices**
 * **Payment options** - we offered easy and commonly used payment options (credit card, PayPal, Google) via a secure payment gateway (Stripe).
 * **Product reviews and ratings** - these were clearly displayed for every product on the product page and viewable on the Home page as well.
 
-\[INSERT WEBSITE HOME & PRODUCT PAGE\]
+![](/images/screen-shot-2020-08-26-at-17-29-22.png)
 
 ## **5.Product range**
 
