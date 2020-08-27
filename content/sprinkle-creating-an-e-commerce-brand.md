@@ -116,7 +116,7 @@ Once we established product-market fit and based on customer feedback, we expand
 
 ## **6.Key takeaways**
 
-  
+####   
 **a) Your website is one of your most important scaling weapons**
 
 > Don’t assume that you can simply lift a Shopify template and orders will start flowing in. Shopify is an extremely useful platform and will certainly make your life a whole lot easier. But it’s key is to **customise** the template to your own needs, brand, product and audience. Work on your website never ends - you’ll need to constantly review your analytics, find problem areas (bounce rates/ abandoned carts/low conversion/traffic sources) and fix or tweak them. There’s a lot of experimentation involved and it won’t always be easy to determine why users act a certain way but you need to be on top of these things and continuously improve the experience as you get more **user feedback**.
@@ -135,10 +135,11 @@ Once we established product-market fit and based on customer feedback, we expand
 
 > For more tips and best practices on how to optimise your website for e-commerce check out the [Baymard Institute](https://baymard.com/).
 
-2. **Get visual**
+#### **b) Get visual**
 
 > While establishing a distinct, clear and unique brand voice and tone and carefully crafting your website and product label copy is vital, great visuals are key.
 
+  
 > As [Steve Krug](http://sensible.com/) observes in his well known usability book ‘_Don’t Make Me Think_’ [most people in fact scan pages rather than read them](https://uxmyths.com/post/647473628/myth-people-read-on-the-web). Make sure your copy is impactful, consistent and short and let the visuals (images or video) do more of the talking.
 
 > High quality, high resolution photography is extremely important to tell your brand’s story, showcase your products and - most importantly - help users understand what they’re purchasing. Photography isn’t just important on the Home page. Product pages should be equally visual, engaging and include both clear, at scale product images as well as lifestyle shots showing your products in action. Visuals are also massively important given how crucial social media channels are to your brand marketing. Hire a decent photographer and get shooting!
