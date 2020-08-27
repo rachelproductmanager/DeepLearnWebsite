@@ -11,7 +11,6 @@ type = "post"
 +++
 ## **1.Vision, mission & business model**
 
-  
 We started Sprinkle, an innovative, next generation spice brand in May 2018.
 
 **Vision** - Our **vision** was to create an independent, innovative, Australian spice brand that brings together a community of food lovers and avid home cooks, inspires and empowers them to eat better and live better. The tagline was ‘Small Batch. Big Flavour’.
@@ -19,6 +18,8 @@ We started Sprinkle, an innovative, next generation spice brand in May 2018.
 **Mission** - Sprinkle set out to shake up the spice industry and do for spices what the craft movement did for chocolate and coffee - introduce consumers to fresh, flavourful and ethically sourced spices. Sprinkle’s mission was to empower busy, health conscious home cooks and foodies to transform everyday cooking easily and quickly.
 
 **DTC model** - Fundamentally, our goal was to be a **direct-to-consumer** (DTC) brand, i.e. sell directly to consumers through our website, dispensing with traditional middlemen such as retailers, supermarkets and distributors (and a long chain of spice traders) who stood between spice growers in developing countries and consumers in the West.
+
+![](/images/untitled-design.png)
 
 **Strategy** - Our strategy was to differentiate ourselves from our competitors by delivering an exceptional product and designing an enhanced, end-to-end digital user experience that would delight customers and exceed expectations. We devised unique ways to reach and engage with our customers mainly through digital channels, which was quite revolutionary, especially for this product category.
 
@@ -41,11 +42,8 @@ We wanted to create a fun, engaging and user-friendly spice brand (in contrast t
 We followed the following principles:
 
 1. **Maintain consistency across all mediums** and ensure the brand identity seamlessly flows through the website, products and packaging as well as digital content, marketing emails and social presence.
-
 2. **Packaging** **isn’t an afterthought** - we carefully selected quality glass jars and designed a custom branded shipping box - packaging was purposely designed to be highly functional, aligned with our freshness values, consistent with the brand’s premium look and feel and deliver a remarkable user experience overall. Also, our packaging was **tailored for digital** (different to how you might design packaging for bricks and mortar retail). Labels, gift boxes and the signature Sprinkle shipping box were highly functional but also intended to be bright, colourful, eye catching and instagrammable.
-
 3. **End-to-end personalised experience** - In e-commerce the shopping experience doesn’t end at checkout. It’s important to ensure a remarkable shopping experience at every customer touchpoint in the shopping funnel (from website to shipping to unboxing and beyond). Inspired by e-commerce giants such as Net-a-Porter, our products included premium tissue paper wrapping, custom stickers, a custom-designed **Thank You Card** with a handwritten message as well as a Sprinkle **Intro Card** that told customers a bit more about the brand’s story and mission and helped them find useful recipes and cooking inspiration.
-
 4. **Clean, modern & minimalistic design** - Because spices and spice blends originate from different parts of the world and a variety of global cuisines, our **brand colour palette** reflects **5 regions** which were the categories ‘housing’ our product collection (Middle East, North Africa, Europe, Americas and Australia). Our **logo and brand fonts** were also designed to capture the brand’s playful spirit (you can see some of the designs we considered below):
 
 \[INSERT COLOURS\]
