@@ -116,8 +116,7 @@ Once we established product-market fit and based on customer feedback, we expand
 
 ## **6.Key takeaways**
 
-####   
-**a) Your website is one of your most important scaling weapons**
+#### **a) Your website is one of your most important scaling weapons**
 
 * Don’t assume that you can simply lift a Shopify template and orders will start flowing in. Shopify is an extremely useful platform and will certainly make your life a whole lot easier. But it’s key is to **customise** the template to your own needs, brand, product and audience. Work on your website never ends - you’ll need to constantly review your analytics, find problem areas (bounce rates/ abandoned carts/low conversion/traffic sources) and fix or tweak them. There’s a lot of experimentation involved and it won’t always be easy to determine why users act a certain way but you need to be on top of these things and continuously improve the experience as you get more **user feedback**.
 
