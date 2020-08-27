@@ -3,7 +3,7 @@ categories = ["Product Management"]
 date = 2020-07-14T14:00:00Z
 description = ""
 image = "/images/piotr-makowski-27lh_0jxkyi-unsplash.jpg"
-tags = ["Product Management", "Strategy", "Vision", "Startups"]
+tags = ["Product Management", "Strategy", "Startups"]
 title = "Why strategy is key to building successful products"
 type = "featured"
 
@@ -156,4 +156,4 @@ While large, established companies might be able to dust off product failures, l
 2. [The Lean Startup Co’s Playbook for Achieving Product Market Fit](https://leanstartup.co/a-playbook-for-achieving-product-market-fit/)
 3. [Shopify’s post on How To Create An Efficient Product Strategy](https://www.shopify.com.au/partners/blog/product-strategy)
 4. [An AWESOME guide to how to craft your brand strategy](https://www.ebaqdesign.com/blog/brand-strategy "How to build a brand strategy"), including helpful templates and creative exercises.
-5. [Vision Statements of Best Brands](https://www.ebaqdesign.com/blog/vision-statements "Best brand vision statements") 
+5. [Vision Statements of Best Brands](https://www.ebaqdesign.com/blog/vision-statements "Best brand vision statements")
