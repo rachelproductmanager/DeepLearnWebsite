@@ -97,6 +97,7 @@ Our website was thoughtfully designed to follow **e-commerce UX best practices**
 * **Product photography in scale** - product photography was high resolution and clear on scale and detail, so consumers can get a sense of the product’s size and what it contains. We also had pinch gestures allowing users to zoom in on products both on mobile and desktop. Each product had a hero image and visible thumbnails making the product page quite visual and transparent to build trust and enable a frictionless experience.
 
   ![](/images/australia_smoked-chilli-salt_sprinkle_fa-1.jpg)
+
 * **Display the right amount of information** - we aimed to make product pages informative and helpful, providing recipe links, ingredients information, product uses and shipping information, answering most questions a user would have when landing on a product page. Copy was kept consistent with the brand voice and tone (friendly, helpful, casual).
 
   ![](/images/screen-shot-2020-08-26-at-17-29-14.png)
