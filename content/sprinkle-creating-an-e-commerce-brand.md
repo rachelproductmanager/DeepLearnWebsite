@@ -113,3 +113,66 @@ Our website was thoughtfully designed to follow **e-commerce UX best practices**
 Once we established product-market fit and based on customer feedback, we expanded our product range to include: **Bundles** - ready-to-purchase boxes of 3,4 or 8 products enabling customers to quickly pick a combination suited to their tastes or cooking goals; **Gift Boxes** - 4 types of 'foodie' gift box catering for various tastes (BBQ, Middle Eastern flavours, Die hard foodies); and complementary **Pantry items** from select artisan Australian small batch producers (such as organic olive oils, harissa and preserved lemons).
 
 ![](/images/epicurean_box.jpg)![](/images/fire-and-smoke_box.jpg)![](/images/fire-and-smoke_flatlay.jpg)![](/images/screen-shot-2020-08-26-at-17-45-12.png)![](/images/untitled-design-1.png)
+
+## **6.Key takeaways**
+
+1. **Your website is one of your most important scaling weapons**
+
+> Don’t assume that you can simply lift a Shopify template and orders will start flowing in. Shopify is an extremely useful platform and will certainly make your life a whole lot easier. But it’s key is to **customise** the template to your own needs, brand, product and audience. Work on your website never ends - you’ll need to constantly review your analytics, find problem areas (bounce rates/ abandoned carts/low conversion/traffic sources) and fix or tweak them. There’s a lot of experimentation involved and it won’t always be easy to determine why users act a certain way but you need to be on top of these things and continuously improve the experience as you get more **user feedback**.
+
+> Don’t be afraid to experiment with **A/B testing** to try out different layouts of the Home page, imaging, copy, calls to action etc. Sometimes, it’s small things (like a button’s location or font size that can make a huge difference).
+
+> It’s important to have a **mobile-first**, fast website (most visitors will abandon your website if a page takes more than 2 seconds to download).
+
+> the [Home page](https://archive.uie.com/brainsparks/2005/09/29/is-home-page-design-relevant-anymore/) is important but **product pages, about pages, the blog and other pages users may land on through Google searches are just as crucial to conversion**. Home pages of leading e-commerce retailers today tend to be more minimalistic and limit the amount of information, choices and content while helping users navigate their way through the site.
+
+> Treat your **product pages like mini Home pages** that help immerse the user in the brand, provide the information they’re looking for and help them discover other complementary or similar products they may be interested in.
+
+> [Personalisation](https://optinmonster.com/ecommerce-personalization-tools/) tools are becoming more commonplace. If you can offer users in different locations or demographics an experience that’s tailored to their specific needs and problems, you’ll reap the rewards, reduce site abandonment/bounce rate and connect with your audience more effectively.
+
+> For more tips and best practices on how to optimise your website for e-commerce check out the [Baymard Institute](https://baymard.com/).
+
+2. **Get visual**
+
+> While establishing a distinct, clear and unique brand voice and tone and carefully crafting your website and product label copy is vital, great visuals are key.
+
+> As [Steve Krug](http://sensible.com/) observes in his well known usability book ‘_Don’t Make Me Think_’ [most people in fact scan pages rather than read them](https://uxmyths.com/post/647473628/myth-people-read-on-the-web). Make sure your copy is impactful, consistent and short and let the visuals (images or video) do more of the talking.
+
+> High quality, high resolution photography is extremely important to tell your brand’s story, showcase your products and - most importantly - help users understand what they’re purchasing. Photography isn’t just important on the Home page. Product pages should be equally visual, engaging and include both clear, at scale product images as well as lifestyle shots showing your products in action. Visuals are also massively important given how crucial social media channels are to your brand marketing. Hire a decent photographer and get shooting!
+
+3. **Don’t skimp on design**
+
+While there are plenty of good design tools out there today ([Canva](https://www.canva.com/) being a great one), DYI design will look like...DIY design!. Especially when you’re selling online as opposed to traditional bricks and mortar, your brand presence is all you have. This is how you communicate your identity, values and personality to your customers.
+
+> Have a well designed, congruent, well presented brand identity that’s consistent across your website, products, packaging, social media, marketing materials, stationery etc. A great design will also look so much better in photos (conversely, no matter how good your photographer is, they won’t be able to make bad design look good).
+
+4. **Make it seamless, delightful and fuss-free**
+
+E-commerce may seem deceptively easy but there’s an art and a science to getting it right. There’s a lot more to it than just launching a website and posting packages. The entire shopping experience should be designed end-to-end to ensure **all customer touchpoints** deliver a positive, easy, fast and memorable experience. This means that everything from your website to social channels to the shopping funnel, shipping, order tracking and customer service should work like a Swiss clock - each touchpoint should be carefully considered from **a customer’s point of view** and be **congruent** with the brand, your messaging, strategy and vision. E.g.
+
+Think about your website’s experience from the vantage point of someone who knows nothing about your brand and is of average digital savviness. Consider how easy it is for them to search for certain products they might be looking for, find it, find out how long shipping will take, move through the checkout process and get tracking details. The sales funnel is usually comprised of:
+
+* Introduction (Awareness)
+* Education (Interest)
+* Evaluation (Analysis)
+* Decision (Engagement)
+* Purchase
+* Retaining (Repeating the experience)
+
+Each of these steps should be seamless, frictionless, informative and enjoyable.
+
+5. **Content is king**
+
+Content is a primary driver of marketing, user acquisition and virality. It’s hugely important in telling your brand story, engaging consumers, propagating your message and increasing retention. Brands like [Dollar Shave Club](https://www.dollarshaveclub.com/), [Food52](https://food52.com/), [Goop](https://goop.com/), [Redbull](https://www.redbull.com/) and [Glossier](https://www.glossier.com/) are at the forefront of using content to reach and connect with their target audience and cement their reputation as lifestyle brands. Quality content (whether on product pages, blog, YouTube channels or social) will also be instrumental in SEO and driving organic traffic to your store. Good content takes a lot of effort but it’s so much more effective (and ultimately cheaper) than ads for growing your customer base and increasing awareness of your brand on the market.
+
+6. **Don’t assume customers always know what they want**
+
+> There’s a fine balance to be struck between having an intimate knowledge of your customer’s pain points, personas, motivations, goals and preferences on the one hand and asking customers to design your product.
+
+> Ultimately, you should run several concurrent experiments to find your real product/market fit. You’ll no doubt discover that your initial thesis was incorrect - certain products will be a massive hit while others you thought would be a huge success end up faltering.
+
+> Talking to your best customers, paying attention to reviews and listening to social media commentary regularly are all useful ways to gain valuable insights and discover your blind spots (of which there’ll be many).
+
+7. **Be prepared to pivot (rapidly)**
+
+When you’re just at the start of the journey and figuring out of you have a product-market fit, it’s essential to be egoless and prepared to course correct at speed. Decision making quality and velocity are both super important. You should always have your finger on the pulse, know your market, competitors and customers in detail and ensure you can move fast and pivot if need be.
