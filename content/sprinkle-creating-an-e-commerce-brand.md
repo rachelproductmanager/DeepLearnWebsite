@@ -146,7 +146,7 @@ Once we established product-market fit and based on customer feedback, we expand
 
 #### **c) Don’t skimp on design**
 
-While there are plenty of good design tools out there today ([Canva](https://www.canva.com/) being a great one), DYI design will look like...DIY design!. Especially when you’re selling online as opposed to traditional bricks and mortar, your brand presence is all you have. This is how you communicate your identity, values and personality to your customers.
+>While there are plenty of good design tools out there today ([Canva](https://www.canva.com/) being a great one), DYI design will look like...DIY design!. Especially when you’re selling online as opposed to traditional bricks and mortar, your brand presence is all you have. This is how you communicate your identity, values and personality to your customers.
 
 > Have a well designed, congruent, well presented brand identity that’s consistent across your website, products, packaging, social media, marketing materials, stationery etc. A great design will also look so much better in photos (conversely, no matter how good your photographer is, they won’t be able to make bad design look good).
 
