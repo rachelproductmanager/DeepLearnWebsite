@@ -8,7 +8,7 @@ title = "Sprinkle - Creating an e-commerce brand"
 type = "post"
 
 +++
-We started Sprinkle, an innovative, next generation spice brand in May 2018. 
+We started Sprinkle, an innovative, next generation spice brand in May 2018.
 
 The Sprinkle idea was born out of my own love of cooking and flavour and a frustration with the inferior quality spices found in unloved supermarket spice aisles everywhere. We wanted to introduce people to the magic of Tel-Aviv's iconic spice markets by helping customers experience what fresh, aromatic spice blends inspired by global cuisines really taste like and empower them to be healthy and cook incredible meals for their family and friends with minimal effort.
 
@@ -19,8 +19,6 @@ The Sprinkle idea was born out of my own love of cooking and flavour and a frust
 **Mission** - Sprinkle set out to shake up the spice industry and do for spices what the craft movement did for chocolate and coffee - introduce consumers to fresh, flavourful and ethically sourced spices. Sprinkle’s mission was to empower busy, health conscious home cooks and foodies to transform everyday cooking easily and quickly.
 
 **DTC model** - Fundamentally, our goal was to be a **direct-to-consumer** (DTC) brand, i.e. sell directly to consumers through our website, dispensing with traditional middlemen such as retailers, supermarkets and distributors (and a long chain of spice traders) who stood between spice growers in developing countries and consumers in the West.
-
-![Sprinkle spices product photos example](/images/untitled-design.png "Sprinkle product photos")
 
 **Strategy** - Our strategy was to differentiate ourselves from our competitors by delivering an exceptional product and designing an enhanced, end-to-end digital user experience that would delight customers and exceed expectations. We devised unique ways to reach and engage with our customers mainly through digital channels, which was quite revolutionary, especially for this product category.
 
