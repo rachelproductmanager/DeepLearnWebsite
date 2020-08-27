@@ -56,18 +56,17 @@ The Sprinkle **brand** **design** was a central part of the product development 
 
 We wanted to create a fun, engaging and user-friendly spice brand (in contrast to the trite, tired and uninspiring spice and condiments brands out there) that people would enjoy using daily in their kitchen.
 
-We followed the following principles:
+We followed the following key principles:
 
-1. **Maintain consistency across all mediums** and ensure the brand identity seamlessly flows through the website, products and packaging as well as digital content, marketing emails and social presence.
-2. **Packaging** **isn’t an afterthought** - we carefully selected quality glass jars and designed a custom branded shipping box - packaging was purposely designed to be highly functional, aligned with our freshness values, consistent with the brand’s premium look and feel and deliver a remarkable user experience overall. Also, our packaging was **tailored for digital** (different to how you might design packaging for bricks and mortar retail). Labels, gift boxes and the signature Sprinkle shipping box were highly functional but also intended to be bright, colourful, eye catching and instagrammable.
-3. **End-to-end personalised experience** - In e-commerce the shopping experience doesn’t end at checkout. It’s important to ensure a remarkable shopping experience at every customer touchpoint in the shopping funnel (from website to shipping to unboxing and beyond). Inspired by e-commerce giants such as Net-a-Porter, our products included premium tissue paper wrapping, custom stickers, a custom-designed **Thank You Card** with a handwritten message as well as a Sprinkle **Intro Card** that told customers a bit more about the brand’s story and mission and helped them find useful recipes and cooking inspiration.
-4. **Clean, modern & minimalistic design** - Because spices and spice blends originate from different parts of the world and a variety of global cuisines, our **brand colour palette** reflects **5 regions** which were the categories ‘housing’ our product collection (Middle East, North Africa, Europe, Americas and Australia). Our **logo and brand fonts** were also designed to capture the brand’s playful spirit (you can see some of the designs we considered below):
+**1/** **Clean, modern & minimalistic design** - Because spices and spice blends originate from different parts of the world and a variety of global cuisines, our **brand colour palette** reflects **5 regions** which were the categories ‘housing’ our product collection (Middle East, North Africa, Europe, Americas and Australia). Our **logo and brand fonts** were also designed to capture the brand’s playful spirit.
 
-\[INSERT COLOURS\]
+![](/images/screen-shot-2020-08-27-at-12-32-09.png)
 
-\[INSERT LOGOS\]
+**2/ Maintain consistency across all mediums** and ensure the brand identity seamlessly flows through the website, products and packaging as well as digital content, marketing emails and social presence.
 
-\[INSERT LABELS\]
+**3/ Packaging** **isn’t an afterthought** - we carefully selected quality glass jars and designed a custom branded shipping box - packaging was purposely designed to be highly functional, aligned with our freshness values, consistent with the brand’s premium look and feel and deliver a remarkable user experience overall. Also, our packaging was **tailored for digital** (different to how you might design packaging for bricks and mortar retail). Labels, gift boxes and the signature Sprinkle shipping box were highly functional but also intended to be bright, colourful, eye catching and instagrammable.
+
+**4/ End-to-end personalised experience** - In e-commerce the shopping experience doesn’t end at checkout. It’s important to ensure a remarkable shopping experience at every customer touchpoint in the shopping funnel (from website to shipping to unboxing and beyond). Inspired by e-commerce giants such as Net-a-Porter, our products included premium tissue paper wrapping, custom stickers, a custom-designed **Thank You Card** with a handwritten message as well as a Sprinkle **Intro Card** that told customers a bit more about the brand’s story and mission and helped them find useful recipes and cooking inspiration.
 
 ## **4.Website design/UX**
 
