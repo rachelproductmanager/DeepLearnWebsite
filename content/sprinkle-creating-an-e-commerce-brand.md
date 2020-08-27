@@ -11,6 +11,7 @@ type = "post"
 +++
 ## **1.Vision, mission & business model**
 
+  
 We started Sprinkle, an innovative, next generation spice brand in May 2018.
 
 **Vision** - Our **vision** was to create an independent, innovative, Australian spice brand that brings together a community of food lovers and avid home cooks, inspires and empowers them to eat better and live better. The tagline was ‘Small Batch. Big Flavour’.
