@@ -150,11 +150,13 @@ Once we established product-market fit and based on customer feedback, we expand
 
 > Have a well designed, congruent, well presented brand identity that’s consistent across your website, products, packaging, social media, marketing materials, stationery etc. A great design will also look so much better in photos (conversely, no matter how good your photographer is, they won’t be able to make bad design look good).
 
-4. **Make it seamless, delightful and fuss-free**
+#### **d) Make it seamless, delightful and fuss-free**
 
-E-commerce may seem deceptively easy but there’s an art and a science to getting it right. There’s a lot more to it than just launching a website and posting packages. The entire shopping experience should be designed end-to-end to ensure **all customer touchpoints** deliver a positive, easy, fast and memorable experience. This means that everything from your website to social channels to the shopping funnel, shipping, order tracking and customer service should work like a Swiss clock - each touchpoint should be carefully considered from **a customer’s point of view** and be **congruent** with the brand, your messaging, strategy and vision. E.g.
+  
+> E-commerce may seem deceptively easy but there’s an art and a science to getting it right. There’s a lot more to it than just launching a website and posting packages. The entire shopping experience should be designed end-to-end to ensure **all customer touchpoints** deliver a positive, easy, fast and memorable experience. This means that everything from your website to social channels to the shopping funnel, shipping, order tracking and customer service should work like a Swiss clock - each touchpoint should be carefully considered from **a customer’s point of view** and be **congruent** with the brand, your messaging, strategy and vision. E.g.
 
-Think about your website’s experience from the vantage point of someone who knows nothing about your brand and is of average digital savviness. Consider how easy it is for them to search for certain products they might be looking for, find it, find out how long shipping will take, move through the checkout process and get tracking details. The sales funnel is usually comprised of:
+  
+> Think about your website’s experience from the vantage point of someone who knows nothing about your brand and is of average digital savviness. Consider how easy it is for them to search for certain products they might be looking for, find it, find out how long shipping will take, move through the checkout process and get tracking details. The sales funnel is usually comprised of:
 
 * Introduction (Awareness)
 * Education (Interest)
@@ -165,7 +167,7 @@ Think about your website’s experience from the vantage point of someone who kn
 
 Each of these steps should be seamless, frictionless, informative and enjoyable.
 
-5. **Content is king**
+#### **e) Content is king**
 
 Content is a primary driver of marketing, user acquisition and virality. It’s hugely important in telling your brand story, engaging consumers, propagating your message and increasing retention. Brands like [Dollar Shave Club](https://www.dollarshaveclub.com/), [Food52](https://food52.com/), [Goop](https://goop.com/), [Redbull](https://www.redbull.com/) and [Glossier](https://www.glossier.com/) are at the forefront of using content to reach and connect with their target audience and cement their reputation as lifestyle brands. Quality content (whether on product pages, blog, YouTube channels or social) will also be instrumental in SEO and driving organic traffic to your store. Good content takes a lot of effort but it’s so much more effective (and ultimately cheaper) than ads for growing your customer base and increasing awareness of your brand on the market.
 
