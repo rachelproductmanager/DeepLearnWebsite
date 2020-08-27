@@ -26,9 +26,13 @@ Sprinkle set out to shake up the spice industry and do for spices what the craft
 
 ![](/images/sprinkle_harvest_bundles_hero4.jpg)
 
-**DTC model** - Fundamentally, our goal was to be a **direct-to-consumer** (DTC) brand, i.e. sell directly to consumers through our website, dispensing with traditional middlemen such as retailers, supermarkets and distributors (and a long chain of spice traders) who stood between spice growers in developing countries and consumers in the West.
+#### **DTC model** 
 
-**Strategy** - Our strategy was to differentiate ourselves from our competitors by delivering an exceptional product and designing an enhanced, end-to-end digital user experience that would delight customers and exceed expectations. We devised unique ways to reach and engage with our customers mainly through digital channels, which was quite revolutionary, especially for this product category.
+Fundamentally, our goal was to be a **direct-to-consumer** (DTC) brand, i.e. sell directly to consumers through our website, dispensing with traditional middlemen such as retailers, supermarkets and distributors (and a long chain of spice traders) who stood between spice growers in developing countries and consumers in the West.
+
+#### **Strategy** 
+
+Our strategy was to differentiate ourselves from our competitors by delivering an exceptional product and designing an enhanced, end-to-end digital user experience that would delight customers and exceed expectations. We devised unique ways to reach and engage with our customers mainly through digital channels, which was quite revolutionary, especially for this product category.
 
 **Manufacturing** was a core part of our strategy and business model - we aimed to have a vertically integrated operation and fully control all elements of the supply chain - from sourcing our raw materials directly from select growers to packing and shipping the product ourselves, and everything in between.
 
