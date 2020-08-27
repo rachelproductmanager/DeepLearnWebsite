@@ -156,11 +156,11 @@ Once we established product-market fit and based on customer feedback, we expand
 
 #### **d) Make it seamless, delightful and fuss-free**
 
-  
-> E-commerce may seem deceptively easy but there’s an art and a science to getting it right. There’s a lot more to it than just launching a website and posting packages. The entire shopping experience should be designed end-to-end to ensure **all customer touchpoints** deliver a positive, easy, fast and memorable experience. This means that everything from your website to social channels to the shopping funnel, shipping, order tracking and customer service should work like a Swiss clock - each touchpoint should be carefully considered from **a customer’s point of view** and be **congruent** with the brand, your messaging, strategy and vision. E.g.
+* E-commerce may seem deceptively easy but there’s an art and a science to getting it right. There’s a lot more to it than just launching a website and posting packages. The entire shopping experience should be designed end-to-end to ensure **all customer touchpoints** deliver a positive, easy, fast and memorable experience. This means that everything from your website to social channels to the shopping funnel, shipping, order tracking and customer service should work like a Swiss clock - each touchpoint should be carefully considered from **a customer’s point of view** and be **congruent** with the brand, your messaging, strategy and vision. E.g.
 
-  
-> Think about your website’s experience from the vantage point of someone who knows nothing about your brand and is of average digital savviness. Consider how easy it is for them to search for certain products they might be looking for, find it, find out how long shipping will take, move through the checkout process and get tracking details. The sales funnel is usually comprised of:
+
+* Think about your website’s experience from the vantage point of someone who knows nothing about your brand and is of average digital savviness. Consider how easy it is for them to search for certain products they might be looking for, find it, find out how long shipping will take, move through the checkout process and get tracking details. The sales funnel is usually comprised of:
+
 
 * Introduction (Awareness)
 * Education (Interest)
