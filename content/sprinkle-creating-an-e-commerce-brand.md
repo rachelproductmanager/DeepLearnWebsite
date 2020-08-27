@@ -88,6 +88,8 @@ Our website was thoughtfully designed to follow **e-commerce UX best practices**
 
   ![](/images/australia_smoked-chilli-salt_sprinkle_fa-1.jpg)
 * **Display the right amount of information** - we aimed to make product pages informative and helpful, providing recipe links, ingredients information, product uses and shipping information, answering most questions a user would have when landing on a product page. Copy was kept consistent with the brand voice and tone (friendly, helpful, casual).
+
+  ![](/images/screen-shot-2020-08-26-at-17-29-14.png)
 * **Easy and quick checkout process** - checkout was simple and fast with minimal fields and a clear, informative confirmation email to follow. You could check out as a guest and account creation was optional.
 * **Payment options** - we offered easy and commonly used payment options (credit card, PayPal, Google) via a secure payment gateway (Stripe).
 * **Product reviews and ratings** - these were clearly displayed for every product on the product page and viewable on the Home page as well.
