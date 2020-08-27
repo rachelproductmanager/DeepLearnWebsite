@@ -20,7 +20,7 @@ The Sprinkle idea was born out of my own love of cooking and flavour and a frust
 
 **Mission** - Sprinkle set out to shake up the spice industry and do for spices what the craft movement did for chocolate and coffee - introduce consumers to fresh, flavourful and ethically sourced spices. Sprinkle’s mission was to empower busy, health conscious home cooks and foodies to transform everyday cooking easily and quickly.
 
-![](/images/americas_organic-black-smoke_sprinkle_fa.jpg)
+![](/images/sprinkle_harvest_bundles_hero4.jpg)
 
 **DTC model** - Fundamentally, our goal was to be a **direct-to-consumer** (DTC) brand, i.e. sell directly to consumers through our website, dispensing with traditional middlemen such as retailers, supermarkets and distributors (and a long chain of spice traders) who stood between spice growers in developing countries and consumers in the West.
 
