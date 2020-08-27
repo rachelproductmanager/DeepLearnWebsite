@@ -119,21 +119,23 @@ Once we established product-market fit and based on customer feedback, we expand
 ####   
 **a) Your website is one of your most important scaling weapons**
 
-> Don’t assume that you can simply lift a Shopify template and orders will start flowing in. Shopify is an extremely useful platform and will certainly make your life a whole lot easier. But it’s key is to **customise** the template to your own needs, brand, product and audience. Work on your website never ends - you’ll need to constantly review your analytics, find problem areas (bounce rates/ abandoned carts/low conversion/traffic sources) and fix or tweak them. There’s a lot of experimentation involved and it won’t always be easy to determine why users act a certain way but you need to be on top of these things and continuously improve the experience as you get more **user feedback**.
+* Don’t assume that you can simply lift a Shopify template and orders will start flowing in. Shopify is an extremely useful platform and will certainly make your life a whole lot easier. But it’s key is to **customise** the template to your own needs, brand, product and audience. Work on your website never ends - you’ll need to constantly review your analytics, find problem areas (bounce rates/ abandoned carts/low conversion/traffic sources) and fix or tweak them. There’s a lot of experimentation involved and it won’t always be easy to determine why users act a certain way but you need to be on top of these things and continuously improve the experience as you get more **user feedback**.
 
-  
-> Don’t be afraid to experiment with **A/B testing** to try out different layouts of the Home page, imaging, copy, calls to action etc. Sometimes, it’s small things (like a button’s location or font size that can make a huge difference).
 
-  
-> It’s important to have a **mobile-first**, fast website (most visitors will abandon your website if a page takes more than 2 seconds to download).
+* Don’t be afraid to experiment with **A/B testing** to try out different layouts of the Home page, imaging, copy, calls to action etc. Sometimes, it’s small things (like a button’s location or font size that can make a huge difference).
 
-> the [Home page](https://archive.uie.com/brainsparks/2005/09/29/is-home-page-design-relevant-anymore/) is important but **product pages, about pages, the blog and other pages users may land on through Google searches are just as crucial to conversion**. Home pages of leading e-commerce retailers today tend to be more minimalistic and limit the amount of information, choices and content while helping users navigate their way through the site.
 
-> Treat your **product pages like mini Home pages** that help immerse the user in the brand, provide the information they’re looking for and help them discover other complementary or similar products they may be interested in.
+* Have a **mobile-first**, fast website (most visitors will abandon your website if a page takes more than 2 seconds to download).
+* The [Home page](https://archive.uie.com/brainsparks/2005/09/29/is-home-page-design-relevant-anymore/) is important but **product pages, about pages, the blog and other pages users may land on through Google searches are just as crucial to conversion**. Home pages of leading e-commerce retailers today tend to be more minimalistic and limit the amount of information, choices and content while helping users navigate their way through the site.
 
-> [Personalisation](https://optinmonster.com/ecommerce-personalization-tools/) tools are becoming more commonplace. If you can offer users in different locations or demographics an experience that’s tailored to their specific needs and problems, you’ll reap the rewards, reduce site abandonment/bounce rate and connect with your audience more effectively.
 
-> For more tips and best practices on how to optimise your website for e-commerce check out the [Baymard Institute](https://baymard.com/).
+* Treat your **product pages like mini Home pages** that help immerse the user in the brand, provide the information they’re looking for and help them discover other complementary or similar products they may be interested in.
+
+
+* [Personalisation](https://optinmonster.com/ecommerce-personalization-tools/) tools are becoming more commonplace. If you can offer users in different locations or demographics an experience that’s tailored to their specific needs and problems, you’ll reap the rewards, reduce site abandonment/bounce rate and connect with your audience more effectively.
+
+
+* For more tips and best practices on how to optimise your website for e-commerce check out the [Baymard Institute](https://baymard.com/).
 
 #### **b) Get visual**
 
