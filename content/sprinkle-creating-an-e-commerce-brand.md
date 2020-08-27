@@ -177,11 +177,13 @@ Content is a primary driver of marketing, user acquisition and virality. It’s 
 
 #### **f) Don’t assume customers always know what they want**
 
-> There’s a fine balance to be struck between having an intimate knowledge of your customer’s pain points, personas, motivations, goals and preferences on the one hand and asking customers to design your product.
+* There’s a fine balance to be struck between having an intimate knowledge of your customer’s pain points, personas, motivations, goals and preferences on the one hand and asking customers to design your product.
 
-> Ultimately, you should run several concurrent experiments to find your real product/market fit. You’ll no doubt discover that your initial thesis was incorrect - certain products will be a massive hit while others you thought would be a huge success end up faltering.
 
-> Conversely, don' assume that just because your brand/product makes sense to you, everyone will share the same view. Talking to your best customers, paying attention to customer reviews and listening to social media commentary regularly are all useful ways to gain valuable insights and discover your blind spots (of which there’ll be many).
+* Ultimately, you should run several concurrent experiments to find your real product/market fit. You’ll no doubt discover that your initial thesis was incorrect - certain products will be a massive hit while others you thought would be a huge success end up faltering.
+
+
+* Conversely, don' assume that just because your brand/product makes sense to you, everyone will share the same view. Talking to your best customers, paying attention to customer reviews and listening to social media commentary regularly are all useful ways to gain valuable insights and discover your blind spots (of which there’ll be many).
 
 #### **g) Be prepared to pivot** 
 
