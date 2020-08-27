@@ -144,7 +144,7 @@ Once we established product-market fit and based on customer feedback, we expand
 
 > High quality, high resolution photography is extremely important to tell your brand’s story, showcase your products and - most importantly - help users understand what they’re purchasing. Photography isn’t just important on the Home page. Product pages should be equally visual, engaging and include both clear, at scale product images as well as lifestyle shots showing your products in action. Visuals are also massively important given how crucial social media channels are to your brand marketing. Hire a decent photographer and get shooting!
 
-3. **Don’t skimp on design**
+#### **c) Don’t skimp on design**
 
 While there are plenty of good design tools out there today ([Canva](https://www.canva.com/) being a great one), DYI design will look like...DIY design!. Especially when you’re selling online as opposed to traditional bricks and mortar, your brand presence is all you have. This is how you communicate your identity, values and personality to your customers.
 
