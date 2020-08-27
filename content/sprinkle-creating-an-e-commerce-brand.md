@@ -139,12 +139,13 @@ Once we established product-market fit and based on customer feedback, we expand
 
 #### **b) Get visual**
 
-> While establishing a distinct, clear and unique brand voice and tone and carefully crafting your website and product label copy is vital, great visuals are key.
+* While establishing a distinct, clear and unique brand voice and tone and carefully crafting your website and product label copy is vital, great visuals are key.
 
-  
-> As [Steve Krug](http://sensible.com/) observes in his well known usability book ‘_Don’t Make Me Think_’ [most people in fact scan pages rather than read them](https://uxmyths.com/post/647473628/myth-people-read-on-the-web). Make sure your copy is impactful, consistent and short and let the visuals (images or video) do more of the talking.
 
-> High quality, high resolution photography is extremely important to tell your brand’s story, showcase your products and - most importantly - help users understand what they’re purchasing. Photography isn’t just important on the Home page. Product pages should be equally visual, engaging and include both clear, at scale product images as well as lifestyle shots showing your products in action. Visuals are also massively important given how crucial social media channels are to your brand marketing. Hire a decent photographer and get shooting!
+* As [Steve Krug](http://sensible.com/) observes in his well known usability book ‘_Don’t Make Me Think_’ [most people in fact scan pages rather than read them](https://uxmyths.com/post/647473628/myth-people-read-on-the-web). Make sure your copy is impactful, consistent and short and let the visuals (images or video) do more of the talking.
+
+
+* High quality, high resolution photography is extremely important to tell your brand’s story, showcase your products and - most importantly - help users understand what they’re purchasing. Photography isn’t just important on the Home page. Product pages should be equally visual, engaging and include both clear, at scale product images as well as lifestyle shots showing your products in action. Visuals are also massively important given how crucial social media channels are to your brand marketing. Hire a decent photographer and get shooting!
 
 #### **c) Don’t skimp on design**
 
