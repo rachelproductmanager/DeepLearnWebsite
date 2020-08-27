@@ -14,7 +14,9 @@ The Sprinkle idea was born out of my own love of cooking and flavour and a frust
 
 ## **1.Vision, mission & business model**
 
-**Vision -** Create an independent, innovative, Australian spice brand that brings together a community of food lovers and avid home cooks, inspires and empowers them to eat better and live better. The tagline was ‘**_Small Batch. Big Flavour_**’.
+#### **Vision** 
+
+Create an independent, innovative, Australian spice brand that brings together a community of food lovers and avid home cooks, inspires and empowers them to eat better and live better. The tagline was ‘**_Small Batch. Big Flavour_**’.
 
 ![](/images/jars_banner_green.jpeg)
 
