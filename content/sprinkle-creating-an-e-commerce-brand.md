@@ -70,9 +70,9 @@ We followed the following key principles:
 
 **2/ Maintain consistency across all mediums** and ensure the brand identity seamlessly flows through the website, products and packaging as well as digital content, marketing emails and social presence.
 
-**3/ Packaging** **isn’t an afterthought** - we carefully selected quality glass jars and designed a custom branded shipping box - packaging was purposely designed to be highly functional, aligned with our freshness values, consistent with the brand’s premium look and feel and deliver a remarkable user experience overall. Also, our packaging was **tailored for digital** (different to how you might design packaging for bricks and mortar retail). Labels, gift boxes and the signature Sprinkle shipping box were highly functional but also intended to be bright, colourful, eye catching and instagrammable.
+![](/images/sprinkle_ultimate_bundle_fa-7.jpg)
 
-![](/images/ultimate_sprinkle_bundle_flatlay.jpeg)
+**3/ Packaging** **isn’t an afterthought** - we carefully selected quality glass jars and designed a custom branded shipping box - packaging was purposely designed to be highly functional, aligned with our freshness values, consistent with the brand’s premium look and feel and deliver a remarkable user experience overall. Also, our packaging was **tailored for digital** (different to how you might design packaging for bricks and mortar retail). Labels, gift boxes and the signature Sprinkle shipping box were highly functional but also intended to be bright, colourful, eye catching and instagrammable.
 
 ![](/images/sprinkle-box-ingredients_flatlay_white_lr_fa.jpg)
 
