@@ -104,4 +104,4 @@ Once we established product-market fit and based on customer feedback, we expand
 * **Gift Boxes**
 * **Pantry items**
 
-\[INSERT BUNDLES< PANTRY< GIFTS\]
+![](/images/epicurean_box.jpg)![](/images/fire-and-smoke_box.jpg)![](/images/fire-and-smoke_flatlay.jpg)![](/images/screen-shot-2020-08-26-at-17-45-12.png)
