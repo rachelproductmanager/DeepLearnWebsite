@@ -23,8 +23,6 @@ We started Sprinkle, an innovative, next generation spice brand in May 2018.
 
 **Manufacturing** was a core part of our strategy and business model - we aimed to have a vertically integrated operation and fully control all elements of the supply chain - from sourcing our raw materials directly from select growers to packing and shipping the product ourselves, and everything in between.
 
-![](https://lh6.googleusercontent.com/93GPINmEGepi8hVjLY-h12E7jjDMaU75n2VVJLrKE6ZuWPV_lBAPfsBJVccKeG1kmzjKW2GnM1bR0Vdx71asfX9yXpfo3512ZumvKisj4Nu0WcoUrzADupjAYqWPEtRCTnHP-YXG =596x344)
-
 2. **Background & inspiration**
 
 The Sprinkle idea was born out of my own love of cooking and flavour and a frustration with the inferior quality spices found in unloved supermarket spice aisles everywhere. We wanted to introduce people to the magic of Tel-Aviv's iconic spice markets by helping customers experience what fresh, aromatic spice blends inspired by global cuisines really taste like and empower them to be healthy and cook incredible meals for their family and friends with minimal effort.
@@ -57,7 +55,7 @@ We followed the following principles:
 
 4. **Website design/UX**
 
-Our website was thoughtfully designed to follow **ecommerce UX best practices**:
+Our website was thoughtfully designed to follow **e-commerce UX best practices**:
 
 * **Don’t make users think -** the website was designed to be as obvious and self explanatory as possible (we went through several iterations and experiments to get it right). We wanted to enable visitors to either easily search and find what they’re after or browse without getting stuck or frustrated. Customers are short on time and attention so it’s important to help them get the job done with minimal need for thinking and learning your website’s layout, product range or shipping process. We decluttered the Home page to make it easy to navigate and product pages had clear, easy to digest sections.
 * **Mobile friendly** - our website was mobile compatible and fast as many shoppers today turn to their mobile phones first.
