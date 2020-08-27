@@ -16,6 +16,8 @@ The Sprinkle idea was born out of my own love of cooking and flavour and a frust
 
 **Vision -** Create an independent, innovative, Australian spice brand that brings together a community of food lovers and avid home cooks, inspires and empowers them to eat better and live better. The tagline was ‘**_Small Batch. Big Flavour_**’.
 
+![](/images/jars_banner_green.jpeg)
+
 **Mission** - Sprinkle set out to shake up the spice industry and do for spices what the craft movement did for chocolate and coffee - introduce consumers to fresh, flavourful and ethically sourced spices. Sprinkle’s mission was to empower busy, health conscious home cooks and foodies to transform everyday cooking easily and quickly.
 
 ![](/images/americas_organic-black-smoke_sprinkle_fa.jpg)
