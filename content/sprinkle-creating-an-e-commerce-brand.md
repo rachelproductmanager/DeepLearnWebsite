@@ -20,7 +20,9 @@ Create an independent, innovative, Australian spice brand that brings together a
 
 ![](/images/jars_banner_green.jpeg)
 
-**Mission** - Sprinkle set out to shake up the spice industry and do for spices what the craft movement did for chocolate and coffee - introduce consumers to fresh, flavourful and ethically sourced spices. Sprinkle’s mission was to empower busy, health conscious home cooks and foodies to transform everyday cooking easily and quickly.
+#### **Mission** 
+
+Sprinkle set out to shake up the spice industry and do for spices what the craft movement did for chocolate and coffee - introduce consumers to fresh, flavourful and ethically sourced spices. Sprinkle’s mission was to empower busy, health conscious home cooks and foodies to transform everyday cooking easily and quickly.
 
 ![](/images/sprinkle_harvest_bundles_hero4.jpg)
 
