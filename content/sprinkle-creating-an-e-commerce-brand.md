@@ -191,4 +191,6 @@ When you’re just at the start of the journey and figuring out of you have a pr
 
 ## Final word
 
-I'll leave you with one of my favourite Jeff Bezos quotes: “If you double the number of experiments you do per year you're going to double your inventiveness.” And that sums it all up nicely. 
+I'll leave you with one of my favourite Jeff Bezos quotes which sums up the e-commerce experience quite nicely: 
+
+> **“If you double the number of experiments you do per year you're going to double your inventiveness.”** 
