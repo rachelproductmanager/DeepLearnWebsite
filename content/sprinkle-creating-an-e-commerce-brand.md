@@ -9,11 +9,11 @@ title = "Sprinkle - Creating an e-commerce brand"
 type = "post"
 
 +++
+We started Sprinkle, an innovative, next generation spice brand in May 2018. The Sprinkle idea was born out of my own love of cooking and flavour and a frustration with the inferior quality spices found in unloved supermarket spice aisles everywhere. We wanted to introduce people to the magic of Tel-Aviv's iconic spice markets by helping customers experience what fresh, aromatic spice blends inspired by global cuisines really taste like and empower them to be healthy and cook incredible meals for their family and friends with minimal effort.
+
 ## **1.Vision, mission & business model**
 
-We started Sprinkle, an innovative, next generation spice brand in May 2018.
-
-**Vision** - Our **vision** was to create an independent, innovative, Australian spice brand that brings together a community of food lovers and avid home cooks, inspires and empowers them to eat better and live better. The tagline was ‘Small Batch. Big Flavour’.
+**Vision -** Create an independent, innovative, Australian spice brand that brings together a community of food lovers and avid home cooks, inspires and empowers them to eat better and live better. The tagline was ‘Small Batch. Big Flavour’.
 
 **Mission** - Sprinkle set out to shake up the spice industry and do for spices what the craft movement did for chocolate and coffee - introduce consumers to fresh, flavourful and ethically sourced spices. Sprinkle’s mission was to empower busy, health conscious home cooks and foodies to transform everyday cooking easily and quickly.
 
@@ -26,8 +26,6 @@ We started Sprinkle, an innovative, next generation spice brand in May 2018.
 **Manufacturing** was a core part of our strategy and business model - we aimed to have a vertically integrated operation and fully control all elements of the supply chain - from sourcing our raw materials directly from select growers to packing and shipping the product ourselves, and everything in between.
 
 ## **2.Background & inspiration**
-
-The Sprinkle idea was born out of my own love of cooking and flavour and a frustration with the inferior quality spices found in unloved supermarket spice aisles everywhere. We wanted to introduce people to the magic of Tel-Aviv's iconic spice markets by helping customers experience what fresh, aromatic spice blends inspired by global cuisines really taste like and empower them to be healthy and cook incredible meals for their family and friends with minimal effort.
 
 We were inspired by world-leading DTC consumer, lifestyle and food brands who are at the forefront of e-commerce and digital innovation such as [Net-a-Porter](https://www.net-a-porter.com/), [GOOP](https://goop.com/), [Food52](https://food52.com/), [Dandelion Chocolate](https://store.dandelionchocolate.com/pages/home), the [Honest Company](https://www.honest.com/), [Black Rifle Coffee](https://www.blackriflecoffee.com/), [All Birds](https://www.allbirds.com/) and [Warby Parker](https://www.warbyparker.com/).
 
