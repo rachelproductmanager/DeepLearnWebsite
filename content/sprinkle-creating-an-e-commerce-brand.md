@@ -72,6 +72,8 @@ We followed the following key principles:
 
 ![](/images/screen-shot-2020-08-27-at-12-37-31.png)
 
+![](/images/screen-shot-2020-08-27-at-12-37-49.png)
+
 ## **4.Website design/UX**
 
 Our website was thoughtfully designed to follow **e-commerce UX best practices**:
