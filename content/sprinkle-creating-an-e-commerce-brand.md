@@ -14,37 +14,39 @@ The Sprinkle idea was born out of my own love of cooking and flavour and a frust
 
 ## **1.Vision, mission & business model**
 
-#### **Vision** 
+#### **Vision**
 
 Create an independent, innovative, Australian spice brand that brings together a community of food lovers and avid home cooks, inspires and empowers them to eat better and live better. The tagline was ‘**_Small Batch. Big Flavour_**’.
 
 ![](/images/jars_banner_green.jpeg)
 
-#### **Mission** 
+#### **Mission**
 
 Sprinkle set out to shake up the spice industry and do for spices what the craft movement did for chocolate and coffee - introduce consumers to fresh, flavourful and ethically sourced spices. Sprinkle’s mission was to empower busy, health conscious home cooks and foodies to transform everyday cooking easily and quickly.
 
 ![](/images/sprinkle_harvest_bundles_hero4.jpg)
 
-#### **DTC model** 
+#### **DTC model**
 
 Fundamentally, our goal was to be a **direct-to-consumer** (DTC) brand, i.e. sell directly to consumers through our website, dispensing with traditional middlemen such as retailers, supermarkets and distributors (and a long chain of spice traders) who stood between spice growers in developing countries and consumers in the West.
 
 ![](/images/australia_smoked-chilli-salt_sprinkle_fa-1.jpg)
 
-#### **Strategy** 
+#### **Strategy**
 
 Our strategy was to differentiate ourselves from our competitors by delivering an exceptional product and designing an enhanced, end-to-end digital user experience that would delight customers and exceed expectations. We devised unique ways to reach and engage with our customers mainly through digital channels, which was quite revolutionary, especially for this product category.
 
-#### **Manufacturing** 
+#### **Manufacturing**
 
 Manufacturing was a core part of our strategy and business model - we aimed to have a vertically integrated operation and fully control all elements of the supply chain - from sourcing our raw materials directly from select growers to packing and shipping the product ourselves, and everything in between.
 
-## **2.Background & inspiration**
+## **2. Inspiration**
 
 We were inspired by world-leading DTC consumer, lifestyle and food brands who are at the forefront of e-commerce and digital innovation such as [Net-a-Porter](https://www.net-a-porter.com/), [GOOP](https://goop.com/), [Food52](https://food52.com/), [Dandelion Chocolate](https://store.dandelionchocolate.com/pages/home), the [Honest Company](https://www.honest.com/), [Black Rifle Coffee](https://www.blackriflecoffee.com/), [All Birds](https://www.allbirds.com/) and [Warby Parker](https://www.warbyparker.com/).
 
 We tapped into a growing global trend of increased consumer demand for independent, ethical and authentic brands that offered higher quality products and connected with customer values and aspirations. The market for organic spices and condiments was predicted to grow at 5% CAGR and be worth approximately $40bn by 2025. Additionally, celebrity chefs such as Yotam [Ottolenghi](https://ottolenghi.co.uk/) and [Jamie Oliver](https://www.jamieoliver.com/) were popularising home cooking and introducing people to Middle Eastern cooking, exotic spices and other lesser known condiments and flavours which resulted in increased demand for these products.
+
+![](/images/sprinkle_ultimate_bundles_hero7.jpg)
 
 ## **3.Brand design (logo, colours, labels, packaging & stationery)**
 
