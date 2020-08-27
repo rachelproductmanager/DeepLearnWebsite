@@ -171,7 +171,7 @@ Each of these steps should be seamless, frictionless, informative and enjoyable.
 
 Content is a primary driver of marketing, user acquisition and virality. It’s hugely important in telling your brand story, engaging consumers, propagating your message and increasing retention. Brands like [Dollar Shave Club](https://www.dollarshaveclub.com/), [Food52](https://food52.com/), [Goop](https://goop.com/), [Redbull](https://www.redbull.com/) and [Glossier](https://www.glossier.com/) are at the forefront of using content to reach and connect with their target audience and cement their reputation as lifestyle brands. Quality content (whether on product pages, blog, YouTube channels or social) will also be instrumental in SEO and driving organic traffic to your store. Good content takes a lot of effort but it’s so much more effective (and ultimately cheaper) than ads for growing your customer base and increasing awareness of your brand on the market.
 
-6. **Don’t assume customers always know what they want**
+#### **f) Don’t assume customers always know what they want**
 
 > There’s a fine balance to be struck between having an intimate knowledge of your customer’s pain points, personas, motivations, goals and preferences on the one hand and asking customers to design your product.
 
@@ -179,6 +179,6 @@ Content is a primary driver of marketing, user acquisition and virality. It’s 
 
 > Talking to your best customers, paying attention to reviews and listening to social media commentary regularly are all useful ways to gain valuable insights and discover your blind spots (of which there’ll be many).
 
-7. **Be prepared to pivot (rapidly)**
+#### **g) Be prepared to pivot (rapidly)**
 
 When you’re just at the start of the journey and figuring out of you have a product-market fit, it’s essential to be egoless and prepared to course correct at speed. Decision making quality and velocity are both super important. You should always have your finger on the pulse, know your market, competitors and customers in detail and ensure you can move fast and pivot if need be.
