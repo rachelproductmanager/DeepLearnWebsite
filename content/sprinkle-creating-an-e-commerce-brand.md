@@ -158,6 +158,10 @@ Content is a primary driver of marketing, user acquisition and virality. It’s 
 * Ultimately, you should run several concurrent experiments to find your real product/market fit. You’ll no doubt discover that your initial thesis was incorrect - certain products will be a massive hit while others you thought would be a huge success end up faltering.
 * Conversely, don't assume that just because your brand/product makes sense to you, everyone will share the same view. Talking to your best customers, paying attention to customer reviews and listening to social media commentary regularly are all useful ways to gain valuable insights and discover your blind spots (of which there’ll be many).
 
+> “Even when they don’t yet know it, customers want something better, and your desire to delight customers will drive you to invent on their behalf. No customer ever asked Amazon to create the Prime membership program, but it sure turns out they wanted it.” 
+>
+> \-Jeff Bezos, Amazon Founder & CEO
+
 #### **g) Be prepared to pivot**
 
 When you’re just at the start of the journey and figuring out of you have a product-market fit, it’s essential to be egoless and prepared to course correct at speed. Decision making quality and velocity are both super important. You should always have your finger on the pulse, know your market, competitors and customers in detail and ensure you can move fast and pivot if need be.
