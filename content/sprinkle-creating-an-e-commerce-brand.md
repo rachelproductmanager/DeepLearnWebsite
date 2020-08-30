@@ -100,6 +100,10 @@ Our website was thoughtfully designed to follow **e-commerce UX best practices**
 * **Payment options** - we offered easy and commonly used payment options (credit card, PayPal, Google) via a secure payment gateway (Stripe).
 * **Product reviews and ratings** - these were clearly displayed for every product on the product page and viewable on the Home page as well.
 
+**_Examples of collection & product pages:_**
+
+![](/images/screencapture-sprinklespices-au-collections-spiceblends-2020-08-30-12_16_52.png)![](/images/screencapture-sprinklespices-au-collections-spicebundle-2020-08-30-12_12_26.png)![](/images/screencapture-sprinklespices-au-collections-spiceblends-products-jerusalem-mix-2020-08-30-12_17_21.png)
+
 ## **5.Product range**
 
 Once we established product-market fit and based on customer feedback, we expanded our product range to include: **Bundles** - ready-to-purchase boxes of 3,4 or 8 products enabling customers to quickly pick a combination suited to their tastes or cooking goals; **Gift Boxes** - 4 types of 'foodie' gift box catering for various tastes (BBQ, Middle Eastern flavours, Die hard foodies); and complementary **Pantry items** from select artisan Australian small batch producers (such as organic olive oils, harissa and preserved lemons).
