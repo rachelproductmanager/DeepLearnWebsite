@@ -162,6 +162,8 @@ Content is a primary driver of marketing, user acquisition and virality. It’s 
 
 When you’re just at the start of the journey and figuring out of you have a product-market fit, it’s essential to be egoless and prepared to course correct at speed. Decision making quality and velocity are both super important. You should always have your finger on the pulse, know your market, competitors and customers in detail and ensure you can move fast and pivot if need be.
 
+#### **h) Mind your metrics**
+
 ## Final word
 
 I'll leave you with one of my favourite Jeff Bezos quotes which sums up the e-commerce experience quite nicely:
