@@ -146,7 +146,13 @@ Each of these steps should be seamless, frictionless, informative and enjoyable.
 
 Content is a primary driver of marketing, user acquisition and virality. It’s hugely important in telling your brand story, engaging consumers, propagating your message and increasing retention. Brands like [Dollar Shave Club](https://www.dollarshaveclub.com/), [Food52](https://food52.com/), [Goop](https://goop.com/), [Redbull](https://www.redbull.com/) and [Glossier](https://www.glossier.com/) are at the forefront of using content to reach and connect with their target audience and cement their reputation as lifestyle brands. Quality content (whether on product pages, blog, YouTube channels or social) will also be instrumental in SEO and driving organic traffic to your store. Good content takes a lot of effort but it’s so much more effective (and ultimately cheaper) than ads for growing your customer base and increasing awareness of your brand on the market.
 
-#### **f) Don’t assume customers always know what they want**
+**_Example of our Blog and Recipes pages:_**
+
+![](/images/screencapture-sprinklespices-au-blogs-recipes-2020-08-30-12_14_01.png)
+
+![](/images/screencapture-sprinklespices-au-blogs-inspiration-2020-08-30-12_15_37.png)
+
+#### **f) Listen carefully to your market but don’t assume customers always know what they want**
 
 * There’s a fine balance to be struck between having an intimate knowledge of your customer’s pain points, personas, motivations, goals and preferences on the one hand and asking customers to design your product.
 * Ultimately, you should run several concurrent experiments to find your real product/market fit. You’ll no doubt discover that your initial thesis was incorrect - certain products will be a massive hit while others you thought would be a huge success end up faltering.
