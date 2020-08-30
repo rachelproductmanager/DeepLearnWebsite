@@ -56,7 +56,7 @@ We tapped into a growing global trend of increased consumer demand for independe
 
 ## **3.Brand design (logo, colours, labels, packaging & stationery)**
 
-The Sprinkle **brand** **design** was a central part of the product development process and something we spent a lot of time on refining. What started as a rough idea quickly transformed into a vibrant brand with its own distinct personality. The **brand name** itself - ‘Sprinkle’ - was chosen because it’s catchy, memorable and short. It embodied the product and central brand message - that cooking with spices is easy - it only requires a sprinkle.
+The Sprinkle **brand** **design** was a central part of the product development process and something we spent a lot of time on refining. What started as a rough idea quickly transformed into a vibrant brand with its own distinct personality. The **brand name** itself - ‘Sprinkle’ - was chosen because it’s catchy, memorable and embodied the product and central brand message - that cooking with spices is easy - it only requires a little sprinkle.
 
 We wanted to create a fun, engaging and user-friendly spice brand (in contrast to the trite, tired and uninspiring spice and condiments brands out there) that people would enjoy using daily in their kitchen.
 
