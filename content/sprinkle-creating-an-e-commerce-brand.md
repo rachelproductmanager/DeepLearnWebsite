@@ -168,6 +168,12 @@ When you’re just at the start of the journey and figuring out of you have a pr
 
 #### **h) Mind your metrics**
 
+Last but definitely not least, your metrics matter and you should measure them regularly and consistently. Know your way around Google Analytics and set metrics that make sense for your business. Above all, if we can learn anything from e-commerce giant Amazon, is that being customer-obsessed is a good mantra to have and focusing on long-term gains rather that short term wins is a wise strategy.
+
+> _"We first measure ourselves in terms of the metrics most indicative of our market leadership: customer and revenue growth, the degree to which our customers continue to purchase from us on a repeat basis, and the strength of our brand."_ 
+>
+> \-Jeff Bezos, Amazon Founder & CEO
+
 ## Final word
 
 I'll leave you with one of my favourite Jeff Bezos quotes which sums up the e-commerce experience quite nicely:
