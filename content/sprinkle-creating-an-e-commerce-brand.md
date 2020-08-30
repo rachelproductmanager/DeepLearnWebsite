@@ -56,11 +56,11 @@ We tapped into a growing global trend of increased consumer demand for independe
 
 ## **3.Brand design (logo, colours, labels, packaging & stationery)**
 
-The Sprinkle **brand** **design** was a central part of the product development process and something we spent a lot of time on refining. What started as a rough idea quickly transformed into a vibrant brand with its own distinct personality. The **brand name** itself - ‘Sprinkle’ - was chosen because it’s catchy, memorable and embodied the product and central brand message - that flavourful healthy cooking is easy - it only requires a little sprinkle. We wanted to create a fun, engaging and premium spice brand (in contrast to the trite, tired and uninspiring spice and condiments brands out there) that people would enjoy using daily in their kitchen.
+The Sprinkle **brand** **design** was a central part of the product development process and something we spent a lot of time on refining. What started as a rough idea quickly transformed into a vibrant brand with its own distinct personality. The **brand name** itself - ‘Sprinkle’ - was chosen because it’s catchy, memorable and embodied the product and central brand message - that flavourful healthy cooking is easy - it only requires a little sprinkle. We wanted to create a fun, engaging and premium spice brand (in contrast to the trite, tired and uninspiring spice and condiments brands out there that are stale and packed with nasties) that people would enjoy using daily in their kitchen.
 
 We followed the following key principles:
 
-**1/** **Clean, modern & minimalistic design** - Because spices and spice blends originate from different parts of the world and a variety of global cuisines, our **brand colour palette** reflects **5 regions** which were the categories ‘housing’ our product collection (Middle East, North Africa, Europe, Americas and Australia). Our **logo and brand fonts** were also designed to capture the brand’s playful spirit.
+**1/** **Clean, modern & minimalistic design** - Because spices and spice blends originate from different parts of the world and a variety of global cuisines, our **brand colour palette** reflects **5 regions** which were the categories ‘housing’ our product collection (Middle East, North Africa, Europe, Americas and Australia). Our **logo and brand fonts** were also designed to capture the brand’s playful spirit - we were serious about spices but didn't take ourselves too seriously.
 
 ![](/images/screen-shot-2020-08-27-at-12-32-09.png)
 
@@ -131,7 +131,7 @@ Once we established product-market fit and based on customer feedback, we expand
 
 #### **d) Make it seamless, delightful and fuss-free**
 
-* E-commerce may seem deceptively easy but there’s an art and a science to getting it right. There’s a lot more to it than just launching a website and posting packages. The entire shopping experience should be designed end-to-end to ensure **all customer touchpoints** deliver a positive, easy, fast and memorable experience. This means that everything from your website to social channels to the shopping funnel, shipping, order tracking and customer service should work like a Swiss clock - each touchpoint should be carefully considered from **a customer’s point of view** and be **congruent** with the brand, your messaging, strategy and vision. E.g.
+* E-commerce may seem deceptively easy but there’s an art and a science to getting it right. There’s a lot more to it than just launching a website and posting packages. The entire shopping experience should be designed end-to-end to ensure **all customer touch points** deliver a positive, easy, fast and memorable experience. This means that everything from your website to social channels to the shopping funnel, shipping, order tracking and customer service should work like a Swiss clock - each touchpoint should be carefully considered from **a customer’s point of view** and be **congruent** with the brand, your messaging, strategy and vision. E.g.
 * Think about your website’s experience from the vantage point of someone who knows nothing about your brand and is of average digital savviness. Consider how easy it is for them to search for certain products they might be looking for, find it, find out how long shipping will take, move through the checkout process and get tracking details. The sales funnel is usually comprised of:
 * Introduction (Awareness)
 * Education (Interest)
