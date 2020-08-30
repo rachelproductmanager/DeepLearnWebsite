@@ -14,7 +14,7 @@ The Sprinkle idea was born out of my own love of cooking and flavour and a frust
 
 We wanted to introduce people to the magic of Tel-Aviv's iconic spice markets by helping customers experience what fresh, aromatic spice blends inspired by global cuisines really taste like and empower them to be healthy and cook incredible meals for their family and friends with minimal effort.
 
-## **1.Vision, mission & business model**
+## **1.Vision & business model**
 
 #### **Vision**
 
