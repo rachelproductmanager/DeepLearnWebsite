@@ -88,7 +88,7 @@ Our website was thoughtfully designed to follow **e-commerce UX best practices**
 
 ## **5.Product range**
 
-Our collection included 14 **spice blends**, 6 **single origin and fine salts**, several spice **bundles** (changed by season) and 4 **gift hampers** carefully curated for foodies, BBQ lovers and avid cooks which included Sprinkle products and local, small batch goodies (condiments, sweets etc). We also sold complementary **pantry** items (e.g. organic olive oil, preserved lemons, harissa paste).
+Our collection included 14 **spice blends**, 6 **single origin and fine salts**, several spice **bundles** (changed by season) and 4 **gift hampers** carefully curated for foodies, BBQ lovers and avid cooks which included Sprinkle products and local, small batch goodies (condiments, sweets etc) from Australian makers. We also sold complementary **pantry** items (e.g. organic olive oil, preserved lemons, harissa paste) through partnerships with small local manufacturers who shared our values.
 
 **_Sprinkle's Bundles, Gift Boxes & Pantry:_**
 
