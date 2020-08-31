@@ -60,8 +60,6 @@ We followed the following key principles:
 
 **3/ Packaging** **isn’t an afterthought** - we carefully selected quality glass jars and designed a custom branded shipping box - packaging was purposely designed to be highly functional, aligned with our freshness values, consistent with the brand’s premium look and feel and deliver a remarkable user experience overall. Also, our packaging was **tailored for digital** (different to how you might design packaging for bricks and mortar retail). Labels, gift boxes and the signature Sprinkle shipping box were highly functional but also intended to be bright, colourful, eye catching and instagrammable.
 
-![](/images/sprinkle-box-ingredients_flatlay_white_lr_fa.jpg)
-
 **4/ End-to-end personalised experience** - In e-commerce the shopping experience doesn’t end at checkout. It’s important to ensure a remarkable shopping experience at every customer touchpoint in the shopping funnel (from website to shipping to unboxing and beyond). Inspired by e-commerce giants such as Net-a-Porter, our products included premium tissue paper wrapping, custom stickers, a custom-designed **Thank You Card** with a handwritten message as well as a Sprinkle **Intro Card** that told customers a bit more about the brand’s story and mission and helped them find useful recipes and cooking inspiration.
 
 ![](/images/screen-shot-2020-08-27-at-12-37-31.png)
