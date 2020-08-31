@@ -88,6 +88,8 @@ Our collection included 14 **spice blends**, 6 **single origin and fine salts**,
 
 ![](/images/giftbox_ex.jpg)
 
+![](/images/bottle-3_chilli-olive-oil.jpg)
+
 ## **6.Key takeaways**
 
 #### **a) Your website is one of your most important scaling weapons**
