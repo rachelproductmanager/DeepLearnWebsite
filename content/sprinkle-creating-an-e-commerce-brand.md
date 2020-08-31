@@ -30,8 +30,6 @@ Fundamentally, our goal was to be a **direct-to-consumer** (DTC) brand, i.e. sel
 
 Our strategy was to differentiate ourselves from our competitors by delivering an exceptional product and designing an enhanced, end-to-end digital user experience that would delight customers and exceed expectations. We devised unique ways to reach and engage with our customers mainly through digital channels, which was quite revolutionary, especially for this product category.
 
-![](/images/americas_organic-black-smoke_sprinkle_fa.jpg)
-
 #### **Manufacturing**
 
 Manufacturing was a core part of our strategy and business model - we aimed to have a vertically integrated operation and fully control all elements of the supply chain - from sourcing our raw materials directly from select growers to packing and shipping the product ourselves, and everything in between.
