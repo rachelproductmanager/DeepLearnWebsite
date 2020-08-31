@@ -8,7 +8,6 @@ title = "Sprinkle - Creating an e-commerce spice brand"
 type = "post"
 
 +++
-
 We started Sprinkle, an innovative, next generation spice brand in May 2018.
 
 The Sprinkle idea was born out of my own love of cooking and flavour and a frustration with the inferior quality spices found in unloved supermarket spice aisles everywhere. We wanted to introduce people to the magic of Tel-Aviv's iconic spice markets by helping customers experience what fresh, aromatic spice blends inspired by global cuisines really taste like and empower them to be healthy and cook incredible meals for their family and friends with minimal effort.
@@ -42,6 +41,8 @@ Manufacturing was a core part of our strategy and business model - we aimed to h
 We were inspired by world-leading DTC consumer, lifestyle and food brands who are at the forefront of e-commerce and digital innovation such as [Net-a-Porter](https://www.net-a-porter.com/), [GOOP](https://goop.com/), [Food52](https://food52.com/), [Dandelion Chocolate](https://store.dandelionchocolate.com/pages/home), the [Honest Company](https://www.honest.com/), [Black Rifle Coffee](https://www.blackriflecoffee.com/), [All Birds](https://www.allbirds.com/) and [Warby Parker](https://www.warbyparker.com/).
 
 We tapped into a growing global trend of increased consumer demand for independent, ethical and authentic brands that offered higher quality products and connected with customer values and aspirations. The market for organic spices and condiments was predicted to grow at 5% CAGR and be worth approximately $40bn by 2025. Additionally, celebrity chefs such as Yotam [Ottolenghi](https://ottolenghi.co.uk/) and [Jamie Oliver](https://www.jamieoliver.com/) were popularising home cooking and introducing people to Middle Eastern cooking, exotic spices and other lesser known condiments and flavours which resulted in increased demand for these products.
+
+![](/images/sprinkle_harvest_bundles_hero4.jpg)
 
 ## **3.Brand design (logo, colours, labels, packaging & stationery)**
 
