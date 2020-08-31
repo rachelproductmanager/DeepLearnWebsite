@@ -72,7 +72,9 @@ Our website was thoughtfully designed to follow **e-commerce UX best practices**
 * **Payment options** - we offered easy and commonly used payment options (credit card, PayPal, Google) via a secure payment gateway (Stripe).
 * **Product reviews and ratings** - these were clearly displayed for every product on the product page and viewable on the Home page as well.
 
-**_Examples of collection & product pages:_**
+**_Examples of collections & product pages:_**
+
+![](/images/blends_collection_page_ex.jpg)
 
 ## **5.Product range**
 
