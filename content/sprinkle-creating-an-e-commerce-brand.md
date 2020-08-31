@@ -46,10 +46,6 @@ We were inspired by world-leading DTC consumer, lifestyle and food brands who ar
 
 We tapped into a growing global trend of increased consumer demand for independent, ethical and authentic brands that offered higher quality products and connected with customer values and aspirations. The market for organic spices and condiments was predicted to grow at 5% CAGR and be worth approximately $40bn by 2025. Additionally, celebrity chefs such as Yotam [Ottolenghi](https://ottolenghi.co.uk/) and [Jamie Oliver](https://www.jamieoliver.com/) were popularising home cooking and introducing people to Middle Eastern cooking, exotic spices and other lesser known condiments and flavours which resulted in increased demand for these products.
 
-![](/images/untitled-design.png)
-
-![](/images/sprinkle_ultimate_bundles_hero7.jpg)
-
 ## **3.Brand design (logo, colours, labels, packaging & stationery)**
 
 The Sprinkle **brand** **design** was a central part of the product development process and something we spent a lot of time on refining. What started as a rough idea quickly transformed into a vibrant brand with its own distinct personality. The **brand name** itself - ‘Sprinkle’ - was chosen because it’s catchy, memorable and embodied the product and central brand message - that flavourful healthy cooking is easy - it only requires a little sprinkle. We wanted to create a fun, engaging and premium spice brand (in contrast to the trite, tired and uninspiring spice and condiments brands out there that are stale and packed with nasties) that people would enjoy using daily in their kitchen.
