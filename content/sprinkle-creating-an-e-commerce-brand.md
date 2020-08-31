@@ -62,10 +62,6 @@ We followed the following key principles:
 
 **4/ End-to-end personalised experience** - In e-commerce the shopping experience doesn’t end at checkout. It’s important to ensure a remarkable shopping experience at every customer touchpoint in the shopping funnel (from website to shipping to unboxing and beyond). Inspired by e-commerce giants such as Net-a-Porter, our products included premium tissue paper wrapping, custom stickers, a custom-designed **Thank You Card** with a handwritten message as well as a Sprinkle **Intro Card** that told customers a bit more about the brand’s story and mission and helped them find useful recipes and cooking inspiration.
 
-![](/images/screen-shot-2020-08-27-at-12-37-31.png)
-
-![](/images/screen-shot-2020-08-27-at-12-37-49.png)
-
 ## **4.Website design/UX**
 
 Our website was thoughtfully designed to follow **e-commerce UX best practices**:
