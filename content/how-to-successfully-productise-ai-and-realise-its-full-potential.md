@@ -52,6 +52,8 @@ The bottom line is that it seems - outside of Big Tech - two things are widely m
 
 2/ How to **successfully productise AI**.
 
+![](/images/ai_challenges_infographic.jpg)
+
 ## **“I know it’s there; I just don’t know how to take advantage of it”**
 
 As [Google](https://services.google.com/fh/files/misc/ai_adoption_framework_whitepaper.pdf) points out, when it comes to innovative and disruptive ideas, what often bridges the gap between ambitious ideas and brilliant outcomes is a company’s ability to **effectively make data-driven decisions and execute at scale**. That’s where machine learning (ML) comes in - it can help companies cleverly and rapidly optimise data at scale.
@@ -84,13 +86,9 @@ AI projects can be complex and challenging due to certain AI idiosyncrasies:
 2. **2/ Bad data** - Lack of integrated, clean, and fresh data make your machine learning tools useless. You won’t be able to gain actionable insights tailored to your needs, which translates to murky models and undermines the power of ML. Data is often siloed across many lines of business and needs to be brought into a central, **unified data lake** that makes it easier to derive insights from unstructured data and easier also to perform batch integration for reporting.
 3. **3/** [**Schedule uncertainty**](https://towardsdatascience.com/planning-ai-projects-32060f1d98d6) - AI products may take a while to get right as models may need to be built from the ground up, trained, validated, launched and then monitored in live environments, tweaked and continuously retrained to improve. Often, data collection, cleaning and labelling can be incredibly time consuming and must take place before the training phase can start. It’s therefore tricky to guarantee results on a specific timeline.
 4. **4/ High cost** - ML projects require solid data infrastructure and highly skilled staff. They’re iterative and never ending. Various costs such as compute power, hiring, training, software, business process change, cloud services and integration can add up.
-
 5. **5/** [**Accuracy and relevance**](https://towardsdatascience.com/why-machine-learning-models-degrade-in-production-d0f2108e9214) - ML models typically degrade in production and require continuous iteration and training on fresh data to improve. ML models rarely deliver 100% accuracy and perfect predictions. Tradeoffs are usually made between ML-specific performance metrics (such as accuracy vs relevance), depending on the product’s use case. “The model is produced by code, but it isn’t code; it’s an artifact of the code and the training data. [**That data is never as stable as we’d like to think**.](https://www.oreilly.com/radar/what-you-need-to-know-about-product-management-for-ai/) As your user base grows, the demographics and behavior of the user population in production shift away from your initial training data, which was based on early adopters. Models also become stale and outdated over time. To make things even more challenging, **the real world adapts to your model’s predictions and decisions**. A model for detecting fraud will make some kinds of fraud harder to commit–and bad actors will react by inventing new kinds of fraud, invalidating the original model.”
-
 6. **6/** [**Opacity**](https://medium.com/@perceptilabs/the-importance-of-transparency-in-machine-learning-models-368e16f360bc) - ML models can be buggy, or difficult to understand and explain both internally and to your customers. It’s not always straightforward to know why a certain prediction was made or how to debug issues such as bias. Tools like [Google’s Explainable AI](https://cloud.google.com/explainable-ai/) help with the development of interpretable and inclusive ML models and are designed to improve data sets or model architecture and debug model performance.
-
 7. **7/ Inherent** [**fairness and bias issues**](https://hbr.org/2019/10/what-do-we-do-about-the-biases-in-ai) - Human biases can make their way into artificial intelligence systems - with harmful results. Being acutely aware of those risks and working to reduce them is a priority and part of the development and design process.
-
 8. **8/** [**Hard to estimate ROI**](https://www.accenture.com/us-en/insights/artificial-intelligence/roi-artificial-intelligence) - Unlike traditional hardware or software investments, where the costs and impacts are more neatly defined and predictable, estimating future returns for AI projects can be challenging. Some AI applications link neatly to projected returns, making ROI calculations straightforward. Other applications are more complex and unpredictable, making it challenging to use typical ROI approaches. Not all large datasets will necessarily contain useful patterns, let alone patterns that can provide more value than the cost of looking for them. Sometimes the commercial advantages gained by certain product features may not justify the effort/cost but that may not be apparent until after the product is launched. A/B testing (i.e. comparing the new application vs the status quo) may help with assessing value. Assessing AI products’ ROI is usually heavily customised to each organisation’s data and circumstances.
 
 ## **Why are AI projects different to standard software development**
@@ -129,14 +127,8 @@ AI clearly has the potential to fundamentally disrupt your market, create innova
 Think about:
 
 * How vulnerable your business model might be to AI disruption;
-
-
 * What are the game-changing openings within your market and how can you take advantage;
-
-
 * Could you do things that have never been done before, rather than simply automating or accelerating existing capabilities;
-
-
 * Do you have the right talent, data and technology to execute on AI opportunities.
 
 Get it right and, in Jeff Bezos’ words, it’ll always be Day One.
