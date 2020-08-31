@@ -76,6 +76,8 @@ Our website was thoughtfully designed to follow **e-commerce UX best practices**
 
 ![](/images/blends_collection_page_ex.jpg)
 
+![](/images/baharat_pro_page_ex.jpg)
+
 ## **5.Product range**
 
 Our collection included 14 **spice blends**, 6 **single origin and fine salts**, several spice **bundles** (changed by season) and 4 **gift hampers** carefully curated for foodies, BBQ lovers and avid cooks which included Sprinkle products and local, small batch goodies (condiments, sweets etc). We also sold complementary **pantry** items (e.g. organic olive oil, preserved lemons, harissa paste).
