@@ -16,7 +16,7 @@ We were **product-obsessed.** But aside from a relentless focus on the quality, 
 
 We decided to adopt a **vertically-integrated model** (i.e. not outsource manufacturing and fulfilment as many online businesses do). That helped us achieve brand USP as most brands in the spice category either manufacture in giant factories or outsource the making and/or shipping of their products to third parties, resulting in an inferior product and a mediocre customer experience overall. We wanted to innovate by doing things the right way, not necessarily the easy way, and focus on long-term goals rather than short-term gains. 
 
-To implement this strategy, we built a world-class website as well as a small factory in Melbourne, invested heavily in brand design and product photography, designed custom packaging and set up various operational structures to support efficient manufacturing and fulfilment. 
+To implement this strategy, we built a world-class **website** as well as a small **factory** in Melbourne, invested heavily in **brand design**, **product photography** and **content**, designed custom **packaging** and set up various operational structures to support efficient **manufacturing and fulfilment**. 
 
 ## **1.Vision & business model**
 
