@@ -12,11 +12,11 @@ We started Sprinkle, an innovative, next generation spice brand in May 2018.
 
 The 'Sprinkle' idea was born out of my own love of cooking and flavour and a frustration with the inferior quality spices found in unloved supermarket spice aisles everywhere. We wanted to introduce people to the magic of Tel-Aviv's iconic spice markets by helping customers experience what fresh, aromatic spice blends inspired by global cuisines really taste like and empower them to be healthy and cook incredible meals for their family and friends with minimal effort.
 
-We were **product-obsessed.** But aside from a relentless focus on the quality, freshness and uniqueness of our products, ethical ingredient sourcing and sustainable packaging, we were also **customer centric** in our approach - we tried to reinvent the online shopping experience in Australia and delight our customers with personalised, thoughtful packaging, super fast delivery and outstanding customer service so that the Sprinkle end-to-end brand experience was as remarkable as the product itself. 
+We were **product-obsessed.** But aside from a relentless focus on the quality, freshness and uniqueness of our products, ethical ingredient sourcing and sustainable packaging, we were also **customer centric** in our approach - we tried to reinvent the online shopping experience in Australia and delight our customers with personalised, thoughtful packaging, super fast delivery and outstanding customer service so that the Sprinkle end-to-end brand experience was as remarkable as the product itself.
 
-We decided to adopt a **vertically-integrated model** (i.e. not outsource manufacturing and fulfilment as many online businesses do). That helped us achieve brand USP as most brands in the spice category either manufacture in giant factories or outsource the making and/or shipping of their products to third parties, resulting in an inferior product and a mediocre customer experience overall. We wanted to innovate by doing things the right way, not necessarily the easy way, and focus on long-term goals rather than short-term gains. 
+We decided to adopt a **vertically-integrated model** (i.e. not outsource manufacturing and fulfilment as many online businesses do). That helped us achieve brand USP as most brands in the spice category either manufacture in giant factories or outsource the making and/or shipping of their products to third parties, resulting in an inferior product and a mediocre customer experience overall. We wanted to innovate by doing things the right way, not necessarily the easy way, and focus on long-term goals rather than short-term gains.
 
-To implement this strategy, we built a world-class **website** as well as a small **factory** in Melbourne, invested heavily in **brand design**, **product photography** and **content**, designed custom **packaging** and set up various operational structures to support efficient **manufacturing and fulfilment**. 
+To implement this strategy, we built a world-class **website** as well as a small **factory** in Melbourne, invested heavily in **brand design**, **product photography** and **content**, designed custom **packaging** and set up various operational structures to support efficient **manufacturing and fulfilment**.
 
 The brand grew exponentially month-on-month with loyal customers from all over Australia and over 100 five-star reviews. We also worked with a few select stockists in VIC, NSW and QLD and established a growing social media following on IG.
 
@@ -138,7 +138,9 @@ Each of these steps should be seamless, frictionless, informative and enjoyable.
 
 Content is a primary driver of marketing, user acquisition and virality. It’s hugely important in telling your brand story, engaging consumers, propagating your message and increasing retention. Brands like [Dollar Shave Club](https://www.dollarshaveclub.com/), [Food52](https://food52.com/), [Goop](https://goop.com/), [Redbull](https://www.redbull.com/) and [Glossier](https://www.glossier.com/) are at the forefront of using content to reach and connect with their target audience and cement their reputation as lifestyle brands. Quality content (whether on product pages, blog, YouTube channels or social) will also be instrumental in SEO and driving organic traffic to your store. Good content takes a lot of effort but it’s so much more effective (and ultimately cheaper) than ads for growing your customer base and increasing awareness of your brand on the market.
 
-**_Example of our Blog and Recipes pages:_**
+**_Example of our Recipes page:_**
+
+![](/images/screencapture-sprinklespices-au-blogs-recipes-2020-08-30-12_14_01.jpg)
 
 #### **f) Listen carefully to your market but don’t assume customers always know what they want**
 
