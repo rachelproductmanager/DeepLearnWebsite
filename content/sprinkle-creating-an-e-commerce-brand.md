@@ -74,9 +74,7 @@ Our website was thoughtfully designed to follow **e-commerce UX best practices**
 * **Payment options** - we offered easy and commonly used payment options (credit card, PayPal, Google) via a secure payment gateway (Stripe).
 * **Product reviews and ratings** - these were clearly displayed for every product on the product page and viewable on the Home page as well.
 
-**_Examples of collection & product pages:_**
-
-![](/images/screencapture-sprinklespices-au-collections-spiceblends-2020-08-30-12_16_52.png)![](/images/screencapture-sprinklespices-au-collections-spicebundle-2020-08-30-12_12_26.png)![](/images/screencapture-sprinklespices-au-collections-spiceblends-products-jerusalem-mix-2020-08-30-12_17_21.png)
+**_Examples of collection & product pages_**
 
 ## **5.Product range**
 
