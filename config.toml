@@ -7,16 +7,19 @@ title = "DeepLearn"
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
+address = "Melbourne, Australia"
 author = "Rachel "
 author_image = "images/banner-img.png"
 bio = "Hi! I'm an AI Product Manager Nanodegree graduate, previously an ecommerce entrepreneur and ex/corporate and technology lawyer. I'm fascinated by the world of AI and a huge tech fan so it made sense to start my very own blog and write about things I'm currently reading, learning and discovering in this space as well as interesting ideas in product management, startups and business."
 contact_form_action = "#"
 copyright = "Copyright &copy; 2020 DeepLearn"
 description = "This is meta description"
+email = "racheldulberg@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 layout = "1"
 logo = "images/logo.png"
+mobile = ""
 preloader = true
 search = true
 [params.instafeed]
@@ -52,7 +55,7 @@ link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
 [[params.social]]
-URL = "#https://www.linkedin.com/in/rachel-dulberg/"
+URL = "https://www.linkedin.com/in/rachel-dulberg/"
 icon = "ti-linkedin"
 [[params.social]]
 URL = "#"
