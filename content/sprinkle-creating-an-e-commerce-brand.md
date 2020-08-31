@@ -18,6 +18,8 @@ We decided to adopt a **vertically-integrated model** (i.e. not outsource manufa
 
 To implement this strategy, we built a world-class **website** as well as a small **factory** in Melbourne, invested heavily in **brand design**, **product photography** and **content**, designed custom **packaging** and set up various operational structures to support efficient **manufacturing and fulfilment**. 
 
+The brand grew exponentially month-on-month with loyal customers from all over Australia and over 100 five-star reviews. We also worked with a few select stockists in VIC, NSW and QLD and established a growing social media following on IG.
+
 ## **1.Vision & business model**
 
 #### **Vision**
