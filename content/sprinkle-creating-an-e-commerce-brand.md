@@ -18,13 +18,9 @@ The Sprinkle idea was born out of my own love of cooking and flavour and a frust
 
 Create an independent, innovative, Australian spice brand that brings together a community of food lovers and avid home cooks, inspires and empowers them to eat better and live better. The tagline was ‘**_Small Batch. Big Flavour_**’.
 
-![](/images/jars_banner_green.jpeg)
-
 #### **Mission**
 
 Sprinkle set out to shake up the spice industry and do for spices what the craft movement did for chocolate and coffee - introduce consumers to fresh, flavourful and ethically sourced spices. Sprinkle’s mission was to empower busy, health conscious home cooks and foodies to transform everyday cooking easily and quickly.
-
-![](/images/sprinkle_harvest_bundles_hero4.jpg)
 
 #### **DTC model**
 
@@ -86,11 +82,7 @@ Our website was thoughtfully designed to follow **e-commerce UX best practices**
 
 * **Don’t make users think -** the website was designed to be as obvious and self explanatory as possible (we went through several iterations and experiments to get it right). We wanted to enable visitors who are short on time and attention to either **easily search and find what they’re after or browse without getting stuck or frustrated**. Product pages had clear, easy to digest sections. Product collections (like blends) were small and easy to navigate.
 * **Mobile friendly** - our website was mobile compatible and fast as many shoppers today turn to their mobile phones first.
-
-
 * **Ensure product photography is in scale** - product photography was high resolution and clear on scale and detail, so consumers can get a sense of the product’s size and what it contains. We also had pinch gestures allowing users to zoom in on products both on mobile and desktop. Each product had a hero image and visible thumbnails making the product page quite visual and transparent to build trust and enable a frictionless experience.
-
-
 * **Display the right amount of information** - we aimed to make product pages informative and helpful, providing recipe links, ingredients information, product uses and shipping information, answering most questions a user would have when landing on a product page. Copy was kept consistent with the brand voice and tone (friendly, helpful, casual).
 * **Easy and quick checkout process** - checkout was simple and fast with minimal fields and a clear, informative confirmation email to follow. You could check out as a guest and account creation was optional.
 * **Payment options** - we offered easy and commonly used payment options (credit card, PayPal, Google) via a secure payment gateway (Stripe).
@@ -158,7 +150,7 @@ Content is a primary driver of marketing, user acquisition and virality. It’s 
 * Ultimately, you should run several concurrent experiments to find your real product/market fit. You’ll no doubt discover that your initial thesis was incorrect - certain products will be a massive hit while others you thought would be a huge success end up faltering.
 * Conversely, don't assume that just because your brand/product makes sense to you, everyone will share the same view. Talking to your best customers, paying attention to customer reviews and listening to social media commentary regularly are all useful ways to gain valuable insights and discover your blind spots (of which there’ll be many).
 
-> “Even when they don’t yet know it, customers want something better, and your desire to delight customers will drive you to invent on their behalf. No customer ever asked Amazon to create the Prime membership program, but it sure turns out they wanted it.” 
+> “Even when they don’t yet know it, customers want something better, and your desire to delight customers will drive you to invent on their behalf. No customer ever asked Amazon to create the Prime membership program, but it sure turns out they wanted it.”
 >
 > \-Jeff Bezos, Amazon Founder & CEO
 
@@ -170,7 +162,7 @@ When you’re just at the start of the journey and figuring out of you have a pr
 
 Last but definitely not least, your metrics matter and you should measure them regularly and consistently. Know your way around Google Analytics and set metrics that make sense for your business. Above all, if we can learn anything from e-commerce giant Amazon, is that being customer-obsessed is a good mantra to have and focusing on long-term gains rather that short term wins is a wise strategy.
 
-> _"We first measure ourselves in terms of the metrics most indicative of our market leadership: customer and revenue growth, the degree to which our customers continue to purchase from us on a repeat basis, and the strength of our brand."_ 
+> _"We first measure ourselves in terms of the metrics most indicative of our market leadership: customer and revenue growth, the degree to which our customers continue to purchase from us on a repeat basis, and the strength of our brand."_
 >
 > \-Jeff Bezos, Amazon Founder & CEO
 
