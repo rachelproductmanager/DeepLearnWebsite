@@ -86,6 +86,8 @@ Our collection included 14 **spice blends**, 6 **single origin and fine salts**,
 
 ![](/images/sprinkle_ultimate_bundle_fa-7-1.jpg)
 
+![](/images/giftbox_ex.jpg)
+
 ## **6.Key takeaways**
 
 #### **a) Your website is one of your most important scaling weapons**
