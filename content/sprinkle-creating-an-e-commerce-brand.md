@@ -72,7 +72,7 @@ Our website was thoughtfully designed to follow **e-commerce UX best practices**
 * **Payment options** - we offered easy and commonly used payment options (credit card, PayPal, Google) via a secure payment gateway (Stripe).
 * **Product reviews and ratings** - these were clearly displayed for every product on the product page and viewable on the Home page as well.
 
-**_Examples of collections & product pages:_**
+**_Examples of Sprinkle collection pages & Sprinkle product page:_**
 
 ![](/images/blends_collection_page_ex.jpg)
 
@@ -82,7 +82,7 @@ Our website was thoughtfully designed to follow **e-commerce UX best practices**
 
 Our collection included 14 **spice blends**, 6 **single origin and fine salts**, several spice **bundles** (changed by season) and 4 **gift hampers** carefully curated for foodies, BBQ lovers and avid cooks which included Sprinkle products and local, small batch goodies (condiments, sweets etc). We also sold complementary **pantry** items (e.g. organic olive oil, preserved lemons, harissa paste).
 
-**_Bundles, Pantry and Gift Boxes:_**
+**_Sprinkle's Bundles, Gift Boxes & Pantry:_**
 
 ![](/images/sprinkle_ultimate_bundle_fa-7-1.jpg)
 
