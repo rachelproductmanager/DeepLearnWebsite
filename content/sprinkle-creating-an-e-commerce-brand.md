@@ -76,11 +76,7 @@ Our website was thoughtfully designed to follow **e-commerce UX best practices**
 
 **_Examples of collection & product pages_**
 
-## **5.Product range**
-
-Once we established product-market fit and based on customer feedback, we expanded our product range to include: **Bundles** - ready-to-purchase boxes of 3,4 or 8 products enabling customers to quickly pick a combination suited to their tastes or cooking goals; **Gift Boxes** - 4 types of 'foodie' gift box catering for various tastes (BBQ, Middle Eastern flavours, Die hard foodies); and complementary **Pantry items** from select artisan Australian small batch producers (such as organic olive oils, harissa and preserved lemons).
-
-![](/images/epicurean_box.jpg)![](/images/fire-and-smoke_box.jpg)![](/images/fire-and-smoke_flatlay.jpg)![](/images/screen-shot-2020-08-26-at-17-45-12.png)![](/images/untitled-design-1.png)
+## **5.Product range** 
 
 ## **6.Key takeaways**
 
