@@ -38,8 +38,6 @@ Our strategy was to differentiate ourselves from our competitors by delivering a
 
 Manufacturing was a core part of our strategy and business model - we aimed to have a vertically integrated operation and fully control all elements of the supply chain - from sourcing our raw materials directly from select growers to packing and shipping the product ourselves, and everything in between.
 
-![](/images/screen-shot-2020-08-26-at-17-26-49.png)
-
 ## **2. Inspiration**
 
 We were inspired by world-leading DTC consumer, lifestyle and food brands who are at the forefront of e-commerce and digital innovation such as [Net-a-Porter](https://www.net-a-porter.com/), [GOOP](https://goop.com/), [Food52](https://food52.com/), [Dandelion Chocolate](https://store.dandelionchocolate.com/pages/home), the [Honest Company](https://www.honest.com/), [Black Rifle Coffee](https://www.blackriflecoffee.com/), [All Birds](https://www.allbirds.com/) and [Warby Parker](https://www.warbyparker.com/).
