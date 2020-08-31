@@ -8,6 +8,7 @@ title = "Sprinkle - Creating an e-commerce spice brand"
 type = "post"
 
 +++
+
 We started Sprinkle, an innovative, next generation spice brand in May 2018.
 
 The Sprinkle idea was born out of my own love of cooking and flavour and a frustration with the inferior quality spices found in unloved supermarket spice aisles everywhere. We wanted to introduce people to the magic of Tel-Aviv's iconic spice markets by helping customers experience what fresh, aromatic spice blends inspired by global cuisines really taste like and empower them to be healthy and cook incredible meals for their family and friends with minimal effort.
