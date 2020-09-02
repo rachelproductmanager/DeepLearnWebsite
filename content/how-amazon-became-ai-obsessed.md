@@ -36,7 +36,7 @@ Amazon has cleverly weaved AI technologies into all aspects of its business, wit
 
 Wired’s 2018 article, “[Inside Amazon’s Artificial Intelligence Flywheel](https://www.wired.com/story/amazon-artificial-intelligence-flywheel/)” provides a rare glimpse into how various parts of Amazon’s enourmous business work as a single perpetual motion machine:
 
-**_“Amazon now has a powerful AI flywheel, where machine-learning innovations in one part of the company fuel the efforts of other teams, who in turn can build products or offer services to affect other groups, or even the company at large”._**
+> **_“Amazon now has a powerful AI flywheel, where machine-learning innovations in one part of the company fuel the efforts of other teams, who in turn can build products or offer services to affect other groups, or even the company at large”._**
 
 Amazon’s AI flywheel was built on 5 key principles:
 
