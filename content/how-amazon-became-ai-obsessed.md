@@ -16,7 +16,7 @@ This post explores how Amazon transformed itself from a deep learning wannabe to
 
 > **“The prize will be to become the operating system of the next era of tech. The leaders in the AI cloud will become the most powerful companies in history.”**
 >
-> **-** [**MIT Technology Review, “_How the AI cloud could produce the richest companies ever” _**](https://www.technologyreview.com/2018/03/22/144507/how-the-ai-cloud-could-produce-the-richest-companies-ever/)_by Peter Burrows_
+> **-** [**MIT Technology Review, “_How the AI cloud could produce the richest companies ever”**](https://www.technologyreview.com/2018/03/22/144507/how-the-ai-cloud-could-produce-the-richest-companies-ever/) 
 
 ## **A love-hate relationship**
 
