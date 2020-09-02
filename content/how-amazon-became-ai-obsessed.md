@@ -15,9 +15,9 @@ A decade ago Amazon was still lagging behind other tech giants on the AI front. 
 
 This post explores how Amazon transformed itself from a deep learning wannabe to a formidable AI powerhouse _in less than a decade_.
 
-**“The prize will be to become the operating system of the next era of tech. The leaders in the AI cloud will become the most powerful companies in history.”**
-
-**-** [**MIT Technology Review, “_How the AI cloud could produce the richest companies ever” _**](https://www.technologyreview.com/2018/03/22/144507/how-the-ai-cloud-could-produce-the-richest-companies-ever/)_by Peter Burrows_
+> **“The prize will be to become the operating system of the next era of tech. The leaders in the AI cloud will become the most powerful companies in history.”**
+>
+> **-** [**MIT Technology Review, “_How the AI cloud could produce the richest companies ever” _**](https://www.technologyreview.com/2018/03/22/144507/how-the-ai-cloud-could-produce-the-richest-companies-ever/)_by Peter Burrows_
 
 **A love-hate relationship**
 
