@@ -90,6 +90,8 @@ Unlike with AWS, where Amazon caught its big tech competitors slightly off guard
 >
 > _- Peter Burrows,_ [**MIT Technology Review, “_How the AI cloud could produce the richest companies ever”_**](https://www.technologyreview.com/2018/03/22/144507/how-the-ai-cloud-could-produce-the-richest-companies-ever/)
 
-Since founding Amazon in 1994, Bezos has followed a set unconventional rules: don’t worry about competitors; don’t worry about making money for shareholders; and don’t worry about the short-term. He’s always argued that if you focus on the customers, everything else will fall into place. Amazon has proven time and again that this approach pays off in grand ways. And it’s not one to shy away from ferocious competition. It will be interesting to see who the AI winners will be, but one thing’s for sure - Amazon will make it a fun race to watch.
+## Final thought
+
+Since founding Amazon in 1994, Bezos has followed a set of unconventional rules: don’t worry about competitors; don’t worry about making money for shareholders; and don’t worry about the short-term. He’s always argued that if you focus on the customers, everything else will fall into place. Amazon has proven time and again that this approach pays off in grand ways. And it’s not one to shy away from ferocious competition. It will be interesting to see who the AI winners will be, but one thing’s for sure - Amazon will make it a fun race to watch.
 
 \*Cover Photo: Jeff Bezos via Twitter
