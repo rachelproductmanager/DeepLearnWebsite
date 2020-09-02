@@ -76,7 +76,7 @@ After leveraging the power of AI to dominate e-commerce, bringing an AI-powered 
 
 Re:Mars has some down-to-earth goals, like teaching its attendees - business leaders, technical builders and astronauts (who can attend for free) - how to apply AI and machine learning to their own businesses. But it’s also designed to generate excitement and optimism about AI, with sessions on topics like colonizing space and remarks from Bezos and AI leaders like Andrew Ng, acknowledging the challenges and pitfalls of AI but emphasising the enormous opportunities ahead.
 
-## **AI everywhere**
+## **The AI race is heating up**
 
 Unlike with AWS, where Amazon caught its big tech competitors slightly off guard and had a first mover advantage, it’s certainly up against tough rivals in the [AI race](https://www.cbinsights.com/research/top-acquirers-ai-startups-ma-timeline/) and competitors aren’t sitting idly by. Amazon has 3 key challenges ahead:
 
