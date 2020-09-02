@@ -28,7 +28,7 @@ But there’s no doubt that Amazon has amassed unprecedented wealth and power, w
 
 Love or hate Amazon, it’s hard not to be in awe of its unabating grit, drive and ingenuity. From humble beginnings as a bootstrapped Seattle-based online bookstore in 1995, it grew by roughly 24% a year for the past decade and currently expected t[o continue to grow at 16% annually by 2024](https://www.economist.com/briefing/2017/03/25/are-investors-too-optimistic-about-amazon), faster than any other company in history. In 2020 alone, Amazon has [grown its market capitalisation by more than $600 billion](https://www.geekwire.com/2020/amazon-increases-market-cap-600b-2020-analysts-see-even-growth/#:\~:text=Shares%20are%20up%20more%20than,target%20for%20Amazon%20to%20%243%2C800.) and is currently valued at more than **$1.5 trillion**, with shares currently [trading around $3,500](https://www.macrotrends.net/stocks/charts/AMZN/amazon/stock-price-history). Amazon’s success has rattled companies across industries - companies fretting about Amazon’s impact on their business were an eclectic mix ranging from [CVS](https://qz.com/1145594/the-cvs-aetna-deal-is-actually-all-about-amazon/) and Macy’s to Netflix and [Oracle](https://www.theinformation.com/articles/in-major-shift-amazon-salesforce-move-away-from-oracle).
 
-**How Amazon’s AI flywheel works**
+## **How Amazon’s AI flywheel works**
 
 Amazon tends to be quite secretive about its strategy but here’s what we know: if you take a close look at Amazon’s key moves over the years, it’s clear that AI has been a continuous focus for the company since its inception and will be one of its main growth pillars in the future.
 
