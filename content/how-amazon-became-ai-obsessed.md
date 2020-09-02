@@ -60,7 +60,7 @@ These machine-learning services are key to Amazon’s AI flywheel. As companies 
 
 And so the classic data flywheel clicked into place as millions of customers started using the Echo and other Alexa-powered devices (like [Sonos](https://www.wired.com/story/how-sonos-made-alexa-sound-amazing/) speakers) which helped Amazon amass data that not only made those third party systems perform better (and hence acquire more customers) but supercharged Amazon’s own array of machine-learning tools and platforms and made the company a hotter destination for machine-learning scientists.
 
-**Amazon’s AI mindset**
+## **Amazon’s AI mindset**
 
 What distinguishes Amazon’s AI success is its wide-ranging, ferociously ambitious AI strategy. Interestingly, Amazon’s remarkable rise in the machine learning arena started out as an early commitment to deeply embed technology in every aspect of the company’s operation, at a time when few companies outside tech had the vision to do so. In his 2010 letter to shareholders, Bezos notes:
 
