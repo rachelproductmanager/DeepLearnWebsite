@@ -28,6 +28,7 @@ fields:
   description: 'type: post or featured'
 pages:
 - content/How_AI_can_give_product_superpowers.md
+- content/how-amazon-became-ai-obsessed.md
 - content/how-to-build-addictive-products-with-the-hook-model.md
 - content/how-to-successfully-productise-ai-and-realise-its-full-potential.md
 - content/sprinkle-creating-an-e-commerce-brand.md
