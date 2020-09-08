@@ -51,15 +51,15 @@ For the past few years, the ‘big three’ (Amazon, Google and Microsoft) have 
 
 [Amazon’s AI platform](https://aws.amazon.com/machine-learning/?nc2=h_ql_prod_ml) push reflects how the bleeding edge of competition in the multibillion-dollar cloud market has evolved from its original business of data centres renting out storage and computing capacity to courting developers and businesses which lack the resources or appetite to develop the underlying machine learning and AI technology themselves.
 
-**“It is clear to me we are evolving from a mobile-first to an AI-first world.”**
-
-**- Google CEO, Sundar Pichai**
+> **“It is clear to me we are evolving from a mobile-first to an AI-first world.”**
+>
+> **- Google CEO, Sundar Pichai**
 
 While Amazon clearly has a first-mover advantage in the $270bn global public cloud space, Microsoft and Google are using their expertise in building applications and developing AI to nip at AWS’s heels. Google has successfully established itself as a major player in the cloud space, with its cloud products increasingly gaining market share despite still lagging Amazon and Microsoft. Google realised that customers are seeking expertise in machine learning, an area where Google remains differentiated, and was quick to capture some business from its competitors.
 
-**"Ultimately the cloud is about powering the next generation of applications. It is always the next generation applications that have driven infrastructure and when we look at this current generation of applications that people are building, the thing that is going to define these applications, that characterises these applications, is machine learning and artificial intelligence. Therefore we are building out Azure as the first AI supercomputer."**
-
-* **Microsoft CEO, Satya Nadella**
+> **"Ultimately the cloud is about powering the next generation of applications. It is always the next generation applications that have driven infrastructure and when we look at this current generation of applications that people are building, the thing that is going to define these applications, that characterises these applications, is machine learning and artificial intelligence. Therefore we are building out Azure as the first AI supercomputer."**
+>
+> **-Microsoft CEO, Satya Nadella**
 
 [Amazon first announced the launch of its new Amazon AI platform](https://techcrunch.com/2016/11/30/amazon-launches-amazon-ai-to-bring-its-machine-learning-smarts-to-developers/) at its developer event, re:Invent, in Las Vegas in December **2016**, promising to bring many of the machine learning smarts Amazon has developed in-house over the years to devs outside the company. Just a week after AWS [unveiled an update to its GPU-powered cloud computing service](https://www.zdnet.com/article/amazons-new-gpu-cloud-wants-to-chew-through-your-ai-and-big-data-projects/), targeting AI applications that need vast amounts of parallel processing power, Microsoft CEO Satya Nadella discussed [how Microsoft's cloud computing offering underpinned a new wave of applications that use AI technologies](https://www.zdnet.com/article/azure-is-becoming-the-first-ai-supercomputer-says-microsoft/). Nadella also said Microsoft was offering higher level services that help build AI services, such as APIs to connect to speech, image, object recognition and natural language processing services.
 
