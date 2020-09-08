@@ -75,9 +75,9 @@ Google hit back in September 2020 saying it was planning to [launch new capabili
 
 ## **Winning the Cloud AI race**
 
-**“So far, none of this activity has resulted in much in the way of revenue...But that would quickly change for the company that creates the underlying technologies and developer tools to support the widespread commercialization of machine learning. That’s what Microsoft did for the PC, by creating a Windows platform that millions of developers used to build PC programs. Apple did the same with iOS, which spawned the mobile-app era.”**
-
-* [“How the AI Cloud Could Produce the Richest Companies Ever”](https://www.technologyreview.com/2018/03/22/144507/how-the-ai-cloud-could-produce-the-richest-companies-ever/) by Peter Burrows, MIT Technology Review
+> **“So far, none of this activity has resulted in much in the way of revenue...But that would quickly change for the company that creates the underlying technologies and developer tools to support the widespread commercialization of machine learning. That’s what Microsoft did for the PC, by creating a Windows platform that millions of developers used to build PC programs. Apple did the same with iOS, which spawned the mobile-app era.”**
+>
+> \-[“How the AI Cloud Could Produce the Richest Companies Ever”](https://www.technologyreview.com/2018/03/22/144507/how-the-ai-cloud-could-produce-the-richest-companies-ever/) by Peter Burrows, MIT Technology Review
 
 It remains to be seen who will emerge as the Cloud AI winner. Especially, as[ the battle for AI supremacy is more global than you might think](https://www.forbes.com/sites/cognitiveworld/2020/02/09/why-the-race-for-ai-dominance-is-more-global-than-you-think/#317ef973121f). US-based tech giants aren’t the only ones vying for dominance. The Chinese technology ecosystem has become a powerhouse in its own right - China’s multi-billion dollar tech giants [Alibaba, Baidu, Tencent](https://www.forbes.com/sites/rebeccafannin/2019/08/23/baidu-alibaba-tencent-clash-to-lead-chinas-tech-future-while-a-new-b-arises/#5ac574b8414d), and Huawei Technologies, are each heavily investing in AI.
 
