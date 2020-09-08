@@ -15,7 +15,7 @@ AI was once an obscure corner of computer science. But over the past decade, an 
 
 > **“Whoever manages to dominate the business of providing artificial-intelligence services through cloud computing may have the operating system of the future and reign over what may be the most lucrative technology mega-trend yet.”**
 >
-> * [“How the AI Cloud Could Produce the Richest Companies Ever”](https://www.technologyreview.com/2018/03/22/144507/how-the-ai-cloud-could-produce-the-richest-companies-ever/) by Peter Burrows in MIT Technology Review (March 2018)
+> \-[“How the AI Cloud Could Produce the Richest Companies Ever”](https://www.technologyreview.com/2018/03/22/144507/how-the-ai-cloud-could-produce-the-richest-companies-ever/) by Peter Burrows in MIT Technology Review (March 2018)
 
 Despite the COVID-fueled slowdown, [worldwide revenues for the AI market ](https://www.idc.com/getdoc.jsp?containerId=prUS46757920)(including software, hardware and services) are expected to total **$156.5 billion in 2020**, an increase of **12.3%** over 2019. BY 2024, total revenues are expected to surpass **$300 billion**. According to [industry reports](https://www.businesswire.com/news/home/20200225005651/en/Global-Enterprise-Artificial-Intelligence-Market-Expected-Grow), the global “cloud AI” market is projected to reach **$53.06 billion by 2026**, with a CAGR of **35.4%** from 2019 to 2026.
 
