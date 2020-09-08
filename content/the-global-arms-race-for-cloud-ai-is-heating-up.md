@@ -37,9 +37,9 @@ Companies across all sectors - including [Disney](https://aws.amazon.com/machine
 
 The scale, breadth and potential of these AI platforms mean they are fast emerging as the operating systems of the future, much like AWS became [the OS of the internet](https://techcrunch.com/2016/07/02/andy-jassys-brief-history-of-the-genesis-of-aws/) (after Amazon realised it could leverage the infrastructure expertise it built in order to tackle its own business needs in the early 2000’s).
 
-**“AIaaS is gaining momentum precisely because AI-based solutions can be economically used as a service by many companies for many purposes. Those companies that deliver AI-based solutions targeting specific needs understand vertical industries and build sophisticated models to find actionable information with remarkable efficiency. Thanks to the cloud, providers are able to deliver these AI solutions as a service that can be accessed, refined and expanded in ways that were unfathomable in the past.”**
-
-* [Get ready for the emergence of AI-as-a-Service](https://thenextweb.com/podium/2020/01/24/get-ready-for-the-emergence-of-ai-as-a-service/) (January 2020)
+> **“AIaaS is gaining momentum precisely because AI-based solutions can be economically used as a service by many companies for many purposes. Those companies that deliver AI-based solutions targeting specific needs understand vertical industries and build sophisticated models to find actionable information with remarkable efficiency. Thanks to the cloud, providers are able to deliver these AI solutions as a service that can be accessed, refined and expanded in ways that were unfathomable in the past.”**
+>
+> \-[Get ready for the emergence of AI-as-a-Service](https://thenextweb.com/podium/2020/01/24/get-ready-for-the-emergence-of-ai-as-a-service/) (January 2020)
 
 **The Cloud AI Race**
 
