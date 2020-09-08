@@ -44,9 +44,9 @@ The scale, breadth and potential of these AI platforms mean they are fast emergi
 
 ## **The Cloud AI Race**
 
-**“If you really want machine learning to be expansive across companies, you have to find a way to let everyday developers build machine-learning models and put them in production. We wanted to make that easy for developers to take advantage of because that’s where all the innovation is going to happen . . . We said, how are they going to get hands-on experience and actually try it? I don’t know if it’ll be three years from now or five years from now or 10 years from now but the vast majority of applications will have machine learning and artificial intelligence fuelling them.”**
-
-**- Andy Jassy, CEO of AWS**
+> **“If you really want machine learning to be expansive across companies, you have to find a way to let everyday developers build machine-learning models and put them in production. We wanted to make that easy for developers to take advantage of because that’s where all the innovation is going to happen . . . We said, how are they going to get hands-on experience and actually try it? I don’t know if it’ll be three years from now or five years from now or 10 years from now but the vast majority of applications will have machine learning and artificial intelligence fuelling them.”**
+>
+> **- Andy Jassy, CEO of AWS**
 
 For the past few years, the ‘big three’ (Amazon, Google and Microsoft) have been playing a game of leapfrog in the Cloud AI space, with AWS continuously signalling that it had no intention to cede this market to Google or Microsoft.
 
