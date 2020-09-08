@@ -5,7 +5,7 @@ description = ""
 image = "/images/neonbrand-z3kbg5xihjo-unsplash.jpg"
 tags = ["Product Management ", "Hooked", "Product Strategy", "Ecommerce"]
 title = "How to build addictive products with the Hook Model"
-type = "featured"
+type = "post"
 
 +++
 ‘[Hooked](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788)’ by Nir Eyal is a must read if you want to build a long lasting brand, organically grow customer engagement and achieve long term success for your product or business.
