@@ -25,9 +25,9 @@ Today, big corporations across every sector, from retail and manufacturing to he
 
 On the other hand, company leaders know that AI is predicted to have a substantial impact on the world’s economy. According to [McKinsey](https://www.mckinsey.com/featured-insights/artificial-intelligence/notes-from-the-ai-frontier-modeling-the-impact-of-ai-on-the-world-economy), companies that fully adopt AI could **double their cash flow by 2030**, while companies that don’t could see a **20% decline**. So AI is both a source of major untapped opportunity and an existential threat which companies can’t afford to ignore. Cloud AI (aka “AI-as-a-Service” or simply “AIaaS”) is a neat solution to these problems. It’s been hailed as the next big thing in tech as it is set to [play a huge role in AI adoption](https://thenextweb.com/podium/2020/01/24/get-ready-for-the-emergence-of-ai-as-a-service/) globally.
 
-**“Ultimately, the cloud is how most companies are going to make use of AI and how technology suppliers are going to make money off of it”**
-
-* **Nick McQuire, CCS Insight.**
+> **“Ultimately, the cloud is how most companies are going to make use of AI and how technology suppliers are going to make money off of it”**
+>
+> **-Nick McQuire, CCS Insight**
 
 Big tech - Alphabet, Amazon, Apple, Facebook, IBM and Microsoft - [have long been leading the AI charge](https://www.cbinsights.com/research/top-acquirers-ai-startups-ma-timeline/), investing huge sums to develop their own AI capabilities, as have their counterparts in China. It’s difficult to separate tech firms’ investments in AI from other kinds, but McKinsey estimated a couple of years ago that, globally, [tech giants spent $20 billion to $30 billion on AI in 2016 alone](https://www.mckinsey.com/\~/media/mckinsey/industries/advanced%20electronics/our%20insights/how%20artificial%20intelligence%20can%20deliver%20real%20value%20to%20companies/mgi-artificial-intelligence-discussion-paper.ashx).
 
