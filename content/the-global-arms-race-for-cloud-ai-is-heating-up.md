@@ -41,7 +41,7 @@ The scale, breadth and potential of these AI platforms mean they are fast emergi
 >
 > \-[Get ready for the emergence of AI-as-a-Service](https://thenextweb.com/podium/2020/01/24/get-ready-for-the-emergence-of-ai-as-a-service/) (January 2020)
 
-**The Cloud AI Race**
+## **The Cloud AI Race**
 
 **“If you really want machine learning to be expansive across companies, you have to find a way to let everyday developers build machine-learning models and put them in production. We wanted to make that easy for developers to take advantage of because that’s where all the innovation is going to happen . . . We said, how are they going to get hands-on experience and actually try it? I don’t know if it’ll be three years from now or five years from now or 10 years from now but the vast majority of applications will have machine learning and artificial intelligence fuelling them.”**
 
