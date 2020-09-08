@@ -73,7 +73,7 @@ By May 2020, [Microsoft announced](https://blogs.microsoft.com/ai/openai-azure-s
 
 Google hit back in September 2020 saying it was planning to [launch new capabilities for its Cloud AI platform](https://cloud.google.com/blog/products/ai-machine-learning/ai-and-machine-learning-news-from-google-cloud), including **new MLOps features** to provide automation and monitoring at all steps of ML system construction, including integration, testing, releasing, deployment and infrastructure management and **industry-specific solutions** for application developers such as Lending DocAI (a new, specialised solution for the mortgage industry, that processes borrowers’ income and asset documents to speed-up loan applications), retail forecasting, anti-money laundering, know your customer, healthcare and media asset management.
 
-**Winning the Cloud AI race**
+## **Winning the Cloud AI race**
 
 **“So far, none of this activity has resulted in much in the way of revenue...But that would quickly change for the company that creates the underlying technologies and developer tools to support the widespread commercialization of machine learning. That’s what Microsoft did for the PC, by creating a Windows platform that millions of developers used to build PC programs. Apple did the same with iOS, which spawned the mobile-app era.”**
 
