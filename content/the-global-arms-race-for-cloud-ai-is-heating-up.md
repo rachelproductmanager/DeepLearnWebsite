@@ -8,7 +8,9 @@ title = "The global race for the OS of the future"
 type = "featured"
 
 +++
-Artificial Intelligence (AI) is at the heart of a fierce arms race taking place among the biggest public cloud providers, Amazon, Google & Microsoft. According to the MIT Technology Review [whoever dominates “Cloud AI” will own the operating system of the next era of tech and become the most powerful company in history](https://www.technologyreview.com/2018/03/22/144507/how-the-ai-cloud-could-produce-the-richest-companies-ever/). No wonder that, aside from the biggest cloud players, others like Apple, IBM, Oracle, Adobe, Salesforce, SAP, Alibaba, Baidu and Tencent [have joined the fray](https://www.economist.com/business/2017/12/07/google-leads-in-the-race-to-dominate-artificial-intelligence).
+Artificial Intelligence (AI) is at the heart of a fierce arms race taking place among the biggest public cloud providers, Amazon, Google & Microsoft. 
+
+According to the MIT Technology Review [whoever dominates “Cloud AI” will own the operating system of the next era of tech and become the most powerful company in history](https://www.technologyreview.com/2018/03/22/144507/how-the-ai-cloud-could-produce-the-richest-companies-ever/). No wonder that, aside from the biggest cloud players, others like Apple, IBM, Oracle, Adobe, Salesforce, SAP, Alibaba, Baidu and Tencent [have joined the fray](https://www.economist.com/business/2017/12/07/google-leads-in-the-race-to-dominate-artificial-intelligence).
 
 AI was once an obscure corner of computer science. But over the past decade, an increase in digital data availability, exponential growth in compute power and algorithm breakthroughs have fuelled global excitement about AI. AI (and machine learning in particular) has been one of the fastest growing technologies in recent years, poised to unleash the next wave of digital disruption.
 
