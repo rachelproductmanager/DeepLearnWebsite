@@ -87,9 +87,9 @@ However, according to [recent research](https://www.prnewswire.com/news-releases
 
 While Baidu has profound ML knowledge, experience and talent, it’s still not that well known outside China and will require a better go-to-market strategy to accelerate ecosystem expansion, especially in enterprise space.
 
-**"As an AI platform company that is focused on empowering other organizations, Baidu hopes that every enterprise, no matter how small, is able to use capabilities and services provided by our platforms, just like they were water and electricity, to quickly and easily realize intelligent transformation"**
-
-**- Robin Li, Baidu Co-Founder, Chairman and CEO, 2020 World Artificial Intelligence Conference (WAIC), July 9, 2020.**
+> **"As an AI platform company that is focused on empowering other organisations, Baidu hopes that every enterprise, no matter how small, is able to use capabilities and services provided by our platforms, just like they were water and electricity, to quickly and easily realise intelligent transformation"**
+>
+> **- Robin Li, Baidu Co-Founder, Chairman and CEO, 2020 World Artificial Intelligence Conference (WAIC), July 9, 2020.**
 
 Globally, AWS is likely to be the current leader in the ‘cloud AI’ segment thanks to its global market share in the public cloud arena. But, Microsoft obviously has unparalleled experience in enterprise software, and Google’s major strength is its profound R&D capability - having some of the [world’s leading AI researchers](https://techcrunch.com/2017/09/14/geoffrey-hinton-was-briefly-a-google-intern-in-2012-because-of-bureaucracy/) (like [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton)) in its ranks definitely helps.
 
