@@ -19,7 +19,7 @@ AI was once an obscure corner of computer science. But over the past decade, an 
 
 Despite the COVID-fueled slowdown, [worldwide revenues for the AI market ](https://www.idc.com/getdoc.jsp?containerId=prUS46757920)(including software, hardware and services) are expected to total **$156.5 billion in 2020**, an increase of **12.3%** over 2019. BY 2024, total revenues are expected to surpass **$300 billion**. According to [industry reports](https://www.businesswire.com/news/home/20200225005651/en/Global-Enterprise-Artificial-Intelligence-Market-Expected-Grow), the global “cloud AI” market is projected to reach **$53.06 billion by 2026**, with a CAGR of **35.4%** from 2019 to 2026.
 
-**What’s Cloud AI?**
+## **What’s Cloud AI?**
 
 Today, big corporations across every sector, from retail and manufacturing to healthcare and agriculture, are moving from AI experimentation to industrialisation and trying to integrate machine learning into their products and operations. However, while the technical and economic potential of AI is vast, [wide scale AI adoption is still a challenge](https://www.oreilly.com/radar/ai-adoption-in-the-enterprise-2020/). Common hurdles such as limited in-house know-how, skills gap, poor data quality and large scale implementation are tricky to overcome.
 
