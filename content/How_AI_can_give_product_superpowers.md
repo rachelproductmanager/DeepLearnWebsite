@@ -8,8 +8,6 @@ title = "How any company can become great at AI  (or risk going out of business)
 type = "featured"
 
 +++
-***
-
 #### **Key learnings from Andrew Ng’s AI Transformation Playbook**
 
 Artificial intelligence (AI) has become a popular buzzword in recent years. Amid the media hype and high profile debate between Elon Musk and Jack Ma on whether we’re in for an AI [utopia or apocalypse](https://www.entrepreneur.com/article/338852), there’s broad consensus that AI will have a profound impact on business and society in the not so distant future.
