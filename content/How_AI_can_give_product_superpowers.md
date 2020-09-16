@@ -104,7 +104,7 @@ There are many misconceptions out there about what AI is — many fear mass job 
 
 Communicating with the outside world and within your company about your AI strategy, AI product and AI vision is key — think about your messaging and positioning to investors, government relationships, the press, customers/users, partners and talent/recruitment.
 
-> _“ **AI will likely bring significant benefits to your customers, so make sure the appropriate marketing and product roadmap messages are disseminated.** “_
+> “ AI will likely bring significant benefits to your customers, so make sure the appropriate marketing and product roadmap messages are disseminated. “
 >
 > _-_ AI Transformation Playbook, How to Lead Your Company Into the AI Era by Andrew Ng
 
