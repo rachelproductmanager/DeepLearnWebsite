@@ -47,7 +47,7 @@ Which begs the question — how do some companies successfully launch, scale and
 
 Full disclosure: having been a technology lawyer for many years, and then an e-commerce entrepreneur, I’ve crossed paths with artificial intelligence and machine learning along the way. I’ve always found it fascinating but never had the opportunity to dive deeper. So I recently took “[AI For Everyone](https://www.coursera.org/learn/ai-for-everyone)“ — an online course on Coursera taught by AI guru, Dr. Andrew Ng, a world-renowned AI technology leader, founding lead of Google Brain and a prominent AI educator. The course demystifies basic AI concepts for non-engineers, and skilfully explains a few complex ideas underlying machine learning. It also breaks down the practicalities of the AI product workflow and explains how to spot AI growth opportunities in your company.
 
-> Andrew Ng makes a simple yet profound observation: that simply trying to bolt AI technologies onto a typical company, **won't make it a true “AI company”**. Just as in the internet era, simply having a website doesn’t make a company a true “internet company” (so, for example, a shopping mall + a website doesn’t equal Amazon).
+> Andrew Ng makes a simple yet profound observation: that simply trying to bolt AI technologies onto a typical company, won't make it a true “AI company”. Just as in the internet era, simply having a website doesn’t make a company a true “internet company” (so, for example, a shopping mall + a website doesn’t equal Amazon).
 
 Today, it’s common knowledge that a true internet company optimises for things that the internet does really well, such as:
 
