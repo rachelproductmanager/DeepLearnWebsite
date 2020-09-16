@@ -20,7 +20,7 @@ Artificial intelligence (AI) has become a popular buzzword in recent years. Amid
 
 AI technology is poised to transform every industry, just as electricity did 100 years ago.[ By 2030, it’s expected to create an estimated $13 trillion of GDP growth](https://landing.ai/ai-transformation-playbook/). While it has already added tremendous value in leading tech companies such as Google, Amazon, Microsoft and Facebook, experts say much of the additional waves of AI value creation will go **beyond the software sector**.
 
-##### **The trouble with AI adoption**
+### **The trouble with AI adoption**
 
 According to [Accenture](https://www.accenture.com/au-en/insights/artificial-intelligence/ai-investments?c=acn_au_artificialintelgoogle_11082058&n=psgs_1119&gclid=Cj0KCQjwsuP5BRCoARIsAPtX_wHwoYC6XYGQEfyhhgSeV6V1WP5B9tpGXW3bHJiHCTbMh6-4BIOxSewaAgzqEALw_wcB), over 80% of the world’s largest companies know that they must scale AI in the next five years or risk going out of business. Yet most still struggle with large scale AI adoption. Many companies either don’t understand what AI can do for their business (often described as ‘a solution seeking a problem challenge’) or, when they do experiment with AI, can’t easily scale the technology beyond siloed pilot projects.
 
@@ -28,7 +28,7 @@ A recent O’Reilly global survey on the[ state of AI adoption in 2020](https://
 
 Meanwhile, companies that are already strategically scaling AI, report **nearly three times the return from AI investments**, compared to companies pursuing siloed proof of concepts.
 
-##### **AI’s superpowers**
+### **AI’s superpowers**
 
 Plenty of well known companies are already innovating in unprecedented ways, leveraging AI’s “superpowers” to reach, engage, convert and retain customers through smart content curation, voice and image search, analytics, ad targeting, chatbots and hyper personalisation, optimise operations and improve their products and services:
 
