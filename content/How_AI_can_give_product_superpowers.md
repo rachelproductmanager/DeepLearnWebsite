@@ -120,6 +120,8 @@ It’s clear that to achieve AI success at scale and speed, it’s key for compa
 
 One thing is certain - companies that wait to adopt AI may never catch up. The AI Transformation Playbook would be a good place to start.
 
+.......................................................................................................................................
+
 ### **More reading**
 
 * [Be Shrewd About Those 5 Myths on Scaling AI](https://www.accenture.com/us-en/blogs/business-functions-blog/be-shrewd-about-these-five-myths-on-scaling-ai)
