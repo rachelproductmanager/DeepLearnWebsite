@@ -12,13 +12,13 @@ type = "featured"
 
 #### **Key learnings from Andrew Ng’s AI Transformation Playbook**
 
-**_“ Deep Learning is a superpower. With it you can make a computer see, synthesise novel art, translate languages, render a medical diagnosis, or build pieces of a car that can drive itself. If that isn’t a superpower, I don’t know what is. “_**
-
-\- Andrew Ng, Founder of deeplearning.ai and Coursera
-
 Artificial intelligence (AI) has become a popular buzzword in recent years. Amid the media hype and high profile debate between Elon Musk and Jack Ma on whether we’re in for an AI [utopia or apocalypse](https://www.entrepreneur.com/article/338852), there’s broad consensus that AI will have a profound impact on business and society in the not so distant future.
 
 AI technology is poised to transform every industry, just as electricity did 100 years ago.[ By 2030, it’s expected to create an estimated $13 trillion of GDP growth](https://landing.ai/ai-transformation-playbook/). While it has already added tremendous value in leading tech companies such as Google, Amazon, Microsoft and Facebook, experts say much of the additional waves of AI value creation will go **beyond the software sector**.
+
+> **_“ Deep Learning is a superpower. With it you can make a computer see, synthesise novel art, translate languages, render a medical diagnosis, or build pieces of a car that can drive itself. If that isn’t a superpower, I don’t know what is. “_**
+>
+> \- Andrew Ng, Founder of deeplearning.ai and Coursera
 
 ### **The trouble with AI adoption**
 
