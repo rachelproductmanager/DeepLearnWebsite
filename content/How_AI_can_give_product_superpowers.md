@@ -66,7 +66,7 @@ Also, a true internet company organises itself with **digitally focused roles** 
 
 ### **5 key elements of an AI transformation plan**
 
-**_“The important thing is to get the flywheel spinning so that your AI team can gain momentum.”_** _—_ Andrew Ng
+> **_“The important thing is to get the flywheel spinning so that your AI team can gain momentum.”_** _—_ Andrew Ng
 
 Andrew Ng’s[ AI Transformation Playbook](https://landing.ai/wp-content/uploads/2020/05/LandingAI_Transformation_Playbook_11-19.pdf) sets out a simple, practical roadmap for leading your company into the AI era. The key point is that AI technologies aren’t just for companies like Google, Netflix and Amazon. As with the internet, everyone can — and should — make use of AI’s superpowers, no matter what sector you’re in.
 
