@@ -8,10 +8,7 @@ title = "How any company can become great at AI  (or risk going out of business)
 type = "featured"
 
 +++
-
 ***
-
-### **How any company can become great at AI**
 
 #### **Key learnings from Andrew Ng’s AI Transformation Playbook**
 
@@ -64,9 +61,7 @@ Today, it’s common knowledge that a true internet company optimises for things
 Also, a true internet company organises itself with **digitally focused roles** (product managers, UX designers and software engineers), each with respective responsibilities and workflows that map back to **digital goals and KPIs**. Similarly, argues Ng, **for your company to become great at AI, it’ll need to be organised to do the things that AI lets you do really well:**
 
 * **_Sufficient understanding of AI_**: There should be general understanding of AI, with appropriate processes in place to systematically identify and select valuable AI projects to work on. It’s important to have the right people with the right skills in place to be able to analyse what AI can or cannot do for your business and identify and execute the highest value projects.
-
 * **_Strategic direction_**: In true AI companies, the company’s strategy is broadly aligned to succeed in an AI-powered future. Ng recommends devising a thoughtful AI strategy _after_ (not before) you’ve experienced working with AI: “_Once teams start to see the success of the initial AI projects and form a deeper understanding of AI, you will be able to identify the places where AI can create the most value and focus resources on those areas_.”
-
 * **_Allocate financial and human resources to systematically execute on multiple valuable AI projects_**: true AI companies have the outsourced and/or in-house technology and talent to systematically execute on multiple AI projects that deliver direct value to the business. AI projects involve intensive data collection, model training and iteration, deployment to test users and further iteration and maintenance to keep the model accurate and useful. While AI can give your product or service superpowers, it’s not a magic bullet and requires commitment, investment and plenty of trial and error to validate assumptions and get to the right solutions.
 
 ### **5 key elements of an AI transformation plan**
