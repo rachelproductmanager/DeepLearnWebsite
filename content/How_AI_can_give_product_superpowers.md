@@ -28,7 +28,7 @@ A recent O’Reilly global survey on the[ state of AI adoption in 2020](https://
 
 Meanwhile, companies that are already strategically scaling AI, report **nearly three times the return from AI investments**, compared to companies pursuing siloed proof of concepts.
 
-**AI’s superpowers**
+##### **AI’s superpowers**
 
 Plenty of well known companies are already innovating in unprecedented ways, leveraging AI’s “superpowers” to reach, engage, convert and retain customers through smart content curation, voice and image search, analytics, ad targeting, chatbots and hyper personalisation, optimise operations and improve their products and services:
 
