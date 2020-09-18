@@ -17,12 +17,13 @@ We have a vibrant, smart and talented startup scene and a sophisticated innovati
 
 If Australia’s government and industry step up to the challenge now - with a sense of urgency and commitment - we stand a good chance of becoming a technology powerhouse that will create much needed jobs, improve living standards and productivity and drive prosperity for generations to come.
 
-**"Today more than ever, science and technology are vital to drive our recovery from the pandemic-led recession and build our future resilience. COVID-19 has disrupted every element of our lives...we now have an opportunity – indeed, a responsibility – to determine the kind of Australia we want to emerge."**
+> **"Today more than ever, science and technology are vital to drive our recovery from the pandemic-led recession and build our future resilience. COVID-19 has disrupted every element of our lives...we now have an opportunity – indeed, a responsibility – to determine the kind of Australia we want to emerge."**
+>
+> [**CSIRO’s Report: Covid-19 Recovery & Resilience Report, Sept 2020**](https://www.csiro.au/en/Do-business/Futures/Reports/Innovation-and-business-growth/COVID-19-recovery-resilience)
 
-[**CSIRO’s Report: Covid-19 Recovery & Resilience Report, Sept 2020**](https://www.csiro.au/en/Do-business/Futures/Reports/Innovation-and-business-growth/COVID-19-recovery-resilience)
+## **Australia’s largest shock to growth since the 1930s**
 
-**Australia’s largest shock to growth since the 1930s**
-
+  
 While Australia appears to have escaped the worst of the pandemic-caused health crisis, COVID has still had a significant effect on the economy. In August 2020, the [Reserve Bank of Australia (RBA) forecast its figures for the quarter ending in December 2020](https://www.rba.gov.au/publications/smp/2020/aug/economic-outlook.html): a 10% unemployment rate, 6% GDP contraction, 7% decline in household consumption and a 17% decline in business investment. And the RBA acknowledged extensive uncertainty on all four indicators. As McKinsey’s report on [The Next Normal for Australian Industries and Workforces](https://www.mckinsey.com/featured-insights/asia-pacific/australias-next-normal-the-cautious-consumer) notes, the sheer size of this shock means the COVID-19 crisis could reverberate through the economy for a decade.
 
 According to McKinsey, various domestic and international factors - from more temporary issues such as COVID-19 restrictions, border closures and reduced exports to more permanent structural changes such as declining consumer spending, increased automation and shift to online shopping - are putting pressure on Australian business health, which is expected to result in **decreased investment, more business failures, fewer new entrants and less innovation**. The Australian tourism, retail, tertiary education and construction industries have been hardest hit and expected to experience hard times ahead (albeit to differing degrees). Across all industries, younger workers are predicted to be most affected, with GenZ and millennials twice as likely to be jobless as 40- to 49-year-olds.
