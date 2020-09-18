@@ -94,7 +94,7 @@ We should look to reinvent business models, accelerate digital transformations a
 
 > “As the country is forced to move work behaviour online, and everyone is regularly using start-up-built software to interact and facilitate remote work, we are in a unique position to rapidly migrate legacy industry practices to more nimble technology-enhanced practices. This difficult period may even help the economy **transition beyond coal and commodities to a nation that embraces and builds cutting-edge software, understands the value of healthcare and scientific research, exports renewable energy, and invests to feed the world’s population**.”
 >
-> **_-“Tech can help Australia thrive after COVID-19”, Alister Coleman, founder and managing partner, Tempus Partners_**
+> [**_“Tech can help Australia thrive after COVID-19”, Alister Coleman,_**]() **_founder and managing partner, Tempus Partners_**
 
 ## **Final thoughts**
 
