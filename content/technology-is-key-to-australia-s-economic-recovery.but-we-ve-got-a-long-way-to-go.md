@@ -22,7 +22,6 @@ If Australia’s government and industry step up to the challenge now - with a s
 
 ## **Australia’s largest shock to growth since the 1930s**
 
-  
 While Australia appears to have escaped the worst of the pandemic-caused health crisis, COVID has still had a significant effect on the economy. In August 2020, the [Reserve Bank of Australia (RBA) forecast its figures for the quarter ending in December 2020](https://www.rba.gov.au/publications/smp/2020/aug/economic-outlook.html): a 10% unemployment rate, 6% GDP contraction, 7% decline in household consumption and a 17% decline in business investment. And the RBA acknowledged extensive uncertainty on all four indicators. As McKinsey’s report on [The Next Normal for Australian Industries and Workforces](https://www.mckinsey.com/featured-insights/asia-pacific/australias-next-normal-the-cautious-consumer) notes, the sheer size of this shock means the COVID-19 crisis could reverberate through the economy for a decade.
 
 According to McKinsey, various domestic and international factors - from more temporary issues such as COVID-19 restrictions, border closures and reduced exports to more permanent structural changes such as declining consumer spending, increased automation and shift to online shopping - are putting pressure on Australian business health, which is expected to result in **decreased investment, more business failures, fewer new entrants and less innovation**. The Australian tourism, retail, tertiary education and construction industries have been hardest hit and expected to experience hard times ahead (albeit to differing degrees). Across all industries, younger workers are predicted to be most affected, with GenZ and millennials twice as likely to be jobless as 40- to 49-year-olds.
@@ -49,7 +48,6 @@ The current debate on how Australia might make its way out of these economic woe
 
 ## **Australia’s key unique strengths**
 
-  
 Crucially, Australia has all the foundations to accelerate critical Australian industries by building on its world-class scientific expertise, high-value workforce, and national advantages if we make the right investments now:
 
 * it is among leading countries when it comes to volume and quality of research published in the fields of AI and computer science research.
@@ -67,7 +65,7 @@ Crucially, Australia has all the foundations to accelerate critical Australian i
 
 > **“Our future economic prosperity is hinged upon our ability to close the technology gap and foster a new age of digital transformation. This will open Australian businesses up to new and potential opportunities on the global stage.“**
 >
-> [**Reaching Australia’s digital potential in a post-Covid world **](https://www.governmentnews.com.au/type_contributors/reaching-australias-digital-potential-in-a-post-covid-world/)**_by Rupert Taylor-Price, board member of the Australian Information Industry Association (AIIA)_**
+> [Reaching Australia’s digital potential in a post-Covid world, ](https://www.governmentnews.com.au/type_contributors/reaching-australias-digital-potential-in-a-post-covid-world/)**_Rupert Taylor-Price, board member of the Australian Information Industry Association (AIIA)_**
 
 Prior to COVID-19, [technological innovation was estimated to have the potential to add **$315 billion** to the Australian economy in the decade to 2028.](https://www.csiro.au/en/News/News-releases/2018/Australias-315bn-opportunity)
 
