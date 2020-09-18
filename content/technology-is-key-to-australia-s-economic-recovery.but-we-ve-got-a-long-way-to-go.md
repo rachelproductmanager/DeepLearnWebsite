@@ -81,7 +81,7 @@ Yesterday, the CSIRO published the [COVID19: Resilience and Recovery Report](htt
 
 ## **How can Australia become a global technology powerhouse**
 
-> “Three decades of growth have masked rising structural impediments to productivity and innovation, which are potential barriers to the next three decades of growth and prosperity. Businesses, industries and government are at a critical cross-road – if we make the wrong choices, and don’t act now, the chance for economic rebound could be lost to Australia.”
+> **“Three decades of growth have masked rising structural impediments to productivity and innovation, which are potential barriers to the next three decades of growth and prosperity. Businesses, industries and government are at a critical cross-road – if we make the wrong choices, and don’t act now, the chance for economic rebound could be lost to Australia.”**
 >
 > **_-_**[**_BCG article “How to jump start Australia’s economic recovery”_**](https://www.bcg.com/en-au/industries/financial-institutions/australias-recovery-post-covid-19)
 
