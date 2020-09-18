@@ -4,7 +4,7 @@ date = 2020-09-17T14:00:00Z
 description = "Science and technology should become national priorities if we're going to emerge from the COVID crisis as winners."
 image = "/images/tech-central-3.jpg"
 tags = ["Technology"]
-title = "Technology is key to Australia's economic recovery. But we've got a long way to go."
+title = "Why tech is the only thing that will turbo charge Australia's economic recovery"
 type = "post"
 
 +++
