@@ -65,7 +65,7 @@ Crucially, Australia has all the foundations to accelerate critical Australian i
 
 ## **Why technology is the only way forward**
 
-> “Our future economic prosperity is hinged upon our ability to close the technology gap and foster a new age of digital transformation. This will open Australian businesses up to new and potential opportunities on the global stage.“
+> **“Our future economic prosperity is hinged upon our ability to close the technology gap and foster a new age of digital transformation. This will open Australian businesses up to new and potential opportunities on the global stage.“**
 >
 > **_-_** [**_Reaching Australia’s digital potential in a post-Covid world_**](https://www.governmentnews.com.au/type_contributors/reaching-australias-digital-potential-in-a-post-covid-world/) **_by Rupert Taylor-Price, board member of the Australian Information Industry Association (AIIA)_**
 
