@@ -36,7 +36,7 @@ According to the Productivity Commission, one way to improve productivity growth
 
 Deloitte Access Economics estimates that, **between 2005 and 2019, the productivity benefits from the growing digital economy increased Australia’s steady state GDP per capita by 6.5%.** This means that the adoption of digital technology during this period added an additional **$126 billion** to the Australian economy in 2019 - **more than the total value added of the entire construction industry in 2017–18** (according to ABS 2019 records). With the adoption of 5G and other emerging digital technologies, the contribution of digital to productivity will only grow.
 
-**There’s growth in the tech industry but it needs to accelerate**
+## **There’s growth in the tech industry but it needs to accelerate**
 
 Before the onset of COVID-19, the technology workforce in Australia displayed strong growth of 6.8% in a year. For comparison, The tech workforce has grown 1.5 times faster than the increase in professional occupations — pointing to continued strength in demand for technology workers across the economy.
 
@@ -48,8 +48,9 @@ Australia has fallen in rank for more than half of the indicators in the past tw
 
 The current debate on how Australia might make its way out of these economic woes has seen calls for [universal income guarantees](https://theconversation.com/forget-jobseeker-in-our-post-covid-economy-australia-needs-a-liveable-income-guarantee-instead-141535) and [increased government spending](https://stockhead.com.au/news/think-big-cba-says-australias-post-covid-economy-is-heading-towards-a-new-paradigm/). But, as some argue, jump starting Australia’s economy and making it robust enough to withstand inevitable future challenges require exceptional effort and extreme measures to be taken by government, industries and businesses. And many believe that **investment in technology, science and innovation is absolutely** [**key for recovery**](https://www.innovationaus.com/testing-a-new-commitment-to-science/)**.**
 
-**Australia’s key strengths**
+## **Australia’s key unique strengths**
 
+  
 Crucially, Australia has all the foundations to accelerate critical Australian industries by building on its world-class scientific expertise, high-value workforce, and national advantages if we make the right investments now:
 
 * it is among leading countries when it comes to volume and quality of research published in the fields of AI and computer science research.
@@ -63,7 +64,11 @@ Crucially, Australia has all the foundations to accelerate critical Australian i
 * strong reputation for quality and safety in food and agribusiness.
 * global excellence and critical mass in mining and metallurgical research, drawing on world-class facilities and researchers.
 
-**Why technology is the only way forward**
+## **Why technology is the only way forward**
+
+> “Our future economic prosperity is hinged upon our ability to close the technology gap and foster a new age of digital transformation. This will open Australian businesses up to new and potential opportunities on the global stage.“
+>
+> **_-_** [**_Reaching Australia’s digital potential in a post-Covid world_**](https://www.governmentnews.com.au/type_contributors/reaching-australias-digital-potential-in-a-post-covid-world/) **_by Rupert Taylor-Price, board member of the Australian Information Industry Association (AIIA)_**
 
 Prior to COVID-19, [technological innovation was estimated to have the potential to add **$315 billion** to the Australian economy in the decade to 2028.](https://www.csiro.au/en/News/News-releases/2018/Australias-315bn-opportunity)
 
@@ -71,13 +76,9 @@ As [BCG](https://www.bcg.com/en-au/industries/financial-institutions/australias-
 
 Yesterday, the CSIRO published the [COVID19: Resilience and Recovery Report](https://www.csiro.au/en/Do-business/Futures/Reports/Innovation-and-business-growth/COVID-19-recovery-resilience). In it, [Dr Larry Marshall, CSIRO Chief, argues](https://ia.acs.org.au/article/2020/science--tech-key-to-australia-s-post-covid-recovery.html) that we need to double down on Australian innovation” in science and technology to emerge from the pandemic-led recession in “a much stronger position”. According to the report, the speed and scope of post-COVID recovery will hinge on five pillars including investment in science; adoption of technology; growth of tech-based export industries; cultural shifts including workforce development and research-industry collaboration; and stronger emphasis on “triple-bottom-line outcomes”.
 
-“In the past, our Aussie ingenuity has reinvented wool in the face of synthetics entering the fabric industry, it’s reinvented cotton for an Australian climate, and it’s reinvented connectivity with fast WiFi. In fact, the same expertise that reinvented wool went on to reinvent carbon fibre, securing Australia’s own secret recipe for the next‑generation material. We’ve supported existing industries to pivot, small and medium businesses to grow, and new start-ups to thrive. We’ve created jobs, built careers, and inspired generations to change the world around them through science and technology. We’ve been proud innovators. Today more than ever, science and technology are vital to drive our recovery from the pandemic-led recession and build our future resilience. Crucially, investment in innovation can deliver both short-term shots in the arm from commercialisation of market-ready technologies, and longer-term job creation and growth from burgeoning breakthroughs and nascent new industries.”
-
-* Larry Marshal, Chief Executive, CSIRO
-
-**“Our future economic prosperity is hinged upon our ability to close the technology gap and foster a new age of digital transformation. This will open Australian businesses up to new and potential opportunities on the global stage.“**
-
-**_-_** [**_Reaching Australia’s digital potential in a post-Covid world_**](https://www.governmentnews.com.au/type_contributors/reaching-australias-digital-potential-in-a-post-covid-world/) **_by Rupert Taylor-Price, board member of the Australian Information Industry Association (AIIA)_**
+> “In the past, our Aussie ingenuity has reinvented wool in the face of synthetics entering the fabric industry, it’s reinvented cotton for an Australian climate, and it’s reinvented connectivity with fast WiFi. In fact, the same expertise that reinvented wool went on to reinvent carbon fibre, securing Australia’s own secret recipe for the next‑generation material. We’ve supported existing industries to pivot, small and medium businesses to grow, and new start-ups to thrive. We’ve created jobs, built careers, and inspired generations to change the world around them through science and technology. We’ve been proud innovators. Today more than ever, science and technology are vital to drive our recovery from the pandemic-led recession and build our future resilience. Crucially, investment in innovation can deliver both short-term shots in the arm from commercialisation of market-ready technologies, and longer-term job creation and growth from burgeoning breakthroughs and nascent new industries.”
+>
+> **-_Larry Marshal, Chief Executive, CSIRO_**
 
 **How can Australia become a global technology powerhouse**
 
