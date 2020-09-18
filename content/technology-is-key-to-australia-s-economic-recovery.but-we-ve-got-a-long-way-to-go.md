@@ -67,7 +67,7 @@ Crucially, Australia has all the foundations to accelerate critical Australian i
 
 > **“Our future economic prosperity is hinged upon our ability to close the technology gap and foster a new age of digital transformation. This will open Australian businesses up to new and potential opportunities on the global stage.“**
 >
-> **-** [**Reaching Australia’s digital potential in a post-Covid world **](https://www.governmentnews.com.au/type_contributors/reaching-australias-digital-potential-in-a-post-covid-world/)**_by Rupert Taylor-Price, board member of the Australian Information Industry Association (AIIA)_**
+> [**Reaching Australia’s digital potential in a post-Covid world **](https://www.governmentnews.com.au/type_contributors/reaching-australias-digital-potential-in-a-post-covid-world/)**_by Rupert Taylor-Price, board member of the Australian Information Industry Association (AIIA)_**
 
 Prior to COVID-19, [technological innovation was estimated to have the potential to add **$315 billion** to the Australian economy in the decade to 2028.](https://www.csiro.au/en/News/News-releases/2018/Australias-315bn-opportunity)
 
