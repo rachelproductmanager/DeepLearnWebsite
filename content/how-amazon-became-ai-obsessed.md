@@ -5,7 +5,7 @@ description = "How Amazon transformed itself from a deep learning wannabe to a f
 image = "/images/180319-bezos.jpg"
 tags = ["Artificial Intelligence", "Amazon"]
 title = "How Amazon became AI-obsessed"
-type = "featured"
+type = "post"
 
 +++
 Amazon’s long reach is everywhere - the e-commerce giant is also a film and TV producer, cloud computing provider, fashion designer, wind-farm backer, innovative grocer, maker of smart speakers, builder of fulfilment centres on the moon and maker of cutting edge robotics (and there’s more on Amazon’s [DayOne blog](https://blog.aboutamazon.com/)). While Amazon’s indeed customer-obsessed, it’s also Artificial Intelligence obsessed.
