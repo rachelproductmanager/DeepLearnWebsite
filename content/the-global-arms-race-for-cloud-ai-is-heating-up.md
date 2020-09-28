@@ -5,7 +5,7 @@ description = "The global race for dominance in cloud AI is a game of dominance 
 image = "/images/zak-sakata-7wbfshwqdlk-unsplash.jpg"
 tags = ["Artificial Intelligence", "Cloud", "AI Platforms"]
 title = "The global race for the OS of the future"
-type = "featured"
+type = "post"
 
 +++
 Artificial Intelligence (AI) is at the heart of a fierce arms race taking place among the biggest public cloud providers, Amazon, Google & Microsoft. 
