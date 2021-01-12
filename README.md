@@ -12,7 +12,7 @@ I believe that AI and data are more than just a buzzwords. And definitely more t
 
 In the words of Kevin Kelly, founding executive editor of Wired magazine and technology writer:
 
-#We can expect future technologies such as artificial intelligence to unleash a barrage of new huge questions we could have never thought to ask before. In fact, it’s a safe bet that we have not asked our biggest questions yet. Answers are on their way to becoming a commodity. The role of humans, at least for a while, will be to ask questions. Great question creators will be seen, properly, as the engines that generate the new industries, new brands and new possibilities that our restless species can explore.”
+"We can expect future technologies such as artificial intelligence to unleash a barrage of new huge questions we could have never thought to ask before. In fact, it’s a safe bet that we have not asked our biggest questions yet. Answers are on their way to becoming a commodity. The role of humans, at least for a while, will be to ask questions. Great question creators will be seen, properly, as the engines that generate the new industries, new brands and new possibilities that our restless species can explore.”
 
 I hope DeepLearn inspires you to continuously learn, discover, create and ask questions. And do something great while you’re at it.
 
