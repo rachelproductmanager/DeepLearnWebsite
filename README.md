@@ -1,50 +1,21 @@
-# Hugo Parsa Forestry Starter
+Welcome to the DeepLearn: blog.
 
-[Hugo Parsa Theme developed by Themefischer](https://github.com/themefisher/parsa-hugo) for Forestry CMS.
+I’m an amateur coder, aspiring data scientist, ex-entrepreneur, technology enthusiast and recovering lawyer.
 
-![Parsa Theme Preview](static/images/screenshot.jpg)
+I started my career in 2001 in corporate law at a prominent global firm. After ten years in the corporate world, my interest in technology has led me down a different path, and I ended up honing my skills at a few smart, ambitious (and slightly chaotic) start-ups and growing tech companies that were busy building exciting products and taking names in the media, ad-tech, e-commerce and AR/VR/design software sectors on the London and global tech scene.
 
-Import to Forestry in one single click!
+In 2017, I ventured further into the unknown and started my own e-commerce company in Melbourne, on a mission to disrupt an age-old industry and create an innovative direct-to-consumer brand. 
 
-[![Import to Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=forestryio/hugo-parsa-forestry&engine=hugo&version=0.72.0)
+I’ve always been interested in data analysis and artificial intelligence and currently taking my first steps in Python and the world of data.
 
-## Prerequisites
+I believe that AI and data are more than just a buzzwords. And definitely more than just about technology. AI has sparked an important global conversation around anything from arts, ethics and philosophy, to cognitive science, biology, physics, psychology, politics and beyond. Data is they key to many industries' growth and prosperity. We’re living in strange but exciting times and there are many reasons to be hopeful about the future.
 
-- Hugo > 0.62.2
+In the words of Kevin Kelly, founding executive editor of Wired magazine and technology writer:
 
-## Content Management
+#We can expect future technologies such as artificial intelligence to unleash a barrage of new huge questions we could have never thought to ask before. In fact, it’s a safe bet that we have not asked our biggest questions yet. Answers are on their way to becoming a commodity. The role of humans, at least for a while, will be to ask questions. Great question creators will be seen, properly, as the engines that generate the new industries, new brands and new possibilities that our restless species can explore.”
 
-![Forestry user interface](static/images/hugo-parsa-forestry.jpg)
+I hope DeepLearn inspires you to continuously learn, discover, create and ask questions. And do something great while you’re at it.
 
-This project has been pre-configured to work with [Forestry](https://forestry.io), just import your repository ✨. \
-Any changes you make will be commited back to the repo, and deployed if you're using Netlify.
+Thanks for reading,
 
-## Customization
-
-You can customize the theme through the [`config.toml` file](https://github.com/forestryio/hugo-parsa-forestry/blob/master/config.toml). Those values are accessible from within Forestry.
-
-## Deployment and hosting with Netlify
-
-Import your site in [Netlify](https://netlify.com)
-
-1. Create a new site in Netlify and import your repository.
-2. Set the build command to: `hugo --gc --minify`
-3. Set the publish directory to: `public`
-4. Set `HUGO_VERSION` to `0.72.0`
-
-That's it, now your site gets deployed automatically on `git push` or when saving documents from Forestry.
-
-## Development
-
-```bash
-# clone the repository
-git clone --recurse-submodules git@github.com:forestryio/hugo-parsa-forestry.git
-
-# cd in the project directory
-cd hugo-parsa-forestry
-
-# Start local dev server
-hugo server
-```
-
-For more information, see [official Hugo documentation](https://gohugo.io/getting-started/).
+Rachel
